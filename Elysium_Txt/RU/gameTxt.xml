@@ -3048,50 +3048,5 @@ Mana Costs: {MANACOSTS}</Txt>
         </GameElement>
       </listElements>
     </GameScene>
-    <GameScene Category="Scene UI Elements">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Other UI Elements">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Items">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Quests">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Skills">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Scene UI Elements">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Other UI Elements">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Items">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Quests">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Skills">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Scene UI Elements">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Other UI Elements">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Items">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Quests">
-      <listElements />
-    </GameScene>
-    <GameScene Category="Skills">
-      <listElements />
-    </GameScene>
   </gameScenes>
 </TranslationSystem>
