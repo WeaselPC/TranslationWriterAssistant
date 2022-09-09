@@ -4,68 +4,67 @@
     <GameScene Category="Scene UI Elements">
       <listElements>
         <GameElement ID="Help me !">
-          <Txt>Help me !</Txt>
+          <Txt>Pomóż mi!</Txt>
         </GameElement>
         <GameElement ID="If you are new to the game, just enter your informations &amp; click Start Playing !">
-          <Txt>If you are new to the game, just enter your informations &amp; click Start Playing !</Txt>
+          <Txt>Jeśli jesteś nowy, wpisz informacje &amp; zacznij grać!</Txt>
         </GameElement>
         <GameElement ID="Asia">
-          <Txt>Asia</Txt>
+          <Txt>Azja</Txt>
         </GameElement>
         <GameElement ID="Wiki">
-          <Txt>Wiki</Txt>
+          <Txt>Wikipedia</Txt>
         </GameElement>
         <GameElement ID="Enter message...">
-          <Txt>Enter message...</Txt>
+          <Txt>Wpisz wiadomość...</Txt>
         </GameElement>
         <GameElement ID="Send">
-          <Txt>Send</Txt>
+          <Txt>Wyślij</Txt>
         </GameElement>
         <GameElement ID="Quit">
-          <Txt>Quit</Txt>
+          <Txt>Wyjście</Txt>
         </GameElement>
         <GameElement ID="Party Invite">
-          <Txt>Party Invite</Txt>
+          <Txt>Zaproszenie do drużyny</Txt>
         </GameElement>
         <GameElement ID="Server:">
-          <Txt>Server:</Txt>
+          <Txt>Serwer:</Txt>
         </GameElement>
         <GameElement ID="Recover &#xA;password">
-          <Txt>Recover 
-password</Txt>
+          <Txt>Odzyskaj hasło</Txt>
         </GameElement>
         <GameElement ID="Trade">
-          <Txt>Trade</Txt>
+          <Txt>Handel</Txt>
         </GameElement>
         <GameElement ID="[Skill Name]">
-          <Txt>[Skill Name]</Txt>
+          <Txt>Nazwa Czaru</Txt>
         </GameElement>
         <GameElement ID="Guild Invite">
-          <Txt>Guild Invite</Txt>
+          <Txt>Zaproszenie do Gildii</Txt>
         </GameElement>
         <GameElement ID="America">
-          <Txt>America</Txt>
+          <Txt>Ameryka</Txt>
         </GameElement>
         <GameElement ID="Start Playing">
-          <Txt>Start Playing</Txt>
+          <Txt>Zacznij Grać</Txt>
         </GameElement>
         <GameElement ID="Name">
-          <Txt>Name</Txt>
+          <Txt>Nazwa</Txt>
         </GameElement>
         <GameElement ID="Password:">
-          <Txt>Password:</Txt>
+          <Txt>Hasło:</Txt>
         </GameElement>
         <GameElement ID="Europe">
-          <Txt>Europe</Txt>
+          <Txt>Europa</Txt>
         </GameElement>
         <GameElement ID="Enter text...">
-          <Txt>Enter text...</Txt>
+          <Txt>Wpisz tekst...</Txt>
         </GameElement>
         <GameElement ID="Username:">
-          <Txt>Username:</Txt>
+          <Txt>Nazwa użytkownika:</Txt>
         </GameElement>
         <GameElement ID="Credit">
-          <Txt>Credit</Txt>
+          <Txt>Stworzone przez</Txt>
         </GameElement>
       </listElements>
     </GameScene>
@@ -129,9 +128,6 @@ password</Txt>
         <GameElement ID="Diamonds">
           <Txt>Diamonds</Txt>
         </GameElement>
-        <GameElement ID="Essence Staff">
-          <Txt>Essence Staff</Txt>
-        </GameElement>
         <GameElement ID="Equipment Health / Damage Bonus">
           <Txt>Equipment Health / Damage Bonus</Txt>
         </GameElement>
@@ -140,9 +136,6 @@ password</Txt>
         </GameElement>
         <GameElement ID="Already started">
           <Txt>Already started</Txt>
-        </GameElement>
-        <GameElement ID="Spawn Scroll">
-          <Txt>Spawn Scroll</Txt>
         </GameElement>
         <GameElement ID="Craft (100%)">
           <Txt>Craft (100%)</Txt>
@@ -1047,6 +1040,9 @@ Amount: {AMOUNT}
 Price: {BUYPRICE} Gold
 &lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
         </GameElement>
+        <GameElement ID="Essence Staff">
+          <Txt>Essence Staff</Txt>
+        </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;This staff seems old, but still full of powerfull energy. It is unclear how this energy can be released, but the simple siping of it's magic is already making you more powerfull&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
 This staff seems old, but still full of powerfull energy. It is unclear how this energy can be released, but the simple siping of it's magic is already making you more powerfull
@@ -1648,6 +1644,9 @@ Tradable: {TRADABLE}
 
 Amount: {AMOUNT}
 &lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+        </GameElement>
+        <GameElement ID="Spawn Scroll">
+          <Txt>Spawn Scroll</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A magic scroll, powerfull yet very common item created by gods to help fallen heroes have an easier time in the Elysium field, way before the war started. This one seem to have a weird drawing on it. Perhaps a map ? it does not represent the Elysians fields however.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Destination : {TPNAME}&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
