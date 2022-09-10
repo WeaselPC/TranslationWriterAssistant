@@ -4,10 +4,10 @@
     <GameScene Category="Scene UI Elements">
       <listElements>
         <GameElement ID="Register">
-          <Txt>Register</Txt>
+          <Txt>Rejestracja</Txt>
         </GameElement>
         <GameElement ID="Lv. 0">
-          <Txt>Lv. 0</Txt>
+          <Txt>Poziom 0</Txt>
         </GameElement>
         <GameElement ID="Enter message...">
           <Txt>Wpisz wiadomość...</Txt>
@@ -16,10 +16,10 @@
           <Txt>Wyślij</Txt>
         </GameElement>
         <GameElement ID="Local">
-          <Txt>Local</Txt>
+          <Txt>Lokalny</Txt>
         </GameElement>
         <GameElement ID="Global">
-          <Txt>Global</Txt>
+          <Txt>Globalny</Txt>
         </GameElement>
         <GameElement ID="Name">
           <Txt>Nazwa</Txt>
@@ -34,636 +34,635 @@
           <Txt>Zaproszenie do drużyny</Txt>
         </GameElement>
         <GameElement ID="Inventory">
-          <Txt>Inventory</Txt>
+          <Txt>Ekwipunek</Txt>
         </GameElement>
         <GameElement ID="Weapon">
-          <Txt>Weapon</Txt>
+          <Txt>Broń</Txt>
         </GameElement>
         <GameElement ID="Head">
-          <Txt>Head</Txt>
+          <Txt>Głowa</Txt>
         </GameElement>
         <GameElement ID="Chest">
-          <Txt>Chest</Txt>
+          <Txt>Zbroja</Txt>
         </GameElement>
         <GameElement ID="Legs">
-          <Txt>Legs</Txt>
+          <Txt>Spodnie</Txt>
         </GameElement>
         <GameElement ID="Shield">
-          <Txt>Shield</Txt>
+          <Txt>Tarcza</Txt>
         </GameElement>
         <GameElement ID="Hands">
-          <Txt>Hands</Txt>
+          <Txt>Ręce</Txt>
         </GameElement>
         <GameElement ID="Gold:">
-          <Txt>Gold:</Txt>
+          <Txt>Złoto:</Txt>
         </GameElement>
         <GameElement ID="Bet:">
-          <Txt>Bet:</Txt>
+          <Txt>Zakład:</Txt>
         </GameElement>
         <GameElement ID="See&#xA;Skins">
-          <Txt>See
-Skins</Txt>
+          <Txt>Zobacz wygląd</Txt>
         </GameElement>
         <GameElement ID="Upgrade">
-          <Txt>Upgrade</Txt>
+          <Txt>Ulepsz</Txt>
         </GameElement>
         <GameElement ID="Skills">
-          <Txt>Skills</Txt>
+          <Txt>Umiejętności</Txt>
         </GameElement>
         <GameElement ID="Available Skill Exp.:">
-          <Txt>Available Skill Exp.:</Txt>
+          <Txt>Dostępne punkty rozwoju</Txt>
         </GameElement>
         <GameElement ID="reset">
-          <Txt>reset</Txt>
+          <Txt>Resetuj</Txt>
         </GameElement>
         <GameElement ID="Character Info">
-          <Txt>Character Info</Txt>
+          <Txt>Informacje o postaci</Txt>
         </GameElement>
         <GameElement ID="Stats">
-          <Txt>Stats</Txt>
+          <Txt>Statystyki</Txt>
         </GameElement>
         <GameElement ID="Damage:">
-          <Txt>Damage:</Txt>
+          <Txt>Obrażenia:</Txt>
         </GameElement>
         <GameElement ID="Defense:">
-          <Txt>Defense:</Txt>
+          <Txt>Obrona:</Txt>
         </GameElement>
         <GameElement ID="Max. Health:">
-          <Txt>Max. Health:</Txt>
+          <Txt>Maksymalne życie</Txt>
         </GameElement>
         <GameElement ID="Max. Mana:">
-          <Txt>Max. Mana:</Txt>
+          <Txt>Maksymalna mana</Txt>
         </GameElement>
         <GameElement ID="Critical:">
-          <Txt>Critical:</Txt>
+          <Txt>Szansa na krytyka:</Txt>
         </GameElement>
         <GameElement ID="Block:">
-          <Txt>Block:</Txt>
+          <Txt>Szansa na blok:</Txt>
         </GameElement>
         <GameElement ID="Speed:">
-          <Txt>Speed:</Txt>
+          <Txt>Prędkość:</Txt>
         </GameElement>
         <GameElement ID="Level:">
-          <Txt>Level:</Txt>
+          <Txt>Poziom:</Txt>
         </GameElement>
         <GameElement ID="Exp. cur:">
-          <Txt>Exp. cur:</Txt>
+          <Txt>Doświadczenie</Txt>
         </GameElement>
         <GameElement ID="Exp. max.:">
-          <Txt>Exp. max.:</Txt>
+          <Txt>Maksymalne doświadczenie</Txt>
         </GameElement>
         <GameElement ID="Skill Exp.:">
-          <Txt>Skill Exp.:</Txt>
+          <Txt>Doświadczenie Umiejętności</Txt>
         </GameElement>
         <GameElement ID="Attributes">
-          <Txt>Attributes</Txt>
+          <Txt>Atrybuty
+</Txt>
         </GameElement>
         <GameElement ID="Intelligence:">
-          <Txt>Intelligence:</Txt>
+          <Txt>Inteligencja</Txt>
         </GameElement>
         <GameElement ID="Strength:">
-          <Txt>Strength:</Txt>
+          <Txt>Siła:</Txt>
         </GameElement>
         <GameElement ID="Precision:">
-          <Txt>Precision:</Txt>
+          <Txt>Precyzja</Txt>
         </GameElement>
         <GameElement ID="Constitution:">
-          <Txt>Constitution:</Txt>
+          <Txt>Konstytucja:</Txt>
         </GameElement>
         <GameElement ID="Crafting">
-          <Txt>Crafting</Txt>
+          <Txt>Tworzenie</Txt>
         </GameElement>
         <GameElement ID="Page 1/1">
-          <Txt>Page 1/1</Txt>
+          <Txt>Strona 1/1</Txt>
         </GameElement>
         <GameElement ID="Spawn Scroll">
-          <Txt>Spawn Scroll</Txt>
+          <Txt>Zwój odrodzenia</Txt>
         </GameElement>
         <GameElement ID="Craft (100%)">
-          <Txt>Craft (100%)</Txt>
+          <Txt>Tworzenie (100%)</Txt>
         </GameElement>
         <GameElement ID="Crafting...">
-          <Txt>Crafting...</Txt>
+          <Txt>Wytwarzenie...</Txt>
         </GameElement>
         <GameElement ID="CRAFT SUCCESFULL !">
-          <Txt>CRAFT SUCCESFULL !</Txt>
+          <Txt>Wytwarzanie pomyślne !</Txt>
         </GameElement>
         <GameElement ID="ITEM NAME&#xA;(1/5)">
           <Txt>ITEM NAME
 (1/5)</Txt>
         </GameElement>
         <GameElement ID="CRAFT FAILED :(">
-          <Txt>CRAFT FAILED :(</Txt>
+          <Txt>Wytwarzanie nie powiodło się ! :(</Txt>
         </GameElement>
         <GameElement ID="ITEM NAME">
           <Txt>ITEM NAME</Txt>
         </GameElement>
         <GameElement ID="Map Panel">
-          <Txt>Map Panel</Txt>
+          <Txt>Mapa</Txt>
         </GameElement>
         <GameElement ID="ZOOM">
-          <Txt>ZOOM</Txt>
+          <Txt>Przybliż</Txt>
         </GameElement>
         <GameElement ID="Name of the Island:">
-          <Txt>Name of the Island:</Txt>
+          <Txt>Nazwa wyspy</Txt>
         </GameElement>
         <GameElement ID="Elysian Field">
-          <Txt>Elysian Field</Txt>
+          <Txt>Pole Elizejskie</Txt>
         </GameElement>
         <GameElement ID="Guild Panel">
-          <Txt>Guild Panel</Txt>
+          <Txt>Panel gildii</Txt>
         </GameElement>
         <GameElement ID="Guild Master:">
-          <Txt>Guild Master:</Txt>
+          <Txt>Mistrz Gildii:</Txt>
         </GameElement>
         <GameElement ID="Capacity:">
-          <Txt>Capacity:</Txt>
+          <Txt>Pojemność:</Txt>
         </GameElement>
         <GameElement ID="Notice:">
-          <Txt>Notice:</Txt>
+          <Txt>Uwaga:</Txt>
         </GameElement>
         <GameElement ID="Enter notice...">
-          <Txt>Enter notice...</Txt>
+          <Txt>Dodaj notatke...</Txt>
         </GameElement>
         <GameElement ID="Edit">
-          <Txt>Edit</Txt>
+          <Txt>Edytuj</Txt>
         </GameElement>
         <GameElement ID="Set">
-          <Txt>Set</Txt>
+          <Txt>Ustaw</Txt>
         </GameElement>
         <GameElement ID="Member">
-          <Txt>Member</Txt>
+          <Txt>Członek</Txt>
         </GameElement>
         <GameElement ID="Lv.">
-          <Txt>Lv.</Txt>
+          <Txt>Poziom</Txt>
         </GameElement>
         <GameElement ID="Rank">
-          <Txt>Rank</Txt>
+          <Txt>Ranga</Txt>
         </GameElement>
         <GameElement ID="Action">
-          <Txt>Action</Txt>
+          <Txt>Akcja</Txt>
         </GameElement>
         <GameElement ID="Leave Guild">
-          <Txt>Leave Guild</Txt>
+          <Txt>Opuść Gildię</Txt>
         </GameElement>
         <GameElement ID="Popup">
           <Txt>Popup</Txt>
         </GameElement>
         <GameElement ID="Are you sure you want to leave your guild ?">
-          <Txt>Are you sure you want to leave your guild ?</Txt>
+          <Txt>Czy na pewno chcesz opuścić swoją gildię?</Txt>
         </GameElement>
         <GameElement ID="YES !">
-          <Txt>YES !</Txt>
+          <Txt>TAK !</Txt>
         </GameElement>
         <GameElement ID="NO !">
-          <Txt>NO !</Txt>
+          <Txt>NIE !</Txt>
         </GameElement>
         <GameElement ID="You can't leave your guild as the Guild Master !&#xA;Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.&#xA;">
-          <Txt>You can't leave your guild as the Guild Master !
-Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.
-</Txt>
+          <Txt>Nie możesz opuścić swojej gildii jako Guild Master!
+Udaj się do NPC, który zajmuje się zarządzaniem NPC, jeśli chcesz go zakończyć, lub wybierz innego członka na nowego mistrza gildii.</Txt>
         </GameElement>
         <GameElement ID="You can't leave your guild as the Guild Master !&#xA;">
-          <Txt>You can't leave your guild as the Guild Master !
-</Txt>
+          <Txt>Nie możesz opuścić swojej gildii jako Guild Master!</Txt>
         </GameElement>
         <GameElement ID="OK !">
           <Txt>OK !</Txt>
         </GameElement>
         <GameElement ID="New Text">
-          <Txt>New Text</Txt>
+          <Txt>Nowy tekst</Txt>
         </GameElement>
         <GameElement ID="You do not have a guild">
-          <Txt>You do not have a guild</Txt>
+          <Txt>Nie masz gildii</Txt>
         </GameElement>
         <GameElement ID="To enter a guild, create one at the shopkeeper&#xA;or join another player's guild !">
-          <Txt>To enter a guild, create one at the shopkeeper
-or join another player's guild !</Txt>
+          <Txt>Aby dołączyć do gildii, utwórz ją u sklepikarza
+lub dołącz do gildii innego gracza!</Txt>
         </GameElement>
         <GameElement ID="Shop">
-          <Txt>Shop</Txt>
+          <Txt>Sklep</Txt>
         </GameElement>
         <GameElement ID="Categories:">
-          <Txt>Categories:</Txt>
+          <Txt>Kategorie:</Txt>
         </GameElement>
         <GameElement ID="CHANGE APPEARANCE">
-          <Txt>CHANGE APPEARANCE</Txt>
+          <Txt>ZMIEŃ WYGLĄD</Txt>
         </GameElement>
         <GameElement ID="Overview:">
-          <Txt>Overview:</Txt>
+          <Txt>Przegląd</Txt>
         </GameElement>
         <GameElement ID="Lv. 100">
-          <Txt>Lv. 100</Txt>
+          <Txt>Poziom 100</Txt>
         </GameElement>
         <GameElement ID="Diamonds">
-          <Txt>Diamonds</Txt>
+          <Txt>Diamenty</Txt>
         </GameElement>
         <GameElement ID="Buy Diamonds">
-          <Txt>Buy Diamonds</Txt>
+          <Txt>Kup Diamenty</Txt>
         </GameElement>
         <GameElement ID="Diamonds are NOT an IG currency. They can only be used to buy appearance items.">
-          <Txt>Diamonds are NOT an IG currency. They can only be used to buy appearance items.</Txt>
+          <Txt>Diamenty NIE są walutą IG. Można ich używać tylko do kupowania przedmiotów wyglądu.</Txt>
         </GameElement>
         <GameElement ID="buy">
-          <Txt>buy</Txt>
+          <Txt>kup</Txt>
         </GameElement>
         <GameElement ID="10 Diamonds">
-          <Txt>10 Diamonds</Txt>
+          <Txt>10 Diamentów</Txt>
         </GameElement>
         <GameElement ID="50 Diamonds">
-          <Txt>50 Diamonds</Txt>
+          <Txt>50 Diamentów</Txt>
         </GameElement>
         <GameElement ID="100 Diamonds">
-          <Txt>100 Diamonds</Txt>
+          <Txt>100 Diamentów</Txt>
         </GameElement>
         <GameElement ID="Character Edition">
-          <Txt>Character Edition</Txt>
+          <Txt>Edycja postaci</Txt>
         </GameElement>
         <GameElement ID="Chose new appearance">
-          <Txt>Chose new appearance</Txt>
+          <Txt>Zmień wygląd</Txt>
         </GameElement>
         <GameElement ID="Cancel">
-          <Txt>Cancel</Txt>
+          <Txt>Anuluj</Txt>
         </GameElement>
         <GameElement ID="Loot">
-          <Txt>Loot</Txt>
+          <Txt>Zbierz</Txt>
         </GameElement>
         <GameElement ID="Gold">
-          <Txt>Gold</Txt>
+          <Txt>Złoto</Txt>
         </GameElement>
         <GameElement ID="Loot All">
-          <Txt>Loot All</Txt>
+          <Txt>ipunek</Txt>
         </GameElement>
         <GameElement ID="Player Trading">
-          <Txt>Player Trading</Txt>
+          <Txt>Handel z graczem</Txt>
         </GameElement>
         <GameElement ID="Player's Offer:">
-          <Txt>Player's Offer:</Txt>
+          <Txt>Oferta Gracza:</Txt>
         </GameElement>
         <GameElement ID="My Offer:">
-          <Txt>My Offer:</Txt>
+          <Txt>Moja Oferta</Txt>
         </GameElement>
         <GameElement ID="Enter amount...">
-          <Txt>Enter amount...</Txt>
+          <Txt>Wpisz ilość...</Txt>
         </GameElement>
         <GameElement ID="Lock">
-          <Txt>Lock</Txt>
+          <Txt>Zablokuj</Txt>
         </GameElement>
         <GameElement ID="Accept">
-          <Txt>Accept</Txt>
+          <Txt>Akceptuj</Txt>
         </GameElement>
         <GameElement ID="Quests">
-          <Txt>Quests</Txt>
+          <Txt>Zadania</Txt>
         </GameElement>
         <GameElement ID="NAME">
-          <Txt>NAME</Txt>
+          <Txt>NAZWA</Txt>
         </GameElement>
         <GameElement ID="rewards:">
-          <Txt>rewards:</Txt>
+          <Txt>nagrody:</Txt>
         </GameElement>
         <GameElement ID="Complete Quest">
-          <Txt>Complete Quest</Txt>
+          <Txt>Ukończ Zadanie</Txt>
         </GameElement>
         <GameElement ID="Chose a quest ">
-          <Txt>Chose a quest </Txt>
+          <Txt>Wybierz zadanie</Txt>
         </GameElement>
         <GameElement ID="Party">
-          <Txt>Party</Txt>
+          <Txt>Grupa</Txt>
         </GameElement>
         <GameElement ID="Exp. Auto Share">
-          <Txt>Exp. Auto Share</Txt>
+          <Txt>Dzielenie doświadczenia</Txt>
         </GameElement>
         <GameElement ID="Gold Auto Share">
-          <Txt>Gold Auto Share</Txt>
+          <Txt>Dzielenie Złota</Txt>
         </GameElement>
         <GameElement ID="Ico">
           <Txt>Ico</Txt>
         </GameElement>
         <GameElement ID="Guild">
-          <Txt>Guild</Txt>
+          <Txt>Gildia</Txt>
         </GameElement>
         <GameElement ID="Faction Panel">
-          <Txt>Faction Panel</Txt>
+          <Txt>Panel Frakcji</Txt>
         </GameElement>
         <GameElement ID="CHOSE WHO YOU WANT TO FIGHT FOR !">
-          <Txt>CHOSE WHO YOU WANT TO FIGHT FOR !</Txt>
+          <Txt>WYBIERZ DLA KOGO CHCESZ WALCZYĆ!</Txt>
         </GameElement>
         <GameElement ID="Zeus's Followers&#xA;&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;">
-          <Txt>Zeus's Followers
-&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;</Txt>
+          <Txt>Wyznawcy Zeusa
+&lt;color=#F0E68C&gt;Bóg nieba i piorunów&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Poseidons's Followers&#xA;&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;">
-          <Txt>Poseidons's Followers
-&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;</Txt>
+          <Txt>Wyznawcy Posejdona
+&lt;color=#ADD8E6&gt;Bóg morza i piorunów&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Faction Popup">
-          <Txt>Faction Popup</Txt>
+          <Txt>Wyskakujące okienko frakcji</Txt>
         </GameElement>
         <GameElement ID="Are you sure you want to join &lt;color=#ADD8E6&gt;Poseidon's Followers&lt;/color&gt; ?&#xA;&lt;color=#E00016&gt;You won't be able to change faction ever again !&lt;/color&gt;">
-          <Txt>Are you sure you want to join &lt;color=#ADD8E6&gt;Poseidon's Followers&lt;/color&gt; ?
-&lt;color=#E00016&gt;You won't be able to change faction ever again !&lt;/color&gt;</Txt>
+          <Txt>Czy na pewno chcesz dołączyć do &lt;color=#ADD8E6&gt;Wyznawców Posejdona&lt;/color&gt;?
+&lt;color=#E00016&gt;Nigdy więcej nie będziesz mógł zmienić frakcji!&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Accept !">
-          <Txt>Accept !</Txt>
+          <Txt>Akceptuj !</Txt>
         </GameElement>
         <GameElement ID="You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt; to integrate a faction !">
-          <Txt>You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt; to integrate a faction !</Txt>
+          <Txt>Aby dołączyć do frakcji, musisz mieć poziom &lt;color=#F0E68C&gt;20&lt;/color&gt;!</Txt>
         </GameElement>
         <GameElement ID="FACTION NAME">
-          <Txt>FACTION NAME</Txt>
+          <Txt>NAZWA FRAKCJI</Txt>
         </GameElement>
         <GameElement ID="Leading guild :">
-          <Txt>Leading guild :</Txt>
+          <Txt>Wiodąca gildia:</Txt>
         </GameElement>
         <GameElement ID="Leading guild name">
-          <Txt>Leading guild name</Txt>
+          <Txt>Wiodąca nazwa gildii</Txt>
         </GameElement>
         <GameElement ID="Power level :">
-          <Txt>Power level :</Txt>
+          <Txt>Poziom mocy :</Txt>
         </GameElement>
         <GameElement ID="power level">
-          <Txt>power level</Txt>
+          <Txt>poziom mocy</Txt>
         </GameElement>
         <GameElement ID="Actual leader :">
-          <Txt>Actual leader :</Txt>
+          <Txt>Aktualny lider:</Txt>
         </GameElement>
         <GameElement ID="Leader name">
-          <Txt>Leader name</Txt>
+          <Txt>Nazwa Lidera</Txt>
         </GameElement>
         <GameElement ID="Time In power:">
-          <Txt>Time In power:</Txt>
+          <Txt>Czas w mocy:</Txt>
         </GameElement>
         <GameElement ID="time">
-          <Txt>time</Txt>
+          <Txt>czas</Txt>
         </GameElement>
         <GameElement ID="Change Leader">
-          <Txt>Change Leader</Txt>
+          <Txt>Zmień Lidera</Txt>
         </GameElement>
         <GameElement ID="Enter the ARENA">
-          <Txt>Enter the ARENA</Txt>
+          <Txt>Wejdź do ARENY</Txt>
         </GameElement>
         <GameElement ID="Amount...">
-          <Txt>Amount...</Txt>
+          <Txt>Ilość...</Txt>
         </GameElement>
         <GameElement ID="Min:">
           <Txt>Min:</Txt>
         </GameElement>
         <GameElement ID="Max:">
-          <Txt>Max:</Txt>
+          <Txt>Maks:</Txt>
         </GameElement>
         <GameElement ID="10 gold = 1 %&#xA;1000 = 100 %&#xA;Of the bet of killed players">
-          <Txt>10 gold = 1 %
+          <Txt>10 złota = 1 %
 1000 = 100 %
-Of the bet of killed players</Txt>
+Zakładu zabitych graczy</Txt>
         </GameElement>
         <GameElement ID="! WELCOME TO THE ARENA !">
-          <Txt>! WELCOME TO THE ARENA !</Txt>
+          <Txt>! WITAJCIE NA ARENIE !</Txt>
         </GameElement>
         <GameElement ID="Chose your bet :">
-          <Txt>Chose your bet :</Txt>
+          <Txt>Wybierz swój zakład:</Txt>
         </GameElement>
         <GameElement ID="Enter the arena">
-          <Txt>Enter the arena</Txt>
+          <Txt>Wejdź na arenę</Txt>
         </GameElement>
         <GameElement ID="Npc Dialogue">
-          <Txt>Npc Dialogue</Txt>
+          <Txt>Dialog NPC</Txt>
         </GameElement>
         <GameElement ID="Welcome">
-          <Txt>Welcome</Txt>
+          <Txt>Powitanie</Txt>
         </GameElement>
         <GameElement ID="Buy / Sell Items">
-          <Txt>Buy / Sell Items</Txt>
+          <Txt>Kup / Sprzedaj przedmioty</Txt>
         </GameElement>
         <GameElement ID="Revive">
-          <Txt>Revive</Txt>
+          <Txt>Wskrześ</Txt>
         </GameElement>
         <GameElement ID="Access your storage">
-          <Txt>Access your storage</Txt>
+          <Txt>Magazyn</Txt>
         </GameElement>
         <GameElement ID="Repair">
-          <Txt>Repair</Txt>
+          <Txt>Napraw</Txt>
         </GameElement>
         <GameElement ID="Merge">
-          <Txt>Merge</Txt>
+          <Txt>Połącz</Txt>
         </GameElement>
         <GameElement ID="Leaderboard">
-          <Txt>Leaderboard</Txt>
+          <Txt>Ranking</Txt>
         </GameElement>
         <GameElement ID="Daily Quest">
-          <Txt>Daily Quest</Txt>
+          <Txt>Misja Dzienna</Txt>
         </GameElement>
         <GameElement ID="Auction House">
-          <Txt>Auction House</Txt>
+          <Txt>Market</Txt>
         </GameElement>
         <GameElement ID="Your storage">
-          <Txt>Your storage</Txt>
+          <Txt>Twój magazyn</Txt>
         </GameElement>
         <GameElement ID="Storage">
-          <Txt>Storage</Txt>
+          <Txt>Magazyn</Txt>
         </GameElement>
         <GameElement ID="Items for Sale:">
-          <Txt>Items for Sale:</Txt>
+          <Txt>Przedmioty na sprzedaż</Txt>
         </GameElement>
         <GameElement ID="Only show &#xA;usable Items">
-          <Txt>Only show 
-usable Items</Txt>
+          <Txt>Pokaż przemioty użytkowe</Txt>
         </GameElement>
         <GameElement ID="Only show &#xA;buyable Items">
-          <Txt>Only show 
-buyable Items</Txt>
+          <Txt>Pokaż przedmioty do kupienia</Txt>
         </GameElement>
         <GameElement ID="Everything">
-          <Txt>Everything</Txt>
+          <Txt>Wszystko</Txt>
         </GameElement>
         <GameElement ID="Basic Items">
-          <Txt>Basic Items</Txt>
+          <Txt>Podstawowe przedmioty</Txt>
         </GameElement>
         <GameElement ID="Equipments">
-          <Txt>Equipments</Txt>
+          <Txt>Ekwipunek</Txt>
         </GameElement>
         <GameElement ID="Category :">
-          <Txt>Category :</Txt>
+          <Txt>Kategoria :</Txt>
         </GameElement>
         <GameElement ID="Buy Item:">
-          <Txt>Buy Item:</Txt>
+          <Txt>Kup przedmiot</Txt>
         </GameElement>
         <GameElement ID="Enter text...">
           <Txt>Wpisz tekst...</Txt>
         </GameElement>
         <GameElement ID="Buy!">
-          <Txt>Buy!</Txt>
+          <Txt>Kup!</Txt>
         </GameElement>
         <GameElement ID="Sell Item:">
-          <Txt>Sell Item:</Txt>
+          <Txt>Sprzedaj przedmiot:</Txt>
         </GameElement>
         <GameElement ID="Sell!">
-          <Txt>Sell!</Txt>
+          <Txt>Sprzedaj!</Txt>
         </GameElement>
         <GameElement ID="Npc Guild Management">
-          <Txt>Npc Guild Management</Txt>
+          <Txt>Zarządzanie gildią NPC</Txt>
         </GameElement>
         <GameElement ID="Create Guild :">
-          <Txt>Create Guild :</Txt>
+          <Txt>Utwórz gildię:</Txt>
         </GameElement>
         <GameElement ID="Enter name...">
-          <Txt>Enter name...</Txt>
+          <Txt>Wpisz nazwę...</Txt>
         </GameElement>
         <GameElement ID="Create">
-          <Txt>Create</Txt>
+          <Txt>Utwórz</Txt>
         </GameElement>
         <GameElement ID="Price:">
-          <Txt>Price:</Txt>
+          <Txt>Cena:</Txt>
         </GameElement>
         <GameElement ID="Name:">
-          <Txt>Name:</Txt>
+          <Txt>Nazwa:</Txt>
         </GameElement>
         <GameElement ID="! Remember !&#xA;You can't create a guild if you already are in one !">
-          <Txt>! Remember !
-You can't create a guild if you already are in one !</Txt>
+          <Txt>! Pamiętaj !
+Nie możesz stworzyć gildii, jeśli już w niej jesteś!</Txt>
         </GameElement>
         <GameElement ID="Are you sure you want to terminate your guild ?">
-          <Txt>Are you sure you want to terminate your guild ?</Txt>
+          <Txt>Czy na pewno chcesz rozwiązać swoją gildię?</Txt>
         </GameElement>
         <GameElement ID="Terminate Guild :">
-          <Txt>Terminate Guild :</Txt>
+          <Txt>Zlikwiduj gildię:</Txt>
         </GameElement>
         <GameElement ID="Terminate Guild">
-          <Txt>Terminate Guild</Txt>
+          <Txt>Zlikwiduj gildię</Txt>
         </GameElement>
         <GameElement ID="Npc Quests">
-          <Txt>Npc Quests</Txt>
+          <Txt>Zadanie NPC</Txt>
         </GameElement>
         <GameElement ID="Button">
-          <Txt>Button</Txt>
+          <Txt>Przycisk</Txt>
         </GameElement>
         <GameElement ID="see guild">
-          <Txt>see guild</Txt>
+          <Txt>Zobacz gldie</Txt>
         </GameElement>
         <GameElement ID="Revive Pet">
-          <Txt>Revive Pet</Txt>
+          <Txt>Ożyw zwierzaka</Txt>
         </GameElement>
         <GameElement ID="Drag your summonable item in here to revive it!">
-          <Txt>Drag your summonable item in here to revive it!</Txt>
+          <Txt>Przeciągnij tutaj swój przedmiot do przywołania, aby go ożywić!</Txt>
         </GameElement>
         <GameElement ID="Repair your equipment">
-          <Txt>Repair your equipment</Txt>
+          <Txt>
+Napraw swój sprzęt</Txt>
         </GameElement>
         <GameElement ID="Item to repair :">
-          <Txt>Item to repair :</Txt>
+          <Txt>Przedmiot do naprawy:</Txt>
         </GameElement>
         <GameElement ID="Merge equipment">
-          <Txt>Merge equipment</Txt>
+          <Txt>Scal sprzęt</Txt>
         </GameElement>
         <GameElement ID="Your Gold:">
-          <Txt>Your Gold:</Txt>
+          <Txt>Twoje złoto:</Txt>
         </GameElement>
         <GameElement ID="Merge Chance :">
-          <Txt>Merge Chance :</Txt>
+          <Txt>Szansa na połączenie :</Txt>
         </GameElement>
         <GameElement ID="Reset">
-          <Txt>Reset</Txt>
+          <Txt>Resetuj</Txt>
         </GameElement>
         <GameElement ID="MERGE SUCCESFULL !">
-          <Txt>MERGE SUCCESFULL !</Txt>
+          <Txt>POŁĄCZENIE UDAŁO SIĘ!</Txt>
         </GameElement>
         <GameElement ID="+ X EQUIPMENT HEALTH">
-          <Txt>+ X EQUIPMENT HEALTH</Txt>
+          <Txt>+ X ZDROWIE SPRZĘTU</Txt>
         </GameElement>
         <GameElement ID="MERGE FAILED :(">
-          <Txt>MERGE FAILED :(</Txt>
+          <Txt>Scalanie nie powiodło się :(</Txt>
         </GameElement>
         <GameElement ID="Npc Daily Quests">
-          <Txt>Npc Daily Quests</Txt>
+          <Txt>Codzienne misje NPC</Txt>
         </GameElement>
         <GameElement ID="Finding a new quest...">
-          <Txt>Finding a new quest...</Txt>
+          <Txt>Szukanie nowego zadania...</Txt>
         </GameElement>
         <GameElement ID="You already received your daily quest :(">
-          <Txt>You already received your daily quest :(</Txt>
+          <Txt>Otrzymałeś już swoje codzienne zadanie :(</Txt>
         </GameElement>
         <GameElement ID="Search:">
-          <Txt>Search:</Txt>
+          <Txt>Szukaj:</Txt>
         </GameElement>
         <GameElement ID="Price">
-          <Txt>Price</Txt>
+          <Txt>Cena</Txt>
         </GameElement>
         <GameElement ID="Sell">
-          <Txt>Sell</Txt>
+          <Txt>Sprzedaj</Txt>
         </GameElement>
         <GameElement ID="for ">
-          <Txt>for </Txt>
+          <Txt>Za</Txt>
         </GameElement>
         <GameElement ID="Amount">
-          <Txt>Amount</Txt>
+          <Txt>Ilość</Txt>
         </GameElement>
         <GameElement ID="Message">
-          <Txt>Message</Txt>
+          <Txt>Wiadmość</Txt>
         </GameElement>
         <GameElement ID="Got it!">
-          <Txt>Got it!</Txt>
+          <Txt>Rozumiem!</Txt>
         </GameElement>
         <GameElement ID="Guild Invitation">
-          <Txt>Guild Invitation</Txt>
+          <Txt>Zaproszenie do gildi</Txt>
         </GameElement>
         <GameElement ID="Decline">
-          <Txt>Decline</Txt>
+          <Txt>Odrzuć</Txt>
         </GameElement>
         <GameElement ID="Has invited you to their Guild.">
-          <Txt>Has invited you to their Guild.</Txt>
+          <Txt>Zaprosił cię do swojej Gildii.</Txt>
         </GameElement>
         <GameElement ID="Ignore all further requests from this user">
-          <Txt>Ignore all further requests from this user</Txt>
+          <Txt>Zignoruj ​​wszystkie dalsze prośby od tego użytkownika</Txt>
         </GameElement>
         <GameElement ID="Player Trade Request">
-          <Txt>Player Trade Request</Txt>
+          <Txt>Prośba o handel</Txt>
         </GameElement>
         <GameElement ID="Wants to trade with you!">
-          <Txt>Wants to trade with you!</Txt>
+          <Txt>Chce z tobą handlować!</Txt>
         </GameElement>
         <GameElement ID="Party Invitation">
-          <Txt>Party Invitation</Txt>
+          <Txt>Zaproszenie do grupy</Txt>
         </GameElement>
         <GameElement ID="Has invited you to their Party.">
-          <Txt>Has invited you to their Party.</Txt>
+          <Txt>Zaprosił cię do swojej grupy.</Txt>
         </GameElement>
         <GameElement ID="Respawn">
-          <Txt>Respawn</Txt>
+          <Txt>Odrodzenie</Txt>
         </GameElement>
         <GameElement ID="You Died :(">
-          <Txt>You Died :(</Txt>
+          <Txt>Umarłeś :(
+
+</Txt>
         </GameElement>
         <GameElement ID="Start">
           <Txt>Start</Txt>
         </GameElement>
         <GameElement ID="Delete">
-          <Txt>Delete</Txt>
+          <Txt>Usuń</Txt>
         </GameElement>
         <GameElement ID="Quit">
           <Txt>Wyjście</Txt>
         </GameElement>
         <GameElement ID="Character Creation">
-          <Txt>Character Creation</Txt>
+          <Txt>Tworzenie postaci</Txt>
         </GameElement>
         <GameElement ID="Choose your name :">
-          <Txt>Choose your name :</Txt>
+          <Txt>Wybierz swoje imię :</Txt>
         </GameElement>
         <GameElement ID="Choose your path :">
-          <Txt>Choose your path :</Txt>
+          <Txt>Wybierz swoją ścieżkę :</Txt>
         </GameElement>
         <GameElement ID="Warrior">
-          <Txt>Warrior</Txt>
+          <Txt>Wojownik</Txt>
         </GameElement>
         <GameElement ID="Option A">
-          <Txt>Option A</Txt>
+          <Txt>Opcja A</Txt>
         </GameElement>
         <GameElement ID="Choose your appearance :">
-          <Txt>Choose your appearance :</Txt>
+          <Txt>Wybierz swój wygląd:</Txt>
         </GameElement>
         <GameElement ID="Confirm">
-          <Txt>Confirm</Txt>
+          <Txt>Potwierdź</Txt>
         </GameElement>
         <GameElement ID="Are you sure that you want to delete this character ?">
-          <Txt>Are you sure that you want to delete this character ?</Txt>
+          <Txt>Czy na pewno chcesz usunąć tą postać?</Txt>
         </GameElement>
         <GameElement ID="Username:">
           <Txt>Nazwa:</Txt>
@@ -702,12 +701,12 @@ You can't create a guild if you already are in one !</Txt>
           <Txt>Twórcy</Txt>
         </GameElement>
         <GameElement ID="If you are new to the game&#xA;just enter your informations &amp;&#xA;click Start Playing !">
-          <Txt>If you are new to the game
-just enter your informations &amp;
-click Start Playing !</Txt>
+          <Txt>Jeśli jesteś nowy, 
+zarejestruj się 
+i zacznij grać!</Txt>
         </GameElement>
         <GameElement ID="Settings">
-          <Txt>Settings</Txt>
+          <Txt>Ustawienia</Txt>
         </GameElement>
         <GameElement ID="BGM:">
           <Txt>BGM:</Txt>
@@ -734,97 +733,97 @@ click Start Playing !</Txt>
           <Txt>1920x1080</Txt>
         </GameElement>
         <GameElement ID="Credits">
-          <Txt>Credits</Txt>
+          <Txt>Twórcy</Txt>
         </GameElement>
         <GameElement ID="Art by :">
-          <Txt>Art by :</Txt>
+          <Txt>Grafika :</Txt>
         </GameElement>
         <GameElement ID="Music by :">
-          <Txt>Music by :</Txt>
+          <Txt>Muzyka :</Txt>
         </GameElement>
         <GameElement ID="Networking API by :">
-          <Txt>Networking API by :</Txt>
+          <Txt>Interfejs :</Txt>
         </GameElement>
         <GameElement ID="Welcome to ELYSIUM ONLINE !">
-          <Txt>Welcome to ELYSIUM ONLINE !</Txt>
+          <Txt>Witamy w ELYZIUM ONLINE!</Txt>
         </GameElement>
         <GameElement ID="Before starting, &#xA;please enter the email you want to use :">
-          <Txt>Before starting, 
-please enter the email you want to use :</Txt>
+          <Txt>Przed rozpoczęciem,
+wpisz adres e-mail, którego chcesz użyć :</Txt>
         </GameElement>
         <GameElement ID="Email :">
           <Txt>Email :</Txt>
         </GameElement>
         <GameElement ID="Enter email...">
-          <Txt>Enter email...</Txt>
+          <Txt>Wpisz email...</Txt>
         </GameElement>
         <GameElement ID="Repeat Email :">
-          <Txt>Repeat Email :</Txt>
+          <Txt>Powtórz Email :</Txt>
         </GameElement>
         <GameElement ID="If you already have an account,but wrote incorrectly your username, click on :">
-          <Txt>If you already have an account,but wrote incorrectly your username, click on :</Txt>
+          <Txt>Jeśli masz już konto, ale błędnie wpisałeś swoją nazwę użytkownika, kliknij :</Txt>
         </GameElement>
         <GameElement ID="RECOVER YOUR PASSWORD">
-          <Txt>RECOVER YOUR PASSWORD</Txt>
+          <Txt>ODZYSKAJ HASŁO</Txt>
         </GameElement>
         <GameElement ID="Email:">
           <Txt>Email:</Txt>
         </GameElement>
         <GameElement ID="Enter the email address to which you are registered">
-          <Txt>Enter the email address to which you are registered</Txt>
+          <Txt>Wpisz adres e-mail, na który jesteś zarejestrowany</Txt>
         </GameElement>
         <GameElement ID="Verification code:">
-          <Txt>Verification code:</Txt>
+          <Txt>Kod weryfikacyjny:</Txt>
         </GameElement>
         <GameElement ID="You should have received a confirmation code in your mail, please enter it below.">
-          <Txt>You should have received a confirmation code in your mail, please enter it below.</Txt>
+          <Txt>Powinieneś otrzymać kod potwierdzający pocztą, wpisz go poniżej.</Txt>
         </GameElement>
         <GameElement ID="Enter password...">
-          <Txt>Enter password...</Txt>
+          <Txt>Wpisz hasło...</Txt>
         </GameElement>
         <GameElement ID="Enter your new password here :">
-          <Txt>Enter your new password here :</Txt>
+          <Txt>Wpisz tutaj swoje nowe hasło :</Txt>
         </GameElement>
         <GameElement ID="! Alert !">
-          <Txt>! Alert !</Txt>
+          <Txt>! Alarm !</Txt>
         </GameElement>
         <GameElement ID="Hello Player !&#xA;If you like the game,&#xA; remember to give us a positive review on the playstore / gamejolt !&#xA;Most people only do it when the game don't work, or is bad, but reviews are extremly important for us, small devs.&#xA;Thanks you, and have fun playing !">
-          <Txt>Hello Player !
-If you like the game,
- remember to give us a positive review on the playstore / gamejolt !
-Most people only do it when the game don't work, or is bad, but reviews are extremly important for us, small devs.
-Thanks you, and have fun playing !</Txt>
+          <Txt>Witaj Graczu!
+Jeśli podoba Ci się ta gra,
+ pamiętaj, aby dać nam pozytywną opinię na playstore/gamejolt!
+Większość ludzi robi to tylko wtedy, gdy gra nie działa lub jest zła, ale recenzje są dla nas, małych twórców, niezwykle ważne.
+Dziękuję i baw się dobrze!</Txt>
         </GameElement>
         <GameElement ID="No, thanks">
-          <Txt>No, thanks</Txt>
+          <Txt>Nie, dziekuję</Txt>
         </GameElement>
         <GameElement ID="Take me to Google play">
-          <Txt>Take me to Google play</Txt>
+          <Txt>Zabierz mnie do Google Play</Txt>
         </GameElement>
         <GameElement ID="Overworld">
           <Txt>Overworld</Txt>
         </GameElement>
         <GameElement ID="Select&#xA;nearest">
-          <Txt>Select
-nearest</Txt>
+          <Txt>Wybierz
+najbliższy</Txt>
         </GameElement>
         <GameElement ID="SPEAK">
-          <Txt>SPEAK</Txt>
+          <Txt>MÓW</Txt>
         </GameElement>
         <GameElement ID="LOOT">
-          <Txt>LOOT</Txt>
+          <Txt>ZBIERZ</Txt>
         </GameElement>
         <GameElement ID="Target">
-          <Txt>Target</Txt>
+          <Txt>Cel</Txt>
         </GameElement>
         <GameElement ID="Attack">
-          <Txt>Attack</Txt>
+          <Txt>Atakuj</Txt>
         </GameElement>
         <GameElement ID="Defend">
-          <Txt>Defend</Txt>
+          <Txt>Bronić</Txt>
         </GameElement>
         <GameElement ID="Chat">
-          <Txt>Chat</Txt>
+          <Txt>Czat</Txt>
         </GameElement>
         <GameElement ID="X&#xA;&#xA;&#xA;">
           <Txt>X
@@ -833,44 +832,44 @@ nearest</Txt>
 </Txt>
         </GameElement>
         <GameElement ID="Local&#xA;Chat">
-          <Txt>Local
-Chat</Txt>
+          <Txt>Czat
+Lokalny</Txt>
         </GameElement>
         <GameElement ID="Global&#xA;Chat">
-          <Txt>Global
-Chat</Txt>
+          <Txt>Czat
+Globalny</Txt>
         </GameElement>
         <GameElement ID="Poseidon's Followers&#xA;&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;">
-          <Txt>Poseidon's Followers
-&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;</Txt>
+          <Txt>Wyznawcy posejdona
+&lt;color=#ADD8E6&gt;Bóg morza i piorunów&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Chose a leader for your faction">
-          <Txt>Chose a leader for your faction</Txt>
+          <Txt>Wybierz lidera dla swojej frakcji</Txt>
         </GameElement>
         <GameElement ID="Neutrals">
-          <Txt>Neutrals</Txt>
+          <Txt>Neutralni</Txt>
         </GameElement>
         <GameElement ID="Chose new appearance&#xA;(10 diamonds)">
-          <Txt>Chose new appearance
-(10 diamonds)</Txt>
+          <Txt>Wybierz nowy wygląd
+(10 diamentów)</Txt>
         </GameElement>
         <GameElement ID="Sell Items">
-          <Txt>Sell Items</Txt>
+          <Txt>Sprzedaj przedmioty</Txt>
         </GameElement>
         <GameElement ID="Buy Items">
-          <Txt>Buy Items</Txt>
+          <Txt>Kup przedmioty</Txt>
         </GameElement>
         <GameElement ID="1000ms">
           <Txt>1000ms</Txt>
         </GameElement>
         <GameElement ID="If you already have an account, but wrote incorrectly your username, click on :">
-          <Txt>If you already have an account, but wrote incorrectly your username, click on :</Txt>
+          <Txt>Jeśli masz już konto, ale błędnie wpisałeś swoją nazwę użytkownika, kliknij :</Txt>
         </GameElement>
         <GameElement ID="You should have received a confirmation code in your mail, please enter it below :">
-          <Txt>You should have received a confirmation code in your mail, please enter it below :</Txt>
+          <Txt>Powinieneś otrzymać kod potwierdzający pocztą, wpisz go poniżej:</Txt>
         </GameElement>
         <GameElement ID="Enter here what you want your new password to be :">
-          <Txt>Enter here what you want your new password to be :</Txt>
+          <Txt>Wpisz tutaj, jakie ma być Twoje nowe hasło:</Txt>
         </GameElement>
         <GameElement ID="POPUP">
           <Txt>POPUP</Txt>
@@ -941,10 +940,10 @@ Chat</Txt>
           <Txt>Mikstura Przeprosin</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;This is a gift for the players, selled by the apology NPC after an error was made by the dev.&#xA;&#xA;Gives {USAGEEXPERIENCE} EXP on use&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}">
-          <Txt>&lt;b&gt;{NAZWA}&lt;/b&gt;
-To jst prezent dla graczy, sprzedany przez apology NPC after an error was made by the dev.
+          <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
+To jest prezent dla graczy, sprzedany przez NPC po wystąpieniu błędu spowodowanego przez twórców.
 
-Daje {USAGEEXPERIENCE} EXP po użyciu
+Daje {USAGEEXPERIENCE} doświadczenia po użyciu
 Można zniszczyć: {DESTROYABLE}
 Można sprzedać: {SELLABLE}
 Można handlować: {TRADABLE}
@@ -980,7 +979,7 @@ Można handlować: {TRADABLE}
 </Txt>
         </GameElement>
         <GameElement ID="Leenk Chest">
-          <Txt>Leenk Chest</Txt>
+          <Txt>Zbroja Leenk</Txt>
         </GameElement>
         <GameElement ID="The chest of the armor of a powerfull hero &#xA;that saved the world of Hyrale, &#xA;Leenk !&#xA;Only affect appearance&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;">
           <Txt>Skrzynia zbroi potężnego bohatera
@@ -1020,7 +1019,7 @@ Można sprzedać: {SELLABLE}
 Można handlować: {TRADABLE}</Txt>
         </GameElement>
         <GameElement ID="wild west helmet">
-          <Txt>hełm dzikiego zachodu</Txt>
+          <Txt>Hełm Dzikiego Zachodu</Txt>
         </GameElement>
         <GameElement ID="An helmet in a wild west style.&#xA;A pretty rare item, but that doesn't seem to have any effect on your capacities.&#xA;Only affect appearance&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;">
           <Txt>Hełm w stylu dzikiego zachodu
@@ -1032,1417 +1031,1422 @@ Można sprzedać: {SELLABLE}
 Można handlować: {TRADABLE}</Txt>
         </GameElement>
         <GameElement ID="Big health potion">
-          <Txt>Duża mikstura zdrowia</Txt>
+          <Txt>Duża Mikstura Zdrowia</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;Restores some Health.&#xA;&#xA;Restores {USAGEHEALTH} Health on use.&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
 Przywraca trochę zdrowia.
 
-Przywraca {USAGEHEALTH} zdrowie.
+Przywraca {USAGEHEALTH} zdrowia.
 Można zniszczyć: {DESTROYABLE}
 Można sprzedać: {SELLABLE}
 Można handlować: {TRADABLE}
 
 Ilość: {AMOUNT}
-Cena: {BUYPRICE} Złoto
-&lt;i&gt;Sprzedarz za: {SELLPRICE} Złoto&lt;/i&gt;</Txt>
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Big mana potion">
-          <Txt>Duża mikstura many</Txt>
+          <Txt>Duża Mikstura Many</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;Restores some Mana.&#xA;&#xA;Restores {USAGEMANA} Mana on use.&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
-          <Txt>&lt;b&gt;{NAZWA}&lt;/b&gt;
-Restores some Mana.
+          <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
+Przywraca trochę many.
 
-Restores {USAGEMANA} Mana on use.
+Przywraca {USAGEMANA} many.
 Można zniszczyć: {DESTROYABLE}
 Można sprzedać: {SELLABLE}
 Można handlować: {TRADABLE}
 
 Ilość: {AMOUNT}
-Cena: {BUYPRICE} Złoto
-&lt;i&gt;Sprzedarz za: {SELLPRICE} Złoto&lt;/i&gt;</Txt>
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Big vigor potion">
-          <Txt>Duża mikstura wigoru</Txt>
+          <Txt>Duża Mikstura Wigoru</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;Restores some Health and Mana. A pretty low level, and low price potion, that can be usefull when monsters attacks you.&#xA;&#xA;Restores {USAGEHEALTH} Health on use.&#xA;Restores {USAGEMANA} Mana on use.&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
 Przywraca trochę zdrowia i many. Dość niski poziom i niska cena mikstury, która może być przydatna, gdy atakują cię potwory.
 
-Przywraca {USAGEHEALTH} Zdrowie.
-Przywraca {USAGEMANA} Mane.
+Przywraca {USAGEHEALTH} zdrowia.
+Przywraca {USAGEMANA} many.
 Można zniszczyć: {DESTROYABLE}
 Można sprzedać: {SELLABLE}
 Można handlować: {TRADABLE
 
 Ilość: {AMOUNT}
-Cena: {BUYPRICE} Złoto
-&lt;i&gt;Sprzedarz za: {SELLPRICE} Złoto&lt;/i&gt;</Txt>
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Boots Scroll">
-          <Txt>Boots Scroll</Txt>
+          <Txt>Zwój Butów</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object needed for the crafting of any craftable legs.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-Przedmiot potrzebny do wytworzenia dowolnych spodni, które można wytworzyć.
+Przedmiot potrzebny do wytworzenia dowolnych spodni.
 
 Można zniszczyć: {DESTROYABLE}
 Można sprzedać: {SELLABLE}
-Można handlować: {TRADABLE}}
+Można handlować: {TRADABLE}
 
 Ilość: {AMOUNT}
 Cena: {BUYPRICE} Złota</Txt>
         </GameElement>
         <GameElement ID="Chest Scroll">
-          <Txt>Chest Scroll</Txt>
+          <Txt>Zwój Zbroi</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object needed for the crafting of any craftable chest.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object needed for the crafting of any craftable chest.
+Przedmiot potrzebny do wytworzenia dowolnej zbroi.
 
 Można zniszczyć: {DESTROYABLE}
 Można sprzedać: {SELLABLE}
 Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota</Txt>
         </GameElement>
         <GameElement ID="Basic light Boot">
-          <Txt>Basic light Boot</Txt>
+          <Txt>Podstawowe Lekkie Buty</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;A solid yet simple boot you bought at the shop for a low price...&#xA;It will do the job, but it doesn't seem very solid.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-A solid yet simple boot you bought at the shop for a low price...
-It will do the job, but it doesn't seem very solid.
+&lt;i&gt;&lt;b&gt;TYLKO DLA ŁUCZNIKÓW&lt;/b&gt;&lt;/i&gt;
+Solidne, ale proste buty, które kupiłeś w sklepie za niską cenę...
+Sprawdzą się, ale nie wydają się zbyt solidne.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
-{CRITICALCHANCEBONUS} critical
+{DEFENSEBONUS} Obrona
+{CRITICALCHANCEBONUS} Szansa na trafienie krytyczne
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic light chest">
-          <Txt>Basic light chest</Txt>
+          <Txt>Podstawowa lekka zbroja</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An chest armor you  bought for pretty cheap.&#xA;It's simple, but it seem solid... enough?&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-An chest armor you  bought for pretty cheap.
-It's simple, but it seem solid... enough?
+&lt;i&gt;&lt;b&gt;TYLKO DLA ŁUCZNIKÓW&lt;/b&gt;&lt;/i&gt;
+Zbroja na klatkę piersiową, którą kupiłeś dość tanio.
+Prosta, ale wydaje się solidna... wystarczy?
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic light hood">
-          <Txt>Basic light hood</Txt>
+          <Txt>Podstawowy lekki kaptur</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An hood you bought... &#xA;It's simple, but seem solid,&#xA;and should help you focus on your ennemy&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-An hood you bought... 
-It's simple, but seem solid,
-and should help you focus on your ennemy
+&lt;i&gt;&lt;b&gt;TYLKO DLA ŁUCZNIKÓW&lt;/b&gt;&lt;/i&gt;
+Kaptur, który kupiłeś...
+Prosty, ale wydaje się solidny,
+i powinien pomóc Ci skoncentrować się na wrogu
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
-{CRITICALCHANCEBONUS} critical
+{DEFENSEBONUS} Obrona
+{CRITICALCHANCEBONUS} Szansa na trafienie krytyczne
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice light Boot">
-          <Txt>Novice light Boot</Txt>
+          <Txt>Lekkie Buty Nowicjusza</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old boot you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-An old boot you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;TYLKO DLA ŁUCZNIKÓW&lt;/b&gt;&lt;/i&gt;
+Stare buty, które kupiłeś w sklepie na polu Elizejskim za niską cenę...
+Spełni swoje zadanie, ale nie przetrwa długo, gdy będziesz wystarczająco silny.
 
 {EQUIPMENTHEALTHMAX} Max durability
 {EQUIPMENTHEALTH%} % Left
 
-{DEFENSEBONUS} Defense
-{CRITICALCHANCEBONUS} critical
+{DEFENSEBONUS} Obrona
+{CRITICALCHANCEBONUS} Szansa na trafienie krytyczne
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice light chest">
-          <Txt>Novice light chest</Txt>
+          <Txt>Lekka Zbroja Nowicjusza</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old chestplate you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-An old chestplate you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;TYLKO DLA ŁUCZNIKÓW&lt;/b&gt;&lt;/i&gt;
+Stary napierśnik, który kupiłeś w sklepie na polu Elizejskim za niską cenę...
+Spełni swoje zadanie, ale nie przetrwa długo, gdy będziesz wystarczająco silny.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice light hood">
-          <Txt>Novice light hood</Txt>
+          <Txt>Lekki Kaptur Nowicjusza</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old hood you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-An old hood you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;TYLKO DLA ŁUCZNIKÓW&lt;/b&gt;&lt;/i&gt;
+Stary kaptur, który kupiłeś w sklepie na polu Elizejskim za niską cenę...
+Spełni swoje zadanie, ale nie przetrwa długo, gdy będziesz wystarczająco silny.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
-{CRITICALCHANCEBONUS} critical
+{DEFENSEBONUS} Obrona
+{CRITICALCHANCEBONUS} Szansa na trafienie krytyczne
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Ranger boot">
-          <Txt>Ranger boot</Txt>
+          <Txt>Buty Łucznika</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Boots made from the enemies you killed, imitating the style of a certain famous ranger.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-Boots made from the enemies you killed, imitating the style of a certain famous ranger.
+&lt;i&gt;&lt;b&gt;TYLKO DLA ŁUCZNIKÓW&lt;/b&gt;&lt;/i&gt;
+Buty wykonane z zabitych wrogów, imitujące styl pewnego słynnego tropiciela.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
-{CRITICALCHANCEBONUS} critical
+{DEFENSEBONUS} Obrona
+{CRITICALCHANCEBONUS} Szansa na trafienie krytyczne
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złotad
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Ranger chest">
-          <Txt>Ranger chest</Txt>
+          <Txt>Zbroja łucznika</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;A chest armor made from the enemies you killed, imitating the style of a certain famous ranger.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-A chest armor made from the enemies you killed, imitating the style of a certain famous ranger.
+&lt;i&gt;&lt;b&gt;TYLKO DLA ŁUCZNIKÓW&lt;/b&gt;&lt;/i&gt;
+Napierśnik zrobiony z zabitych wrogów, imitujący styl pewnego słynnego tropiciela.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Ranger hat">
-          <Txt>Ranger hat</Txt>
+          <Txt>Kapelusz łucznika</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An hat made from the enemies you killed, imitating the style of a certain famous ranger... Fun fact: The feather is actually a bunch of Lycaon's fur glued to a stick. What an original design choice!&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-An hat made from the enemies you killed, imitating the style of a certain famous ranger... Fun fact: The feather is actually a bunch of Lycaon's fur glued to a stick. What an original design choice!
+&lt;i&gt;&lt;b&gt;TYLKO DLA ŁUCZNIKÓW&lt;/b&gt;&lt;/i&gt;
+Kapelusz zrobiony z wrogów, których zabiłeś, imitujący styl pewnego słynnego tropiciela... Ciekawostka: Pióro to w rzeczywistości wiązka futra Likaona przyklejona do patyka. Co za oryginalny wybór projektu!
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
-{CRITICALCHANCEBONUS} critical
+{DEFENSEBONUS} Obrona
+{CRITICALCHANCEBONUS} Szansa na trafienie krytyczne
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic heavy boot">
-          <Txt>Basic heavy boot</Txt>
+          <Txt>Podstawowe ciężkie buty</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Boots you bought at the shop for a correct price...&#xA;it seems to be a little more solid, and protective than what you had before.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-Boots you bought at the shop for a correct price...
-it seems to be a little more solid, and protective than what you had before.
+&lt;i&gt;&lt;b&gt;TYLKO DLA WOJOWNIKÓW&lt;/b&gt;&lt;/i&gt;
+Buty kupione w sklepie za odpowiednią cenę...
+wydaje się, że są trochę bardziej solidne i chronią lepiej niż to, co miałeś wcześniej.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
 {DEFENSEBONUS} Defense
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic heavy Chestplate">
-          <Txt>Basic heavy Chestplate</Txt>
+          <Txt>Ciężki napierśnik dla początkujących</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;A chestplate  you bought at the shop for a correct price...&#xA;it seems to be a little more solid, and protective than what you had before.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-A chestplate  you bought at the shop for a correct price...
-it seems to be a little more solid, and protective than what you had before.
+&lt;i&gt;&lt;b&gt;TYLKO DLA WOJOWNIKÓW&lt;/b&gt;&lt;/i&gt;
+Napierśnik kupiony w sklepie za odpowiednią cenę...
+wydaje się, że jest trochę bardziej solidny i chroni lepiej niż to, co miałeś wcześniej.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic heavy helmet">
-          <Txt>Basic heavy helmet</Txt>
+          <Txt>Ciężki hełm dla początkujących</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An helmet you bought at the shop for a correct price...&#xA;it seems to be a little more solid, and protective than what you had before.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-An helmet you bought at the shop for a correct price...
-it seems to be a little more solid, and protective than what you had before.
+&lt;i&gt;&lt;b&gt;TYLKO DLA WOJOWNIKÓW&lt;/b&gt;&lt;/i&gt;
+Hełm kupiony w sklepie za odpowiednią cenę...
+wydaje się być trochę bardziej solidny i i chroni lepiej niż to, co miałeś wcześniej.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice heavy boot">
-          <Txt>Novice heavy boot</Txt>
+          <Txt>Ciężkie buty dla początkujacych</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Boots you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-Boots you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;TYLKO DLA WOJOWNIKÓW&lt;/b&gt;&lt;/i&gt;
+Buty kupione w sklepie na polu elizyjskim za niską cenę...
+Spełnią swoje zadanie, ale nie przetrwają długo, gdy będziesz wystarczająco silny.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice heavy Chestplate">
-          <Txt>Novice heavy Chestplate</Txt>
+          <Txt>Ciężki napierśnik dla początkujących</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old chestplate you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-An old chestplate you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;TYLKO DLA WOJOWNIKÓW&lt;/b&gt;&lt;/i&gt;
+Stary napierśnik, który kupiłeś w sklepie na polu Elizejskim za niską cenę...
+Spełni swoje zadanie, ale nie przetrwa długo, gdy będziesz wystarczająco silny.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice heavy helmet">
-          <Txt>Novice heavy helmet</Txt>
+          <Txt>Ciężki hełm dla początkujących</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old helmet you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-An old helmet you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;TYLKO DLA WOJOWNIKÓW&lt;/b&gt;&lt;/i&gt;
+Stary hełm, który kupiłeś w sklepie, na polu Elizejskim za niską cenę...
+Spełni swoje zadanie, ale nie przetrwa długo, gdy będziesz wystarczająco silny.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Spartan Boots">
-          <Txt>Spartan Boots</Txt>
+          <Txt>Spartańskie Buty</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Boots built from the power of the monsters you killed, forged in pure spartan gold. It seems to still be limited...&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-Boots built from the power of the monsters you killed, forged in pure spartan gold. It seems to still be limited...
+&lt;i&gt;&lt;b&gt;TYLKO DLA WOJOWNIKÓW&lt;/b&gt;&lt;/i&gt;
+Buty zbudowane z mocy zabitych potworów, wykute z czystego spartańskiego złota. Wydaje się, że nadal są ograniczone...
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Spartan Chestplate">
-          <Txt>Spartan Chestplate</Txt>
+          <Txt>Spartański napierśnik</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;A chestplate built from the power of the monsters you killed, forged in pure spartan gold. It seems to still be limited...&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-A chestplate built from the power of the monsters you killed, forged in pure spartan gold. It seems to still be limited...
+&lt;i&gt;&lt;b&gt;TYLKO DLA WOJOWNIKÓW&lt;/b&gt;&lt;/i&gt;
+Napierśnik zbudowany z mocy zabitych potworów, wykuty z czystego spartańskiego złota. Wydaje się, że nadal jest ograniczony..
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Spartan Helmet">
-          <Txt>Spartan Helmet</Txt>
+          <Txt>Spartański Hełm</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An helmet built from the power of the monsters you killed, forged in pure spartan gold. It seems to still be limited...&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-An helmet built from the power of the monsters you killed, forged in pure spartan gold. It seems to still be limited...
+&lt;i&gt;&lt;b&gt;TYLKO DLA WOJOWNIKÓW&lt;/b&gt;&lt;/i&gt;
+Hełm zbudowany z mocy zabitych potworów, wykuty z czystego spartańskiego złota. Wydaje się, że nadal jest ograniczony...
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic Wizard Boot">
-          <Txt>Basic Wizard Boot</Txt>
+          <Txt>Podstawowe Buty Czarodzieja</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Simple wizard pants, you bought at the shop installed in the elysian field for a correct price...&#xA;While a bit more stylish, you are pretty sure this fabrick won't last long if you reach in the deepest zones of the overworld.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-Simple wizard pants, you bought at the shop installed in the elysian field for a correct price...
-While a bit more stylish, you are pretty sure this fabrick won't last long if you reach in the deepest zones of the overworld.
+&lt;i&gt;&lt;b&gt;TYLKO DLA CZARODZIEJÓW&lt;/b&gt;&lt;/i&gt;
+Proste spodnie czarodzieja, które kupiłeś w sklepie na polu elizejskim za odpowiednią cenę...
+Choć nieco bardziej stylowe, masz pewność, że ten materiał nie przetrwa długo, jeśli dotrzesz do najgłębszych stref świata.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 {MANABONUS} Mana
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic Wizard Hat">
-          <Txt>Basic Wizard Hat</Txt>
+          <Txt>Podstawowy Kapelusz Czarodzieja</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;A simple wizard hat, you bought at the shop installed in the elysian field for a correct price...&#xA;While a bit more stylish, you are pretty sure this fabric won't last long if you reach in the deepest zones of the overworld.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-A simple wizard hat, you bought at the shop installed in the elysian field for a correct price...
-While a bit more stylish, you are pretty sure this fabric won't last long if you reach in the deepest zones of the overworld.
+&lt;i&gt;&lt;b&gt;TYLKO DLA CZARODZIEJÓW&lt;/b&gt;&lt;/i&gt;
+Prosty kapelusz czarodzieja, który kupiłeś w sklepie na polu Elizejskim za odpowiednią cenę...
+Choć nieco bardziej stylowy, masz pewność, że ta tkanina nie przetrwa długo, jeśli dotrzesz do najgłębszych stref świata.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
 
-{DEFENSEBONUS} Defense
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
+
+{DEFENSEBONUS} Obrona
 {MANABONUS} Mana
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic Wizard Robe">
-          <Txt>Basic Wizard Robe</Txt>
+          <Txt>Podstawowa Szata Czarodzieja</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;A simple wizard robe, you bought at the shop installed in the elysian field for a correct price...&#xA;While a bit more stylish, you are pretty sure this fabrick won't last long if you reach in the deepest zones of the overworld.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-A simple wizard robe, you bought at the shop installed in the elysian field for a correct price...
-While a bit more stylish, you are pretty sure this fabrick won't last long if you reach in the deepest zones of the overworld.
+&lt;i&gt;&lt;b&gt;TYLKO DLA CZARODZIEJÓW&lt;/b&gt;&lt;/i&gt;
+Prosta szata czarodzieja, którą kupiłeś w sklepie na polu Elizejskim za odpowiednią cenę...
+Choć nieco bardziej stylowa, masz pewność, że ten materiał nie przetrwa długo, jeśli dotrzesz do najgłębszych stref świata.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 {MANABONUS} Mana
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Dark Mage Boot">
-          <Txt>Dark Mage Boot</Txt>
+          <Txt>Buty Mrocznego Maga</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Built from the darkest powers inside the monsters you killed, it is infused with an ancient power. It still doesn't seem to have reached it's max potencial just yet...&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-Built from the darkest powers inside the monsters you killed, it is infused with an ancient power. It still doesn't seem to have reached it's max potencial just yet...
+&lt;i&gt;&lt;b&gt;TYLKO DLA CZARODZIEJÓW&lt;/b&gt;&lt;/i&gt;
+Zbudowane z najciemniejszych mocy zabitych potworów, są nasycone starożytną mocą. Wydaje się, że nadal nie osiągnęły maksymalnego potencjału...
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 {MANABONUS} Mana
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Dark Mage Hood">
-          <Txt>Dark Mage Hood</Txt>
+          <Txt>Kaptur Mrocznego Maga</Txt>
         </GameElement>
         <GameElement ID="Dark Mage Robe">
-          <Txt>Dark Mage Robe</Txt>
+          <Txt>Szata Mrocznego Maga</Txt>
         </GameElement>
         <GameElement ID="Novice Wizard Boot">
-          <Txt>Novice Wizard Boot</Txt>
+          <Txt>Buty Początkującego Czarodzieja</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;old pants you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-old pants you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;TYLKO DLA CZARODZIEJÓW&lt;/b&gt;&lt;/i&gt;
+Stare spodnie, które kupiłeś w sklepie na polu elizyjskim za niską cenę...
+Spełnią swoje zadanie, ale nie przetrwają długo, gdy będziesz wystarczająco silny.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 {MANABONUS} Mana
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice Wizard Hat">
-          <Txt>Novice Wizard Hat</Txt>
+          <Txt>Kapelusz Początkującego Czarodzieja</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old hat you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-An old hat you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;TYLKO DLA CZARODZIEJÓW&lt;/b&gt;&lt;/i&gt;
+Stary kapelusz, który kupiłeś w sklepie na polu Elizejskim za niską cenę...
+Spełni swoje zadanie, ale nie przetrwa długo, gdy będziesz wystarczająco silny.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 {MANABONUS} Mana
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice Wizard Robe">
-          <Txt>Novice Wizard Robe</Txt>
+          <Txt>Szata Początkującego Czarodzieja</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old wizard robe, you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-An old wizard robe, you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;TYLKO DLA CZARODZIEJÓW&lt;/b&gt;&lt;/i&gt;
+Stara szata czarodzieja, którą kupiłeś w sklepie na polu elizyjskim za niską cenę...
+Spełni swoje zadanie, ale nie przetrwa długo, gdy będziesz wystarczająco silny.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Obrona
 {MANABONUS} Mana
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Arrow">
-          <Txt>Arrow</Txt>
+          <Txt>Strzała</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A wooden Arrow, used for any kind of bow.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A wooden Arrow, used for any kind of bow.
+Drewniana strzała, używana do wszelkiego rodzaju łuków.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota</Txt>
         </GameElement>
         <GameElement ID="Chest Of Gods">
-          <Txt>Chest Of Gods</Txt>
+          <Txt>Skrzynia Bogów</Txt>
         </GameElement>
         <GameElement ID="Let you become a god.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;">
-          <Txt>Let you become a god.
+          <Txt>Pozwól sobie stać się bogiem.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 </Txt>
         </GameElement>
         <GameElement ID="Death ring">
-          <Txt>Death ring</Txt>
+          <Txt>Pierścień Śmierci</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A legendary ring, using it it seem to make a little stronger in everything. Some people says his name came from a hidden power it had, deep inside, but it's more likely it was a name given by the person who created it for the first time, because it sound cool.&#xA;&#xA;+ {DEFENSEBONUS} defense&#xA;+ {CRITICALCHANCEBONUS} critical&#xA;+ {HEALTHBONUS} HP&#xA;+ {DAMAGEBONUS} damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A legendary ring, using it it seem to make a little stronger in everything. Some people says his name came from a hidden power it had, deep inside, but it's more likely it was a name given by the person who created it for the first time, because it sound cool.
+Legendarny pierścień, którego używanie pozwala być silniejszym we wszystkim. Niektórzy mówią, że jego imię pochodzi od ukrytej mocy, którą miał głęboko w środku, ale bardziej prawdopodobne jest, że było to imię nadane przez osobę, która stworzyła go po raz pierwszy, ponieważ brzmi fajnie.
 
-+ {DEFENSEBONUS} defense
-+ {CRITICALCHANCEBONUS} critical
-+ {HEALTHBONUS} HP
-+ {DAMAGEBONUS} damage
++ {DEFENSEBONUS} Obrona
++ {CRITICALCHANCEBONUS} Szansa na trafienie krytyczne
++ {HEALTHBONUS} Zdrowie
++ {DAMAGEBONUS} Obrażenia
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Defense ring">
-          <Txt>Defense ring</Txt>
+          <Txt>Pierścień Obrony</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A ring that give you more defense. Particularly usefull for a clumsy person... and for a hero of course !&#xA;&#xA;+ {DEFENSEBONUS} defense&#xA;+ {BLOCKCHANCEBONUS} block&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A ring that give you more defense. Particularly usefull for a clumsy person... and for a hero of course !
+Pierścień, który zapewnia większą obronę. Szczególnie przydatne dla osoby niezdarnej... no i oczywiście dla bohatera!
 
-+ {DEFENSEBONUS} defense
-+ {BLOCKCHANCEBONUS} block
++ {DEFENSEBONUS} Obrona
++ {BLOCKCHANCEBONUS} Szansa na blok
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;This staff seems old, but still full of powerfull energy. It is unclear how this energy can be released, but the simple siping of it's magic is already making you more powerfull&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-This staff seems old, but still full of powerfull energy. It is unclear how this energy can be released, but the simple siping of it's magic is already making you more powerfull
+Ten kij wydaje się stary, ale wciąż pełen potężnej energii. Nie jest jasne, w jaki sposób można uwolnić tę energię, ale proste łykanie jej magii już czyni cię potężniejszym
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DAMAGEBONUS} Damage
+{DAMAGEBONUS} Obrażenia
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Focus Ring">
-          <Txt>Focus Ring</Txt>
+          <Txt>Pierścień Skupienia</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A ring that give you more Critical ability by making your brain more able to focus on a specific objective. This ring was known to be very used by human emperors to augment their hability to focus on their work. &lt;i&gt; that's cheating... &lt;/i&gt;&#xA;&#xA;+ {CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A ring that give you more Critical ability by making your brain more able to focus on a specific objective. This ring was known to be very used by human emperors to augment their hability to focus on their work. &lt;i&gt; that's cheating... &lt;/i&gt;
+Pierścień, który daje Ci więcej zdolności krytycznych, dzięki czemu Twój mózg może lepiej skoncentrować się na określonym celu. Ten pierścień był znany z tego, że był bardzo używany przez ludzkich cesarzy, aby zwiększyć ich zdolność do skupienia się na swojej pracy. &lt;i&gt; to oszustwo...&lt;/i&gt;
 
-+ {CRITICALCHANCEBONUS} critical
++ {CRITICALCHANCEBONUS} Szansa na trafienie krytyczne
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Gold Bow">
-          <Txt>Gold Bow</Txt>
+          <Txt>Złoty Łuk</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A better bow you bought in the shop.&#xA;it's made of metal, with a nice yellow color to it.&#xA;I wonder if it is paint...&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Requires {REQUIREDAMMO}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A better bow you bought in the shop.
-it's made of metal, with a nice yellow color to it.
-I wonder if it is paint...
+Lepszy łuk, który kupiłeś w sklepie.
+jest wykonany z metalu w ładnym żółtym kolorze.
+Ciekawe czy to farba...
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DAMAGEBONUS} Damage
+{DAMAGEBONUS} Obrażenia
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
 Requires {REQUIREDAMMO}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Gold Sword">
-          <Txt>Gold Sword</Txt>
+          <Txt>Złoty Miecz</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A better sword you bought at the shop. &#xA;it's made of metal, with a nice yellow color to it.&#xA;I wonder if it's paint...&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A better sword you bought at the shop. 
-it's made of metal, with a nice yellow color to it.
-I wonder if it's paint...
+Lepszy miecz, który kupiłeś w sklepie.
+jest wykonany z metalu w ładnym żółtym kolorze.
+Ciekawe czy to farba...
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DAMAGEBONUS} Damage
+{DAMAGEBONUS} Obrażenia
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Life Ring">
-          <Txt>Life Ring</Txt>
+          <Txt>Pierścień Życia</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A ring that give you more life. When putting it, you feel like when... well... before you died.&#xA;&#xA;+ {HEALTHBONUS} HP&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A ring that give you more life. When putting it, you feel like when... well... before you died.
+Pierścień, który da Ci więcej życia. Mówiąc to, czujesz się jak... no cóż... przed śmiercią.
 
-+ {HEALTHBONUS} HP
++ {HEALTHBONUS} Zdrowie
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice Bow">
-          <Txt>Novice Bow</Txt>
+          <Txt>Łuk Nowicjusza</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A damaged bow, last living proof of your ancient honors. If it seems to be really solid, you have a hard time even bending the bow, and you doubt you'll be able to go really far with this.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;Requires {REQUIREDAMMO}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A damaged bow, last living proof of your ancient honors. If it seems to be really solid, you have a hard time even bending the bow, and you doubt you'll be able to go really far with this.
+Uszkodzony łuk, ostatni żywy dowód twoich starożytnych zaszczytów. Jeśli wydaje się, że jest naprawdę solidny, trudno ci nawet nagiąć łuk i wątpisz, że będziesz w stanie zajść z tym naprawdę daleko.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DAMAGEBONUS} Damage
+{DAMAGEBONUS} Obrażenia
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
-Requires {REQUIREDAMMO}
+Wymagany Poziom: {MINLEVEL}
+Wymaga {WYMAGANE AMMO}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice Shield">
-          <Txt>Novice Shield</Txt>
+          <Txt>Tarcza Nowicjusza</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A rusty shield you bought from the Shopkeeper. It seems to only be made in wood, and, even if it seems really resistant, you are not sure it will protect you much more than stopping a sword with your barehands. It is still better than nothing, at least for the dissuasive effect.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{BLOCKCHANCEBONUS} % block&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A rusty shield you bought from the Shopkeeper. It seems to only be made in wood, and, even if it seems really resistant, you are not sure it will protect you much more than stopping a sword with your barehands. It is still better than nothing, at least for the dissuasive effect.
+Zardzewiała tarcza kupiona od sklepikarza. Wygląda na to, że jest wykonana tylko z drewna i nawet jeśli wydaje się naprawdę odporna, nie jesteś pewien, czy ochroni cię o wiele bardziej niż zatrzymanie miecza gołymi rękami. To wciąż lepsze niż nic, przynajmniej ze względu na efekt odstraszający.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DEFENSEBONUS} Defense
-{BLOCKCHANCEBONUS} % block
+{DEFENSEBONUS} Obrona
+{BLOCKCHANCEBONUS} % Blok
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice Staff">
-          <Txt>Novice Staff</Txt>
+          <Txt>Laska Nowicjusza</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A basic wooden stick, last living proof of your ancient honors. If it seems really solid, you can't stop yourself from feeling you would almost be effective by just using a branch from a tree. At least it would weigh less.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A basic wooden stick, last living proof of your ancient honors. If it seems really solid, you can't stop yourself from feeling you would almost be effective by just using a branch from a tree. At least it would weigh less.
+Podstawowy drewniany kij, ostatni żywy dowód twoich starożytnych zaszczytów. Jeśli wydaje się naprawdę solidny, nie możesz powstrzymać się od poczucia, że ​​będziesz prawie skuteczny, używając tylko gałęzi z drzewa. Przynajmniej waży mniej.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DAMAGEBONUS} Damage
+{DAMAGEBONUS} Obrażenia
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice Sword">
-          <Txt>Novice Sword</Txt>
+          <Txt>Miecz Nowicjusza</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A rusty sword, last living proof of your ancient honors. It seems very very durable, but clearly not as sharp as you would wish.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A rusty sword, last living proof of your ancient honors. It seems very very durable, but clearly not as sharp as you would wish.
+Zardzewiały miecz, ostatni żywy dowód twoich starożytnych zaszczytów. Wydaje się bardzo, bardzo trwały, ale wyraźnie nie tak ostry, jak byś chciał.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Maksymalna trwałość
+{EQUIPMENTHEALTH%} % Zostało
 
-{DAMAGEBONUS} Damage
+{DAMAGEBONUS} Obrażenia
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Packed Arrows">
-          <Txt>Packed Arrows</Txt>
+          <Txt>Spakowane Strzały</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A pack of wooden arrow.&#xA;Click on it to open it and take your arrows.&#xA;&#xA;Quantity inside : {QUANTITY}&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A pack of wooden arrow.
-Click on it to open it and take your arrows.
+Paczka drewnianych strzał.
+Kliknij, aby otworzyć i weź strzały.
 
-Quantity inside : {QUANTITY}
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Ilość w środku: {QUANTITY}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota</Txt>
         </GameElement>
         <GameElement ID="Sharp Arrow">
-          <Txt>Sharp Arrow</Txt>
+          <Txt>Ostra Strzała</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A wooden Arrow. It seem that this one is more solid, and sharper than the one you first used.&#xA;&#xA;+ {DAMAGEBONUS} damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A wooden Arrow. It seem that this one is more solid, and sharper than the one you first used.
+Drewniana Strzała. Wygląda na to, że jest solidniejsza i ostrzejsza niż ta, którą użyłeś po raz pierwszy.
 
-+ {DAMAGEBONUS} damage
++ {DAMAGEBONUS} Obrażeń
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota</Txt>
         </GameElement>
         <GameElement ID="Strength ring">
-          <Txt>Strength ring</Txt>
+          <Txt>Pierścień Siły</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A powerfull ring that augment your damage.&#xA;Do not throw toward a person, as the simple fact of touching it give you it's power.&#xA;&#xA;+ {DAMAGEBONUS} damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A powerfull ring that augment your damage.
-Do not throw toward a person, as the simple fact of touching it give you it's power.
+Potężny pierścień, który zwiększa obrażenia.
+Nie rzucaj w stronę osoby, ponieważ sam fakt dotknięcia jej daje jej moc.
 
-+ {DAMAGEBONUS} damage
++ {DAMAGEBONUS} Obrażeń
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Można łączyć: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Forge Scroll">
-          <Txt>Forge Scroll</Txt>
+          <Txt>Zwój Kuźni</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A magic scroll, powerfull yet very common item created by gods to help fallen heroes have an easier time in the Elysium field, way before the war started. This one seem to have the drawing of an anvil on it. Where it will bring me seems pretty clear.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Destination : {TPNAME}&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A magic scroll, powerfull yet very common item created by gods to help fallen heroes have an easier time in the Elysium field, way before the war started. This one seem to have the drawing of an anvil on it. Where it will bring me seems pretty clear.
+Magiczny zwój, potężny, ale bardzo powszechny przedmiot stworzony przez bogów, aby pomóc poległym bohaterom w łatwiejszym czasie na polu Elysium, na długo przed wybuchem wojny. Ten wydaje się mieć na sobie rysunek kowadła. Dokąd mnie to zaprowadzi, wydaje się całkiem jasne.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Destination : {TPNAME}
-Required Level: {MINLEVEL}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Cel: {TPNAME}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Gorgon's Tail">
-          <Txt>Gorgon's Tail</Txt>
+          <Txt>Ogon Gorgony</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;The tails of the gorgon sometime stay as a trophy when killing a gorgon. A pretty hard to collect item, and, even if not worth much, pretty usefull for the creations of exotics potions, or in the creations of rings.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-The tails of the gorgon sometime stay as a trophy when killing a gorgon. A pretty hard to collect item, and, even if not worth much, pretty usefull for the creations of exotics potions, or in the creations of rings.
+Ogony gorgony czasami pozostają jako trofeum podczas zabijania gorgony. Dość trudny do zebrania przedmiot, a nawet jeśli nie jest wart wiele, bardzo przydatny do tworzenia egzotycznych mikstur lub pierścieni.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Health Potion">
-          <Txt>Health Potion</Txt>
+          <Txt>Mikstura zdrowia</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;Restores some Health.&#xA;&#xA;Restores {USAGEHEALTH} Health on use.&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-Restores some Health.
+Przywraca trochę zdrowia.
 
-Restores {USAGEHEALTH} Health on use.
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Required Level: {MINLEVEL}
+Przywraca {USAGEHEALTH} zdrowia po użyciu.
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Helmet Scroll">
-          <Txt>Helmet Scroll</Txt>
+          <Txt>Zwój Hełmu</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object needed for the crafting of any craftable helmet.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object needed for the crafting of any craftable helmet.
+Przedmiot potrzebny do wytworzenia dowolnego hełmu.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota</Txt>
         </GameElement>
         <GameElement ID="Knight's emblem">
-          <Txt>Knight's emblem</Txt>
+          <Txt>Godło Rycerza</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object needed for the crafting of any rings.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object needed for the crafting of any rings.
+Przedmiot potrzebny do wytworzenia wielu pierścieni.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Lycaon's fur">
-          <Txt>Lycaon's fur</Txt>
+          <Txt>Futro Likaona</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object of unknown usage...&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object of unknown usage...
+Obiekt o nieznanym zastosowaniu...
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Lycaon's tooth">
-          <Txt>Lycaon's tooth</Txt>
+          <Txt>
+Ząb Likaona</Txt>
         </GameElement>
         <GameElement ID="Mana Potion">
-          <Txt>Mana Potion</Txt>
+          <Txt>Mikstura Many</Txt>
         </GameElement>
         <GameElement ID="Metal ingot">
-          <Txt>Metal ingot</Txt>
+          <Txt>Sztabka Metalu</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A metal, used to make armors and others wearable.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A metal, used to make armors and others wearable.
+Metal, używany do wyrobu zbroi i innych przedmiotów.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Minotaur's horns">
-          <Txt>Minotaur's horns</Txt>
+          <Txt>Róg Minotaura</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object needed for the crafting of some ring. A strong aura emanates from it's core...&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object needed for the crafting of some ring. A strong aura emanates from it's core...
+Przedmiot potrzebny do wykonania jakiegoś pierścienia. Silna aura emanuje z rdzenia...
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Pet Health Potion">
-          <Txt>Pet Health Potion</Txt>
+          <Txt>Mikstura Zdrowia Zwierzaka</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;Restores some of the Pet's health.&#xA;&#xA;Restores {USAGEPETHEALTH} Pet Health on use.&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-Restores some of the Pet's health.
+Przywraca część zdrowia zwierzaka.
 
-Restores {USAGEPETHEALTH} Pet Health on use.
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Required Level: {MINLEVEL}
+Przywraca {USAGEPETHEALTH} zdrowia zwierzaka po użyciu.
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Baby Sapling">
-          <Txt>Baby Sapling</Txt>
+          <Txt>Młode Drzewko</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Level {SUMMONEDLEVEL}&lt;/b&gt;&#xA;A Baby Sapling Pet.&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Level: {SUMMONEDLEVEL}&#xA;Experience: {SUMMONEDEXPERIENCE}&#xA;Max Level : {SUMMONEDMAXLEVEL}&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
-          <Txt>&lt;b&gt;{NAME} Level {SUMMONEDLEVEL}&lt;/b&gt;
-A Baby Sapling Pet.
+          <Txt>&lt;b&gt;{NAME} Poziom {SUMMONEDLEVEL}&lt;/b&gt;
+Małe drzewko zwierzaka.
 
-Click Item to summon it.
-Click again to unsummon it.
-(requires owner level {SUMMONEDLEVEL}).
+Kliknij przedmiot, aby go przywołać.
+Kliknij ponownie, aby go cofnąć.
+(wymaga poziomu właściciela {SUMMONEDLEVEL}).
 
-Health: {SUMMONEDHEALTH}
-Level: {SUMMONEDLEVEL}
-Experience: {SUMMONEDEXPERIENCE}
-Max Level : {SUMMONEDMAXLEVEL}
+Zdrowie: {SUMMONEDHEALTH}
+Poziom: {SUMMONEDLEVEL}
+Doświadczenie: {SUMMONEDEXPERIENCE}
+Maksymalny poziom : {SUMMONEDMAXLEVEL}
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Dragon">
-          <Txt>Dragon</Txt>
+          <Txt>Smok</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;Your own little Dragon :)&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-Your own little Dragon :)
+Twój własny mały smok :)
 
-Click Item to summon it.
-Click again to unsummon it.
-(requires owner level {SUMMONEDLEVEL}).
+Kliknij przedmiot, aby go przywołać.
+Kliknij ponownie, aby go cofnąć.
+(wymaga poziomu właściciela {SUMMONEDLEVEL}).
 
 Health: {SUMMONEDHEALTH}
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Zdrowie: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Tamed wolf">
-          <Txt>Tamed wolf</Txt>
+          <Txt>Oswojony Wilk</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A wolf, tamed to be able to mount it.&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A wolf, tamed to be able to mount it.
+Wilk, oswojony, by móc go dosiąść.
 
-Click Item to summon it.
-Click again to unsummon it.
-(requires owner level {SUMMONEDLEVEL}).
+Kliknij przedmiot, aby go przywołać.
+Kliknij ponownie, aby go cofnąć.
+(wymaga poziomu właściciela {SUMMONEDLEVEL}).
 
-Health: {SUMMONEDHEALTH}
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Zdrowie: {SUMMONEDHEALTH}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Titan Turtle">
-          <Txt>Titan Turtle</Txt>
+          <Txt>
+Żółw Tytanowy</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;The fastest turtle in the west!&#xA;As incredible as it looks, it is a very fast turtle, faster than some horse!&#xA;Warriors using such a mount are know to attract equally admiration and mockery from the people of this world.&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-The fastest turtle in the west!
-As incredible as it looks, it is a very fast turtle, faster than some horse!
-Warriors using such a mount are know to attract equally admiration and mockery from the people of this world.
+Najszybszy żółw na zachodzie!
+Choć wygląda to niewiarygodnie, jest to bardzo szybki żółw, szybszy niż jakiś koń!
+Wiadomo, że wojownicy używający takiego wierzchowca wzbudzają podziw i kpiny ze strony ludzi tego świata.
 
-Click Item to summon it.
-Click again to unsummon it.
-(requires owner level {SUMMONEDLEVEL}).
+Kliknij przedmiot, aby go przywołać.
+Kliknij ponownie, aby go cofnąć.
+(wymaga poziomu właściciela {SUMMONEDLEVEL}).
 
-Health: {SUMMONEDHEALTH}
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Zdrowie: {SUMMONEDHEALTH}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="White tiger">
-          <Txt>White tiger</Txt>
+          <Txt>Biały Tygrys</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A white tiger, a beautifull mount to travel trough the world, found in inaccesible far mountain.&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A white tiger, a beautifull mount to travel trough the world, found in inaccesible far mountain.
+Biały tygrys, piękny wierzchowiec do podróżowania po świecie, znaleziony w niedostępnej odległej górze.
 
-Click Item to summon it.
-Click again to unsummon it.
-(requires owner level {SUMMONEDLEVEL}).
+Kliknij przedmiot, aby go przywołać.
+Kliknij ponownie, aby go cofnąć.
+(wymaga poziomu właściciela {SUMMONEDLEVEL}).
 
-Health: {SUMMONEDHEALTH}
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Zdrowie: {SUMMONEDHEALTH}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Wild Horse">
-          <Txt>Wild Horse</Txt>
+          <Txt>Dziki koń</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A wild horse, captured by the Shopkeeper and sold to a pretty low price.&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A wild horse, captured by the Shopkeeper and sold to a pretty low price.
+Dziki koń, schwytany przez sklepikarza i sprzedany po dość niskiej cenie.
 
-Click Item to summon it.
-Click again to unsummon it.
-(requires owner level {SUMMONEDLEVEL}).
+Kliknij przedmiot, aby go przywołać.
+Kliknij ponownie, aby go cofnąć.
+(wymaga poziomu właściciela {SUMMONEDLEVEL}).
 
-Health: {SUMMONEDHEALTH}
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Zdrowie: {SUMMONEDHEALTH}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Ring Scroll">
-          <Txt>Ring Scroll</Txt>
+          <Txt>Zwój Pierścienia</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object needed for the crafting of any craftable rings.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object needed for the crafting of any craftable rings.
+Przedmiot potrzebny do wytworzenia dowolnego pierścienia.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota</Txt>
         </GameElement>
         <GameElement ID="Rock">
-          <Txt>Rock</Txt>
+          <Txt>Skała</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A Rock, can be transformed into rubys.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A Rock, can be transformed into rubys.
+Skała, może zostać przekształcona w rubiny.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Ruby">
-          <Txt>Ruby</Txt>
+          <Txt>Rubin</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A Ruby, used in the crafting of some rings&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A Ruby, used in the crafting of some rings
+Rubin, używany do tworzenia niektórych pierścieni.
 
 Można zniszczyć: {DESTROYABLE}
 Można sprzedać: {SELLABLE}
 Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Skull">
-          <Txt>Skull</Txt>
+          <Txt>Czaszka
+</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;The crane of a Spartae, a skeleton ennemy. Sometimes doesn't get destroyed when the monster dye. A rare item, used to craft rings.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-The crane of a Spartae, a skeleton ennemy. Sometimes doesn't get destroyed when the monster dye. A rare item, used to craft rings.
+Żuraw Spartae, szkieletowego wroga. Czasami nie ulega zniszczeniu, gdy potwór ginie. Rzadki przedmiot używany do wytwarzania pierścieni.
 
 Można zniszczyć: {DESTROYABLE}
 Można sprzedać: {SELLABLE}
 Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Soul of a warrior">
-          <Txt>Soul of a warrior</Txt>
+          <Txt>Dusza Wojownika</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A precious item, considered as cursed for most humans.&#xA;The sould of a warrior can be obtain by extracting the memories of multiples killen heroes from the mind of a murderer.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A precious item, considered as cursed for most humans.
-The sould of a warrior can be obtain by extracting the memories of multiples killen heroes from the mind of a murderer.
+Cenny przedmiot, przez większość ludzi uważany za przeklęty.
+Duszę wojownika można uzyskać, wydobywając z umysłu mordercy wspomnienia wielu zabitych bohaterów.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A magic scroll, powerfull yet very common item created by gods to help fallen heroes have an easier time in the Elysium field, way before the war started. This one seem to have a weird drawing on it. Perhaps a map ? it does not represent the Elysians fields however.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Destination : {TPNAME}&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A magic scroll, powerfull yet very common item created by gods to help fallen heroes have an easier time in the Elysium field, way before the war started. This one seem to have a weird drawing on it. Perhaps a map ? it does not represent the Elysians fields however.
+Magiczny zwój, potężny, ale bardzo powszechny przedmiot stworzony przez bogów, aby pomóc poległym bohaterom w łatwiejszym czasie na polu Elysium, na długo przed wybuchem wojny. Ten wydaje się mieć dziwny rysunek. Może mapa? nie reprezentuje jednak pól Elizejskich.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Destination : {TPNAME}
-Required Level: {MINLEVEL}
+Można zniszczyć: {DESTROYABLE}
+Można sprzedać: {SELLABLE}
+Można handlować: {TRADABLE}
+Cel: {TPNAME}
+Wymagany Poziom: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Ilość: {AMOUNT}
+Cena: {BUYPRICE} Złota
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Vigor Potion">
-          <Txt>Vigor Potion</Txt>
+          <Txt>Mikstura Wigoru</Txt>
         </GameElement>
         <GameElement ID="Wooden stick">
-          <Txt>Wooden stick</Txt>
+          <Txt>Drewniany Patyk</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A stick, used to make arrows and others items.&#xA;It can be found by killing saplings.&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A stick, used to make arrows and others items.
-It can be found by killing saplings.
+Kij, używany do robienia strzał i innych przedmiotów.
+Można go znaleźć zabijając sadzonki.
 
 Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+&lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
       </listElements>
     </GameScene>
@@ -2467,6 +2471,7 @@ Zadanie:
         </GameElement>
         <GameElement ID="I got some tips from an... old friend. You will meet him later. Anyway, he was looking into buying &quot;the original wolf&quot; fur, whatever that is. &lt;i&gt;He promised me a lot of gold for it too...&lt;/i&gt; But that's not for you to worry about. Could you go get that for me? I don't have any gold for you, but I've an item that I know is valuable for your... fighting thing...&#xA;&#xA;Tasks:&#xA;* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}&#xA;&#xA;{STATUS}">
           <Txt>Dostałem kilka wskazówek od... starego przyjaciela. Spotkasz go później. W każdym razie chciał kupić "oryginalne wilcze" futro, cokolwiek to jest. &lt;i&gt;Obiecał mi też za to dużo złota...&lt;/i&gt; Ale nie musisz się tym martwić. Czy mógłbyś to dla mnie zdobyć? Nie mam dla ciebie złota, ale mam przedmiot, o którym wiem, że jest cenny dla twojej... walki...
+
 Zadanie:
 * Zbierz {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
 
@@ -2488,9 +2493,10 @@ Zadanie:
           <Txt>Podróż dla początkujących</Txt>
         </GameElement>
         <GameElement ID="Kill some {KILLTARGET}s. We need to help the Elysian field regain it's original beauty !&#xA;&#xA;Tasks:&#xA;* Kill {KILLTARGET}: {KILLED}/{KILLAMOUNT}&#xA;&#xA;{STATUS}">
-          <Txt>Zabij {KILLTARGET}s. Musimy pomóc Polu Elizejskiemu odzyskać jego pierwotne piękno!
+          <Txt>Zabij kilka {KILLTARGET}s. Musimy pomóc Polu Elizejskiemu odzyskać jego pierwotne piękno!
+
 Zadanie:
-* Kill {KILLTARGET}: {KILLED}/{KILLAMOUNT}
+* Zabij {KILLTARGET}: {KILLED}/{KILLAMOUNT}
 
 {STATUS}</Txt>
         </GameElement>
@@ -2626,7 +2632,7 @@ Zadanie:
           <Txt>Zabij Minotaura</Txt>
         </GameElement>
         <GameElement ID="Kill the Rock Monster">
-          <Txt>Zabij skalnego potwora</Txt>
+          <Txt>Zabij Skalnego Potwora</Txt>
         </GameElement>
         <GameElement ID="Leave The Elysian Fields">
           <Txt>Opuść Pola Elizejskie</Txt>
@@ -2649,7 +2655,7 @@ Zadanie:
         </GameElement>
         <GameElement ID="Save me, kill some harpies!&#xA;In exchange, I'll give you a beautifull ring I made.&#xA;&#xA;Tasks:&#xA;* Kill {KILLTARGET}: {KILLED}/{KILLAMOUNT}&#xA;&#xA;{STATUS}">
           <Txt>Uratuj mnie, zabij kilka harpii!
-W zamian dam Ci piękny pierścionek, który zrobiłam.
+W zamian dam Ci piękny pierścień, który zrobiłem.
 
 Zadanie:
 * Zabij {KILLTARGET}: {KILLED}/{KILLAMOUNT}
@@ -2661,7 +2667,7 @@ Zadanie:
     <GameScene Category="Skills">
       <listElements>
         <GameElement ID="(Cooldown) Monster Potion">
-          <Txt>(Odnawianie) Mikstura potworów</Txt>
+          <Txt>(Odnawianie) Mikstura Potworów</Txt>
         </GameElement>
         <GameElement ID="A Health Potion has recently been used.&#xA;&#xA;You can't use another one just yet...">
           <Txt>Ostatnio użyto Mikstury Zdrowia.
@@ -2669,7 +2675,7 @@ Zadanie:
 Nie możesz jeszcze użyć innego...</Txt>
         </GameElement>
         <GameElement ID="(Cooldown) Mount Invocation">
-          <Txt>(Odnawianie) Przywołanie towarzysza</Txt>
+          <Txt>(Odnawianie) Przywołanie Towarzysza</Txt>
         </GameElement>
         <GameElement ID="A mount has just been invoqued.&#xA;&#xA;You can't use another one just yet...">
           <Txt>Towarzysz właśnie został przywołany.
@@ -2696,7 +2702,7 @@ Nie możesz jeszcze użyć innego...</Txt>
           <Txt>Deszcz Strzał</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Attack all the ennemies around you.&#xA;Doesn't use any arrow as those are only images from your power.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Mana Costs: {MANACOSTS}&#xA;Damage: {DAMAGE}&#xA;Stun Chance: {STUNCHANCE}%&#xA;Stun Time: {STUNTIME}s">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Atakuje wszystkich wrogów wokół ciebie.
 Nie zużywa żadnej strzały, ponieważ to tylko obrazy twojej mocy.
 
@@ -2709,19 +2715,19 @@ Szansa na ogłuszenie: {STUNCHANCE}%
 Czas ogłuszenia: {STUNTIME} s</Txt>
         </GameElement>
         <GameElement ID="Contained Power">
-          <Txt>Zawarta moc</Txt>
+          <Txt>Zawarta Moc</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Permanently increases your mana quantity&#xA;&#xA;Bonus Mana Max: {BONUSMANAMAX}%">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Trwale zwiększa ilość twojej many
 
 Maksymalna dodatkowa mana: {BONUSMANAMAX}%</Txt>
         </GameElement>
         <GameElement ID="Focus">
-          <Txt>Focus</Txt>
+          <Txt>Skupienie</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Permanently increases Critical chance.&#xA;&#xA;Bonus Critical: {BONUSCRITICALCHANCE}%">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Trwale zwiększa szansę na trafienie krytyczne.
 
 Szansa na trafienie krytyczne {BONUSCRITICALCHANCE}%</Txt>
@@ -2739,7 +2745,7 @@ Szansa na trafienie krytyczne {BONUSCRITICALCHANCE}%</Txt>
           <Txt>Wstrząsnąć ziemią</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Stun and damage all the enemies around you.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Mana Costs: {MANACOSTS}&#xA;Damage: {DAMAGE}&#xA;Stun Time: {STUNTIME}s">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Ogłusza i zadaje obrażenia wszystkim wrogom wokół ciebie.
 
 Czas rzucania: {CASTTIME}
@@ -2750,20 +2756,20 @@ Obrażenia: {DAMAGE}
 Czas ogłuszenia: {STUNTIME}s</Txt>
         </GameElement>
         <GameElement ID="Hard Shell">
-          <Txt>Hard Shell</Txt>
+          <Txt>Twarda Skorupa</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;&#xA;Permanently increases Block chance.&#xA;&#xA;Bonus Block: {BONUSBLOCKCHANCE}%">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 
 Trwale zwiększa szansę na Blok.
 
 Szansa na blok: {BONUSBLOCKCHANCE}%</Txt>
         </GameElement>
         <GameElement ID="Healing">
-          <Txt>Healing</Txt>
+          <Txt>Leczenie</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Slowly regen your health&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Buff Time: {BUFFTIME}&#xA;Buffs Regen: {BONUSHEALTHPERCENTPERSECOND}%&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Powoli regeneruje twoje zdrowie
 
 Czas rzucania: {CASTTIME}
@@ -2773,10 +2779,10 @@ Regeneracja wzmocnień: {BONUSHEALTHPERCENTPERSECOND}%
 Koszt many: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Health Aura">
-          <Txt>Health Aura</Txt>
+          <Txt>Aura zdrowia</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Increases slightly the maximum health of all surrounding allies Players for a while and slowly heals them.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Buff Time: {BUFFTIME}&#xA;Buffs max Health: {BONUSHEALTHMAX}%&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Na chwilę nieznacznie zwiększa maksymalne zdrowie wszystkich otaczających graczy sojuszników i powoli ich leczy.
 
 Czas rzucania: {CASTTIME}
@@ -2787,10 +2793,10 @@ Wzmocnienia maksymalnego zdrowia: {BONUSHEALTHMAX}%
 Koszt many: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Heavy Smoke">
-          <Txt>Heavy Smoke</Txt>
+          <Txt>Ciężki Dym</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Uses smokes to blind enemies and slow them down:&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Malus Speed : {BONUSSPEED}&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Używa dymu do oślepiania wrogów i spowalniania ich:
 
 Czas rzucania: {CASTTIME}
@@ -2800,10 +2806,10 @@ Prędkość Malusa : {BONUSSPEED}
 Koszt many: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Life Boost">
-          <Txt>Life Boost</Txt>
+          <Txt>Wzmocnienie Życia</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Increases maximum health of a selected friend or of yourself for a while.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Buff Time: {BUFFTIME}&#xA;Buffs max Health: {BONUSHEALTHMAX}&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Zwiększa na chwilę maksymalne zdrowie wybranego znajomego lub siebie.
 
 Czas rzucania: {CASTTIME}
@@ -2819,10 +2825,10 @@ Koszt many: {MANACOSTS}</Txt>
           <Txt>Długi atak Likaona</Txt>
         </GameElement>
         <GameElement ID="Magic Shielding">
-          <Txt>Magiczna osłona</Txt>
+          <Txt>Magiczna Osłona</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Augment selected character defense.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Malus Speed : {BONUSSPEED}&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Ulepsz obronę wybranej postaci.
 
 Czas rzucania: {CASTTIME}
@@ -2845,10 +2851,10 @@ Inni gracze mogą cię zabić przez chwilę bez kary, a ty czujesz się dużo s�
 Czas wzmocnienia: {BUFFTIME}</Txt>
         </GameElement>
         <GameElement ID="Normal Attack (Bow)">
-          <Txt>Normalny atak (łuk)</Txt>
+          <Txt>Normalny atak (Łuk)</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Default Attack.&#xA;&#xA;Damage: {DAMAGE}&#xA;Stun Chance: {STUNCHANCE}%&#xA;Stun Time: {STUNTIME}s&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Atak domyślny.
 
 Obrażenia: {DAMAGE}
@@ -2862,10 +2868,10 @@ Zasięg rzucania: {CASTRANGE}</Txt>
           <Txt>Normalny Atak (Kostur)</Txt>
         </GameElement>
         <GameElement ID="Normal Attack (Sword)">
-          <Txt>Normalny atak (miecz)</Txt>
+          <Txt>Normalny Atak (Miecz)</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Default Attack&#xA;&#xA;Damage: {DAMAGE}&#xA;Stun Chance: {STUNCHANCE}%&#xA;Stun Time: {STUNTIME}s">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Atak domyślny.
 
 Obrażenia: {DAMAGE}
@@ -2892,7 +2898,7 @@ Czas wzmocnienia: {BUFFTIME}</Txt>
           <Txt>Poświęcenie</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Heals yourself at a pretty fast rate. &#xA;Considered a dark ability because can only heal yourself, even if it means letting your friends and ally die.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Heals Health: {HEALSHEALTH}&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Leczy się w dość szybkim tempie.
 Uważana za mroczną zdolność, ponieważ może leczyć tylko siebie, nawet jeśli oznacza to pozwolenie swoim przyjaciołom i sojusznikom umrzeć.
 
@@ -2903,10 +2909,10 @@ Leczy zdrowie: {HEALSHEALTH}
 Koszt many: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Second Chance">
-          <Txt>Second Chance</Txt>
+          <Txt>Druga szansa</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Heals a Player&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Heals Health: {HEALSHEALTH}&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Leczy gracza
 
 Czas rzucania: {CASTTIME}
@@ -2916,7 +2922,7 @@ Leczy zdrowie: {HEALSHEALTH}
 Koszt many: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Slash">
-          <Txt>Slash</Txt>
+          <Txt>Ogłuszenie</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Hits the selected ennemy, and stun it.&#xA;&#xA;Damage: {DAMAGE}&#xA;Mana Costs: {MANACOSTS}&#xA;Stun Time: {STUNTIME}s">
           <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
@@ -2927,7 +2933,7 @@ Koszt many: {MANACOSTS}
 Czas ogłuszenia: {STUNTIME}s</Txt>
         </GameElement>
         <GameElement ID="Therapy">
-          <Txt>Therapy</Txt>
+          <Txt>Terapia</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Heals all surrounding Players&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Heals Health: {HEALSHEALTH}&#xA;Mana Costs: {MANACOSTS}">
           <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
@@ -2940,10 +2946,10 @@ Leczy zdrowie: {HEALSHEALTH}
 Koszt many: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Warrior's Chain">
-          <Txt>Warrior's Chain</Txt>
+          <Txt>Łańcuch Wojownika</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Chain a ennemy and slow it down during a defined time.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Malus Speed : {BONUSSPEED}&#xA;Mana Costs: {MANACOSTS}&#xA;Buff Time: {BUFFTIME}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Zakuj wroga w łańcuch i spowolnij go w określonym czasie.
 
 Czas rzucania: {CASTTIME}
@@ -2954,10 +2960,10 @@ Koszt many: {MANACOSTS}
 Czas wzmocnienia: {BUFFTIME}</Txt>
         </GameElement>
         <GameElement ID="Windwalk">
-          <Txt>Windwalk</Txt>
+          <Txt>Spacer Wiatru</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Increases movement speed for a while.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Buff Time: {BUFFTIME}&#xA;Buffs speed: {BONUSSPEED}&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Na chwilę zwiększa prędkość ruchu.
 
 Czas rzucania: {CASTTIME}
