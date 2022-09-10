@@ -4,16 +4,16 @@
     <GameScene Category="Scene UI Elements">
       <listElements>
         <GameElement ID="Register">
-          <Txt>Register</Txt>
+          <Txt>S'enregister</Txt>
         </GameElement>
         <GameElement ID="Lv. 0">
-          <Txt>Lv. 0</Txt>
+          <Txt>Nv. 0</Txt>
         </GameElement>
         <GameElement ID="Enter message...">
-          <Txt>Введите сообщение...</Txt>
+          <Txt>Entrer un message...</Txt>
         </GameElement>
         <GameElement ID="Send">
-          <Txt>Отправить</Txt>
+          <Txt>Envoyer</Txt>
         </GameElement>
         <GameElement ID="Local">
           <Txt>Local</Txt>
@@ -22,110 +22,110 @@
           <Txt>Global</Txt>
         </GameElement>
         <GameElement ID="Name">
-          <Txt>Имя</Txt>
+          <Txt>Nom</Txt>
         </GameElement>
         <GameElement ID="Trade">
-          <Txt>Торговля</Txt>
+          <Txt>Échange</Txt>
         </GameElement>
         <GameElement ID="Guild Invite">
-          <Txt>Пригласить в гильдию</Txt>
+          <Txt>Invitation de Guilde</Txt>
         </GameElement>
         <GameElement ID="Party Invite">
-          <Txt>Пригласить в группу</Txt>
+          <Txt>Invitation de groupe</Txt>
         </GameElement>
         <GameElement ID="Inventory">
-          <Txt>Inventory</Txt>
+          <Txt>Équipement</Txt>
         </GameElement>
         <GameElement ID="Weapon">
-          <Txt>Weapon</Txt>
+          <Txt>Armes</Txt>
         </GameElement>
         <GameElement ID="Head">
-          <Txt>Head</Txt>
+          <Txt>Tête</Txt>
         </GameElement>
         <GameElement ID="Chest">
-          <Txt>Chest</Txt>
+          <Txt>Torse</Txt>
         </GameElement>
         <GameElement ID="Legs">
-          <Txt>Legs</Txt>
+          <Txt>Jambes</Txt>
         </GameElement>
         <GameElement ID="Shield">
-          <Txt>Shield</Txt>
+          <Txt>Bouclier</Txt>
         </GameElement>
         <GameElement ID="Hands">
-          <Txt>Hands</Txt>
+          <Txt>Mains</Txt>
         </GameElement>
         <GameElement ID="Gold:">
-          <Txt>Gold:</Txt>
+          <Txt>Or:</Txt>
         </GameElement>
         <GameElement ID="Bet:">
-          <Txt>Bet:</Txt>
+          <Txt>Paris:</Txt>
         </GameElement>
         <GameElement ID="See&#xA;Skins">
-          <Txt>See
+          <Txt>Voir
 Skins</Txt>
         </GameElement>
         <GameElement ID="Upgrade">
-          <Txt>Upgrade</Txt>
+          <Txt>Améliorer</Txt>
         </GameElement>
         <GameElement ID="Skills">
-          <Txt>Skills</Txt>
+          <Txt>Capacitée</Txt>
         </GameElement>
         <GameElement ID="Available Skill Exp.:">
-          <Txt>Available Skill Exp.:</Txt>
+          <Txt>Exp. de capacité restant:</Txt>
         </GameElement>
         <GameElement ID="reset">
-          <Txt>reset</Txt>
+          <Txt>Reset</Txt>
         </GameElement>
         <GameElement ID="Character Info">
-          <Txt>Character Info</Txt>
+          <Txt>Information du personage</Txt>
         </GameElement>
         <GameElement ID="Stats">
-          <Txt>Stats</Txt>
+          <Txt>Statistiques</Txt>
         </GameElement>
         <GameElement ID="Damage:">
-          <Txt>Damage:</Txt>
+          <Txt>Dégat:</Txt>
         </GameElement>
         <GameElement ID="Defense:">
-          <Txt>Defense:</Txt>
+          <Txt>Défense:</Txt>
         </GameElement>
         <GameElement ID="Max. Health:">
-          <Txt>Max. Health:</Txt>
+          <Txt>Vie max.:</Txt>
         </GameElement>
         <GameElement ID="Max. Mana:">
-          <Txt>Max. Mana:</Txt>
+          <Txt>Man max.:</Txt>
         </GameElement>
         <GameElement ID="Critical:">
-          <Txt>Critical:</Txt>
+          <Txt>Critique:</Txt>
         </GameElement>
         <GameElement ID="Block:">
-          <Txt>Block:</Txt>
+          <Txt>Bloquage:</Txt>
         </GameElement>
         <GameElement ID="Speed:">
-          <Txt>Speed:</Txt>
+          <Txt>Vitesse:</Txt>
         </GameElement>
         <GameElement ID="Level:">
-          <Txt>Level:</Txt>
+          <Txt>Niveau:</Txt>
         </GameElement>
         <GameElement ID="Exp. cur:">
-          <Txt>Exp. cur:</Txt>
+          <Txt>Experience :</Txt>
         </GameElement>
         <GameElement ID="Exp. max.:">
           <Txt>Exp. max.:</Txt>
         </GameElement>
         <GameElement ID="Skill Exp.:">
-          <Txt>Skill Exp.:</Txt>
+          <Txt>Exp. capacitée:</Txt>
         </GameElement>
         <GameElement ID="Attributes">
-          <Txt>Attributes</Txt>
+          <Txt>Attributs</Txt>
         </GameElement>
         <GameElement ID="Intelligence:">
           <Txt>Intelligence:</Txt>
         </GameElement>
         <GameElement ID="Strength:">
-          <Txt>Strength:</Txt>
+          <Txt>Force:</Txt>
         </GameElement>
         <GameElement ID="Precision:">
-          <Txt>Precision:</Txt>
+          <Txt>Précision:</Txt>
         </GameElement>
         <GameElement ID="Constitution:">
           <Txt>Constitution:</Txt>
@@ -491,7 +491,7 @@ buyable Items</Txt>
           <Txt>Buy Item:</Txt>
         </GameElement>
         <GameElement ID="Enter text...">
-          <Txt>Введите текст </Txt>
+          <Txt>Entrez votre texte...</Txt>
         </GameElement>
         <GameElement ID="Buy!">
           <Txt>Buy!</Txt>
@@ -642,7 +642,7 @@ You can't create a guild if you already are in one !</Txt>
           <Txt>Delete</Txt>
         </GameElement>
         <GameElement ID="Quit">
-          <Txt>Выход</Txt>
+          <Txt>Quit</Txt>
         </GameElement>
         <GameElement ID="Character Creation">
           <Txt>Character Creation</Txt>
@@ -669,48 +669,49 @@ You can't create a guild if you already are in one !</Txt>
           <Txt>Are you sure that you want to delete this character ?</Txt>
         </GameElement>
         <GameElement ID="Username:">
-          <Txt>Логин:</Txt>
+          <Txt>Nom d'utilisateur:</Txt>
         </GameElement>
         <GameElement ID="Password:">
-          <Txt>Пароль:</Txt>
+          <Txt>Mot de passe:</Txt>
         </GameElement>
         <GameElement ID="Server:">
-          <Txt>Сервер:</Txt>
+          <Txt>Serveur:</Txt>
         </GameElement>
         <GameElement ID="Europe">
-          <Txt>Европа</Txt>
+          <Txt>Europe</Txt>
         </GameElement>
         <GameElement ID="America">
-          <Txt>Америка</Txt>
+          <Txt>Amerique</Txt>
         </GameElement>
         <GameElement ID="Asia">
-          <Txt>Азия</Txt>
+          <Txt>Asie</Txt>
         </GameElement>
         <GameElement ID="Start Playing">
-          <Txt>Войти в игру</Txt>
+          <Txt>Commencer!</Txt>
         </GameElement>
         <GameElement ID="Recover &#xA;password">
-          <Txt>Восстановить пароль</Txt>
+          <Txt>Recupérer
+Mot de passe</Txt>
         </GameElement>
         <GameElement ID="Help me !">
-          <Txt>Помогите мне !</Txt>
+          <Txt>S.O.S. !</Txt>
         </GameElement>
         <GameElement ID="Wiki">
-          <Txt>Вики</Txt>
+          <Txt>Wiki</Txt>
         </GameElement>
         <GameElement ID="If you are new to the game, just enter your informations &amp; click Start Playing !">
-          <Txt>Если вы не зарегистрированны, просто введите свои данные и нажмите "Начать играть!"</Txt>
+          <Txt>Si vous êtes nouveau sur le jeu, entrez votre information, et appuyez sur "Commencer!"</Txt>
         </GameElement>
         <GameElement ID="Credit">
-          <Txt>Credit</Txt>
+          <Txt>Crédit</Txt>
         </GameElement>
         <GameElement ID="If you are new to the game&#xA;just enter your informations &amp;&#xA;click Start Playing !">
-          <Txt>If you are new to the game
-just enter your informations &amp;
-click Start Playing !</Txt>
+          <Txt>Si vous êtes nouveau sur le jeu,
+ entrez votre information,
+ et appuyez sur "Commencer!"</Txt>
         </GameElement>
         <GameElement ID="Settings">
-          <Txt>Settings</Txt>
+          <Txt>Paramètres</Txt>
         </GameElement>
         <GameElement ID="BGM:">
           <Txt>BGM:</Txt>
