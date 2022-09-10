@@ -107,7 +107,7 @@ Skins</Txt>
           <Txt>Niveau:</Txt>
         </GameElement>
         <GameElement ID="Exp. cur:">
-          <Txt>Experience :</Txt>
+          <Txt>Exp.:</Txt>
         </GameElement>
         <GameElement ID="Exp. max.:">
           <Txt>Exp. max.:</Txt>
