@@ -131,59 +131,59 @@ Skins</Txt>
           <Txt>Constitution:</Txt>
         </GameElement>
         <GameElement ID="Crafting">
-          <Txt>Crafting</Txt>
+          <Txt>Fabrication</Txt>
         </GameElement>
         <GameElement ID="Page 1/1">
           <Txt>Page 1/1</Txt>
         </GameElement>
         <GameElement ID="Spawn Scroll">
-          <Txt>Spawn Scroll</Txt>
+          <Txt>Parchemin de téléportation</Txt>
         </GameElement>
         <GameElement ID="Craft (100%)">
-          <Txt>Craft (100%)</Txt>
+          <Txt>Fabrication (100%)</Txt>
         </GameElement>
         <GameElement ID="Crafting...">
-          <Txt>Crafting...</Txt>
+          <Txt>Fabrication en cours...</Txt>
         </GameElement>
         <GameElement ID="CRAFT SUCCESFULL !">
-          <Txt>CRAFT SUCCESFULL !</Txt>
+          <Txt>FABRICATION RÉUSSIE !</Txt>
         </GameElement>
         <GameElement ID="ITEM NAME&#xA;(1/5)">
           <Txt>ITEM NAME
 (1/5)</Txt>
         </GameElement>
         <GameElement ID="CRAFT FAILED :(">
-          <Txt>CRAFT FAILED :(</Txt>
+          <Txt>FABRICATION RATÉE :(</Txt>
         </GameElement>
         <GameElement ID="ITEM NAME">
           <Txt>ITEM NAME</Txt>
         </GameElement>
         <GameElement ID="Map Panel">
-          <Txt>Map Panel</Txt>
+          <Txt>Carte</Txt>
         </GameElement>
         <GameElement ID="ZOOM">
           <Txt>ZOOM</Txt>
         </GameElement>
         <GameElement ID="Name of the Island:">
-          <Txt>Name of the Island:</Txt>
+          <Txt>Name de l'ìle:</Txt>
         </GameElement>
         <GameElement ID="Elysian Field">
-          <Txt>Elysian Field</Txt>
+          <Txt>Les champs Élysiens</Txt>
         </GameElement>
         <GameElement ID="Guild Panel">
-          <Txt>Guild Panel</Txt>
+          <Txt>Guilde</Txt>
         </GameElement>
         <GameElement ID="Guild Master:">
-          <Txt>Guild Master:</Txt>
+          <Txt>Maitre de guilde:</Txt>
         </GameElement>
         <GameElement ID="Capacity:">
-          <Txt>Capacity:</Txt>
+          <Txt>Capacitée:</Txt>
         </GameElement>
         <GameElement ID="Notice:">
-          <Txt>Notice:</Txt>
+          <Txt>Information:</Txt>
         </GameElement>
         <GameElement ID="Enter notice...">
-          <Txt>Enter notice...</Txt>
+          <Txt>Entre information...</Txt>
         </GameElement>
         <GameElement ID="Edit">
           <Txt>Edit</Txt>
@@ -192,39 +192,39 @@ Skins</Txt>
           <Txt>Set</Txt>
         </GameElement>
         <GameElement ID="Member">
-          <Txt>Member</Txt>
+          <Txt>Membre</Txt>
         </GameElement>
         <GameElement ID="Lv.">
-          <Txt>Lv.</Txt>
+          <Txt>Nv.</Txt>
         </GameElement>
         <GameElement ID="Rank">
-          <Txt>Rank</Txt>
+          <Txt>Rang</Txt>
         </GameElement>
         <GameElement ID="Action">
           <Txt>Action</Txt>
         </GameElement>
         <GameElement ID="Leave Guild">
-          <Txt>Leave Guild</Txt>
+          <Txt>Sortir de la guilde</Txt>
         </GameElement>
         <GameElement ID="Popup">
           <Txt>Popup</Txt>
         </GameElement>
         <GameElement ID="Are you sure you want to leave your guild ?">
-          <Txt>Are you sure you want to leave your guild ?</Txt>
+          <Txt>Vous êtes sûr que vous voulez partir de la guilde?</Txt>
         </GameElement>
         <GameElement ID="YES !">
-          <Txt>YES !</Txt>
+          <Txt>OUI !</Txt>
         </GameElement>
         <GameElement ID="NO !">
-          <Txt>NO !</Txt>
+          <Txt>NON !</Txt>
         </GameElement>
         <GameElement ID="You can't leave your guild as the Guild Master !&#xA;Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.&#xA;">
-          <Txt>You can't leave your guild as the Guild Master !
-Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.
+          <Txt>En tant que maitre de guilde, vous ne pouvez pas partir !
+Visitez un PNJ qui s'occupe des guildes, si vous souaitez la terminer, ou selecionner un autre membre pour être le nouveau maitre de guilde.
 </Txt>
         </GameElement>
         <GameElement ID="You can't leave your guild as the Guild Master !&#xA;">
-          <Txt>You can't leave your guild as the Guild Master !
+          <Txt>En tant que maitre de guilde, vous ne pouvez pas partir !
 </Txt>
         </GameElement>
         <GameElement ID="OK !">
@@ -268,106 +268,106 @@ or join another player's guild !</Txt>
           <Txt>buy</Txt>
         </GameElement>
         <GameElement ID="10 Diamonds">
-          <Txt>10 Diamonds</Txt>
+          <Txt>10 Diamants</Txt>
         </GameElement>
         <GameElement ID="50 Diamonds">
-          <Txt>50 Diamonds</Txt>
+          <Txt>50 Diamants</Txt>
         </GameElement>
         <GameElement ID="100 Diamonds">
-          <Txt>100 Diamonds</Txt>
+          <Txt>100 Diamants</Txt>
         </GameElement>
         <GameElement ID="Character Edition">
-          <Txt>Character Edition</Txt>
+          <Txt>Édition du personnage</Txt>
         </GameElement>
         <GameElement ID="Chose new appearance">
-          <Txt>Chose new appearance</Txt>
+          <Txt>Choisizez une nouvelle apparence</Txt>
         </GameElement>
         <GameElement ID="Cancel">
-          <Txt>Cancel</Txt>
+          <Txt>Annuler</Txt>
         </GameElement>
         <GameElement ID="Loot">
-          <Txt>Loot</Txt>
+          <Txt>Collecter</Txt>
         </GameElement>
         <GameElement ID="Gold">
-          <Txt>Gold</Txt>
+          <Txt>Or</Txt>
         </GameElement>
         <GameElement ID="Loot All">
-          <Txt>Loot All</Txt>
+          <Txt>Tout collecter</Txt>
         </GameElement>
         <GameElement ID="Player Trading">
-          <Txt>Player Trading</Txt>
+          <Txt>Échange</Txt>
         </GameElement>
         <GameElement ID="Player's Offer:">
-          <Txt>Player's Offer:</Txt>
+          <Txt>Offre du joueur:</Txt>
         </GameElement>
         <GameElement ID="My Offer:">
-          <Txt>My Offer:</Txt>
+          <Txt>Mon offre:</Txt>
         </GameElement>
         <GameElement ID="Enter amount...">
-          <Txt>Enter amount...</Txt>
+          <Txt>Entrer quantitée...</Txt>
         </GameElement>
         <GameElement ID="Lock">
-          <Txt>Lock</Txt>
+          <Txt>Verrouiler</Txt>
         </GameElement>
         <GameElement ID="Accept">
-          <Txt>Accept</Txt>
+          <Txt>Accepter</Txt>
         </GameElement>
         <GameElement ID="Quests">
-          <Txt>Quests</Txt>
+          <Txt>Quêtes</Txt>
         </GameElement>
         <GameElement ID="NAME">
-          <Txt>NAME</Txt>
+          <Txt>NOM</Txt>
         </GameElement>
         <GameElement ID="rewards:">
-          <Txt>rewards:</Txt>
+          <Txt>récompenses:</Txt>
         </GameElement>
         <GameElement ID="Complete Quest">
-          <Txt>Complete Quest</Txt>
+          <Txt>Completer la quète</Txt>
         </GameElement>
         <GameElement ID="Chose a quest ">
-          <Txt>Chose a quest </Txt>
+          <Txt>Choisir une quète </Txt>
         </GameElement>
         <GameElement ID="Party">
-          <Txt>Party</Txt>
+          <Txt>Groupe</Txt>
         </GameElement>
         <GameElement ID="Exp. Auto Share">
-          <Txt>Exp. Auto Share</Txt>
+          <Txt>Partage Auto Exp.</Txt>
         </GameElement>
         <GameElement ID="Gold Auto Share">
-          <Txt>Gold Auto Share</Txt>
+          <Txt>Partage Auto Or</Txt>
         </GameElement>
         <GameElement ID="Ico">
           <Txt>Ico</Txt>
         </GameElement>
         <GameElement ID="Guild">
-          <Txt>Guild</Txt>
+          <Txt>Guilde</Txt>
         </GameElement>
         <GameElement ID="Faction Panel">
-          <Txt>Faction Panel</Txt>
+          <Txt>Faction</Txt>
         </GameElement>
         <GameElement ID="CHOSE WHO YOU WANT TO FIGHT FOR !">
-          <Txt>CHOSE WHO YOU WANT TO FIGHT FOR !</Txt>
+          <Txt>CHOISISEZ VOTRE FACTION !</Txt>
         </GameElement>
         <GameElement ID="Zeus's Followers&#xA;&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;">
-          <Txt>Zeus's Followers
-&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;</Txt>
+          <Txt>Les suivants de Zeus
+&lt;color=#F0E68C&gt;Dieu des cieuxs et du tonerre&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Poseidons's Followers&#xA;&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;">
-          <Txt>Poseidons's Followers
-&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;</Txt>
+          <Txt>Les suivants de Poseidon
+&lt;color=#ADD8E6&gt;Dieu des mers et des tempètes&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Faction Popup">
           <Txt>Faction Popup</Txt>
         </GameElement>
         <GameElement ID="Are you sure you want to join &lt;color=#ADD8E6&gt;Poseidon's Followers&lt;/color&gt; ?&#xA;&lt;color=#E00016&gt;You won't be able to change faction ever again !&lt;/color&gt;">
-          <Txt>Are you sure you want to join &lt;color=#ADD8E6&gt;Poseidon's Followers&lt;/color&gt; ?
-&lt;color=#E00016&gt;You won't be able to change faction ever again !&lt;/color&gt;</Txt>
+          <Txt>Vous êtes sur que vous voulez rejoindre &lt;color=#ADD8E6&gt;Les suivants de Poseidon&lt;/color&gt; ?
+&lt;color=#E00016&gt;Vous ne pourrez pas changer de faction!&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Accept !">
-          <Txt>Accept !</Txt>
+          <Txt>Accepter !</Txt>
         </GameElement>
         <GameElement ID="You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt; to integrate a faction !">
-          <Txt>You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt; to integrate a faction !</Txt>
+          <Txt>Vous devez être niveau &lt;color=#F0E68C&gt;20&lt;/color&gt; pour integrer une faction !</Txt>
         </GameElement>
         <GameElement ID="FACTION NAME">
           <Txt>FACTION NAME</Txt>
