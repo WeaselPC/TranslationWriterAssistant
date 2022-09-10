@@ -318,9 +318,6 @@ or join another player's guild !</Txt>
         <GameElement ID="NAME">
           <Txt>NAME</Txt>
         </GameElement>
-        <GameElement ID="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consequat metus erat, non suscipit metus vulputate quis. Nulla eget semper eros. Duis vitae enim a ipsum venenatis cursus. Nunc luctus nibh consectetur convallis imperdiet. Aenean dictum vel turpis non cursus. Mauris at massa ac urna ultrices auctor. Aenean tincidunt neque eros, non vestibulum velit tempus vel.">
-          <Txt>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consequat metus erat, non suscipit metus vulputate quis. Nulla eget semper eros. Duis vitae enim a ipsum venenatis cursus. Nunc luctus nibh consectetur convallis imperdiet. Aenean dictum vel turpis non cursus. Mauris at massa ac urna ultrices auctor. Aenean tincidunt neque eros, non vestibulum velit tempus vel.</Txt>
-        </GameElement>
         <GameElement ID="rewards:">
           <Txt>rewards:</Txt>
         </GameElement>
@@ -743,23 +740,11 @@ Mot de passe</Txt>
         <GameElement ID="Art by :">
           <Txt>Art by :</Txt>
         </GameElement>
-        <GameElement ID="So007 / Antheus / -JackArt-">
-          <Txt>So007 / Antheus / -JackArt-</Txt>
-        </GameElement>
         <GameElement ID="Music by :">
           <Txt>Music by :</Txt>
         </GameElement>
-        <GameElement ID="Antheus / CRP">
-          <Txt>Antheus / CRP</Txt>
-        </GameElement>
         <GameElement ID="Networking API by :">
           <Txt>Networking API by :</Txt>
-        </GameElement>
-        <GameElement ID="Vis2k / Coburn">
-          <Txt>Vis2k / Coburn</Txt>
-        </GameElement>
-        <GameElement ID="A game made with love by : Antheus">
-          <Txt>A game made with love by : Antheus</Txt>
         </GameElement>
         <GameElement ID="Welcome to ELYSIUM ONLINE !">
           <Txt>Welcome to ELYSIUM ONLINE !</Txt>
@@ -879,15 +864,6 @@ Chat</Txt>
         <GameElement ID="1000ms">
           <Txt>1000ms</Txt>
         </GameElement>
-        <GameElement ID="So007 / Weasel">
-          <Txt>So007 / Weasel</Txt>
-        </GameElement>
-        <GameElement ID="Weasel / CRP">
-          <Txt>Weasel / CRP</Txt>
-        </GameElement>
-        <GameElement ID="A game made with love by : Weasel &lt;3">
-          <Txt>A game made with love by : Weasel &lt;3</Txt>
-        </GameElement>
         <GameElement ID="If you already have an account, but wrote incorrectly your username, click on :">
           <Txt>If you already have an account, but wrote incorrectly your username, click on :</Txt>
         </GameElement>
@@ -896,9 +872,6 @@ Chat</Txt>
         </GameElement>
         <GameElement ID="Enter here what you want your new password to be :">
           <Txt>Enter here what you want your new password to be :</Txt>
-        </GameElement>
-        <GameElement ID="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa">
-          <Txt>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</Txt>
         </GameElement>
         <GameElement ID="POPUP">
           <Txt>POPUP</Txt>
