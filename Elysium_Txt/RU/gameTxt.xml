@@ -25,7 +25,7 @@
           <Txt>Имя</Txt>
         </GameElement>
         <GameElement ID="Trade">
-          <Txt>Торговля</Txt>
+          <Txt>Торговаться</Txt>
         </GameElement>
         <GameElement ID="Guild Invite">
           <Txt>Пригласить в гильдию</Txt>
@@ -65,16 +65,16 @@
 Skins</Txt>
         </GameElement>
         <GameElement ID="Upgrade">
-          <Txt>Upgrade</Txt>
+          <Txt>Улучшить</Txt>
         </GameElement>
         <GameElement ID="Skills">
-          <Txt>Skills</Txt>
+          <Txt>Навыки</Txt>
         </GameElement>
         <GameElement ID="Available Skill Exp.:">
-          <Txt>Available Skill Exp.:</Txt>
+          <Txt>Неиспользованные очки навыков:</Txt>
         </GameElement>
         <GameElement ID="reset">
-          <Txt>reset</Txt>
+          <Txt>Сбросить</Txt>
         </GameElement>
         <GameElement ID="Character Info">
           <Txt>Character Info</Txt>
@@ -137,10 +137,10 @@ Skins</Txt>
           <Txt>Page 1/1</Txt>
         </GameElement>
         <GameElement ID="Spawn Scroll">
-          <Txt>Spawn Scroll</Txt>
+          <Txt>Свиток Перемещения</Txt>
         </GameElement>
         <GameElement ID="Craft (100%)">
-          <Txt>Craft (100%)</Txt>
+          <Txt>Создание (100%)</Txt>
         </GameElement>
         <GameElement ID="Crafting...">
           <Txt>Crafting...</Txt>
@@ -198,10 +198,10 @@ Skins</Txt>
           <Txt>Lv.</Txt>
         </GameElement>
         <GameElement ID="Rank">
-          <Txt>Rank</Txt>
+          <Txt>Ранг</Txt>
         </GameElement>
         <GameElement ID="Action">
-          <Txt>Action</Txt>
+          <Txt>Аукцион</Txt>
         </GameElement>
         <GameElement ID="Leave Guild">
           <Txt>Leave Guild</Txt>
@@ -231,7 +231,7 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
           <Txt>OK !</Txt>
         </GameElement>
         <GameElement ID="New Text">
-          <Txt>New Text</Txt>
+          <Txt>Новый Текст.</Txt>
         </GameElement>
         <GameElement ID="You do not have a guild">
           <Txt>You do not have a guild</Txt>
@@ -256,7 +256,7 @@ or join another player's guild !</Txt>
           <Txt>Lv. 100</Txt>
         </GameElement>
         <GameElement ID="Diamonds">
-          <Txt>Diamonds</Txt>
+          <Txt>Алмазы</Txt>
         </GameElement>
         <GameElement ID="Buy Diamonds">
           <Txt>Buy Diamonds</Txt>
@@ -265,7 +265,7 @@ or join another player's guild !</Txt>
           <Txt>Diamonds are NOT an IG currency. They can only be used to buy appearance items.</Txt>
         </GameElement>
         <GameElement ID="buy">
-          <Txt>buy</Txt>
+          <Txt>Купить</Txt>
         </GameElement>
         <GameElement ID="10 Diamonds">
           <Txt>10 Diamonds</Txt>
@@ -488,7 +488,7 @@ buyable Items</Txt>
           <Txt>Buy Item:</Txt>
         </GameElement>
         <GameElement ID="Enter text...">
-          <Txt>Введите текст </Txt>
+          <Txt>Введите текст...</Txt>
         </GameElement>
         <GameElement ID="Buy!">
           <Txt>Buy!</Txt>
@@ -684,22 +684,22 @@ You can't create a guild if you already are in one !</Txt>
           <Txt>Азия</Txt>
         </GameElement>
         <GameElement ID="Start Playing">
-          <Txt>Войти в игру</Txt>
+          <Txt>Начать играть!</Txt>
         </GameElement>
         <GameElement ID="Recover &#xA;password">
           <Txt>Восстановить пароль</Txt>
         </GameElement>
         <GameElement ID="Help me !">
-          <Txt>Помогите мне !</Txt>
+          <Txt>Помогите мне!</Txt>
         </GameElement>
         <GameElement ID="Wiki">
           <Txt>Вики</Txt>
         </GameElement>
         <GameElement ID="If you are new to the game, just enter your informations &amp; click Start Playing !">
-          <Txt>Если вы не зарегистрированны, просто введите свои данные и нажмите "Начать играть!"</Txt>
+          <Txt>Если вы не зарегистрированны, просто введите свои данные и нажмите "Начать играть"!</Txt>
         </GameElement>
         <GameElement ID="Credit">
-          <Txt>Credit</Txt>
+          <Txt>Заслуги</Txt>
         </GameElement>
         <GameElement ID="If you are new to the game&#xA;just enter your informations &amp;&#xA;click Start Playing !">
           <Txt>If you are new to the game
@@ -880,1786 +880,1788 @@ Chat</Txt>
     <GameScene Category="Other UI Elements">
       <listElements>
         <GameElement ID="Use All">
-          <Txt>Use All</Txt>
+          <Txt>Исп. всё</Txt>
         </GameElement>
         <GameElement ID=" Take &#xA;1">
-          <Txt> Take 
-1</Txt>
+          <Txt>Исп. 1</Txt>
         </GameElement>
         <GameElement ID="Split">
-          <Txt>Split</Txt>
+          <Txt>Разделить</Txt>
         </GameElement>
         <GameElement ID="Take">
-          <Txt>Take</Txt>
+          <Txt>Исп.</Txt>
         </GameElement>
         <GameElement ID="Item Name">
-          <Txt>Item Name</Txt>
+          <Txt>Имя предмета</Txt>
         </GameElement>
         <GameElement ID="999 gold">
-          <Txt>999 gold</Txt>
+          <Txt>999 Золота</Txt>
         </GameElement>
         <GameElement ID="Buy">
-          <Txt>Buy</Txt>
+          <Txt>Купить</Txt>
         </GameElement>
         <GameElement ID="Category">
-          <Txt>Category</Txt>
+          <Txt>Категории</Txt>
         </GameElement>
         <GameElement ID="Chose">
-          <Txt>Chose</Txt>
+          <Txt>Выбрать</Txt>
         </GameElement>
         <GameElement ID="Promote">
-          <Txt>Promote</Txt>
+          <Txt>Повысить</Txt>
         </GameElement>
         <GameElement ID="Demote">
-          <Txt>Demote</Txt>
+          <Txt>Понизить</Txt>
         </GameElement>
         <GameElement ID="Kick">
-          <Txt>Kick</Txt>
+          <Txt>Выгнать</Txt>
         </GameElement>
         <GameElement ID="Extensions">
-          <Txt>Extensions</Txt>
+          <Txt>Расширение</Txt>
         </GameElement>
         <GameElement ID="LIMITED">
-          <Txt>LIMITED</Txt>
+          <Txt>ЛИМИТ</Txt>
         </GameElement>
         <GameElement ID="Essence Staff">
-          <Txt>Essence Staff</Txt>
+          <Txt>Источающий Жезл.</Txt>
         </GameElement>
         <GameElement ID="Equipment Health / Damage Bonus">
-          <Txt>Equipment Health / Damage Bonus</Txt>
+          <Txt>Прочность / Урон</Txt>
         </GameElement>
         <GameElement ID="Already started">
-          <Txt>Already started</Txt>
+          <Txt>Уже началось</Txt>
         </GameElement>
         <GameElement ID="Description&#xA;">
-          <Txt>Description
-</Txt>
+          <Txt>Описание</Txt>
         </GameElement>
       </listElements>
     </GameScene>
     <GameScene Category="Items">
       <listElements>
         <GameElement ID="Apology potion">
-          <Txt>Apology potion</Txt>
+          <Txt>Зелье Извинения.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;This is a gift for the players, selled by the apology NPC after an error was made by the dev.&#xA;&#xA;Gives {USAGEEXPERIENCE} EXP on use&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-This is a gift for the players, selled by the apology NPC after an error was made by the dev.
+Это подарок для игроков, продаётся NPC с извинениями после ошибки, допущенной разработчиком.
+Даёт {USAGEEXPERIENCE} EXP при использовании
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Gives {USAGEEXPERIENCE} EXP on use
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-
-Amount: {AMOUNT}</Txt>
+Стоимость: {AMOUNT}</Txt>
         </GameElement>
         <GameElement ID="Christmas Hat">
-          <Txt>Christmas Hat</Txt>
+          <Txt>Рождественская шапка.</Txt>
         </GameElement>
         <GameElement ID="OH OH OH!&#xA;There's in the human world,&#xA;legend of this mystical being,&#xA;gifting nice childrens,&#xA;a gift for them to enjoy :)&#xA;Only affect appearance&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;">
-          <Txt>OH OH OH!
-There's in the human world,
-legend of this mystical being,
-gifting nice childrens,
-a gift for them to enjoy :)
-Only affect appearance
-
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+          <Txt>ХО-ХО-ХО!
+В мире людей существует
+легенда об этом мистическом существе,
+он дарит милым детям,
+ 
+подарок, чтобы они наслаждались:)
+Влияет только на внешность!
+Можно разрушить: {DESTROYABLE}
+Можно продать: {SELLABLE}
+Можно торговать: {TRADABLE}
 </Txt>
         </GameElement>
         <GameElement ID="Fox Mask">
-          <Txt>Fox Mask</Txt>
+          <Txt>Лисья маска.</Txt>
         </GameElement>
         <GameElement ID="An helmet in a wild west style.&#xA;Only affect appearance.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;">
-          <Txt>An helmet in a wild west style.
-Only affect appearance.
+          <Txt>Шлем в стиле дикого запада.
+Влияет только на внешний вид.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 </Txt>
         </GameElement>
         <GameElement ID="Leenk Chest">
-          <Txt>Leenk Chest</Txt>
+          <Txt>Доспехи Линка</Txt>
         </GameElement>
         <GameElement ID="The chest of the armor of a powerfull hero &#xA;that saved the world of Hyrale, &#xA;Leenk !&#xA;Only affect appearance&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;">
-          <Txt>The chest of the armor of a powerfull hero 
-that saved the world of Hyrale, 
-Leenk !
-Only affect appearance
+          <Txt>Сундук с доспехами могущественного героя. 
+который спас мир - Хайрала, 
+Линка.
+Влияет только на внешний вид.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 </Txt>
         </GameElement>
         <GameElement ID="Leenk Hat">
-          <Txt>Leenk Hat</Txt>
+          <Txt>Шдем Линка.</Txt>
         </GameElement>
         <GameElement ID="The hat of a powerfull hero &#xA;that saved the world of Hyrale, &#xA;Leenk !&#xA;Only affect appearance&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;">
-          <Txt>The hat of a powerfull hero 
-that saved the world of Hyrale, 
-Leenk !
-Only affect appearance
+          <Txt>Шлем могущественного героя. 
+который спас мир - Хайрала, 
+Линка!
+Влияет только на внешний вид.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 </Txt>
         </GameElement>
         <GameElement ID="Leenk Legs">
-          <Txt>Leenk Legs</Txt>
+          <Txt>Сапоги Линка.</Txt>
         </GameElement>
         <GameElement ID="The legs of the armor of a powerfull hero &#xA;that saved the world of Hyrale, &#xA;Leenk !&#xA;Only affect appearance&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;">
-          <Txt>The legs of the armor of a powerfull hero 
-that saved the world of Hyrale, 
-Leenk !
-Only affect appearance
+          <Txt>Сапоги из доспехов могущественного героя,
+который спас мир - Хайрала, 
+Линка!
+Влияют только на внешний вид.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 </Txt>
         </GameElement>
         <GameElement ID="wild west helmet">
-          <Txt>wild west helmet</Txt>
+          <Txt>Шлем "Дикий запад".</Txt>
         </GameElement>
         <GameElement ID="An helmet in a wild west style.&#xA;A pretty rare item, but that doesn't seem to have any effect on your capacities.&#xA;Only affect appearance&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;">
-          <Txt>An helmet in a wild west style.
-A pretty rare item, but that doesn't seem to have any effect on your capacities.
-Only affect appearance
+          <Txt>Шлем в стиле дикого запада.
+Довольно редкий предмет, но это никак не влияет на ваши способности.
+Влияет только на внешний вид
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 </Txt>
         </GameElement>
         <GameElement ID="Big health potion">
-          <Txt>Big health potion</Txt>
+          <Txt>Большое Зелье Здоровья.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;Restores some Health.&#xA;&#xA;Restores {USAGEHEALTH} Health on use.&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-Restores some Health.
+Восстанавливает немного здоровья.
 
-Restores {USAGEHEALTH} Health on use.
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Восстанавливает {USAGEHEALTH} здоровья при использовании.
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Big mana potion">
-          <Txt>Big mana potion</Txt>
+          <Txt>Большое Зелье Маны.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;Restores some Mana.&#xA;&#xA;Restores {USAGEMANA} Mana on use.&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-Restores some Mana.
+Восстанавливает немного маны.
 
-Restores {USAGEMANA} Mana on use.
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Восстанавливает {USAGEMANA} ману при использовании.
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Gold
+&lt;i&gt;Продать за: {SELLPRICE} Gold&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Big vigor potion">
-          <Txt>Big vigor potion</Txt>
+          <Txt>Большое Зелье Бодрости.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;Restores some Health and Mana. A pretty low level, and low price potion, that can be usefull when monsters attacks you.&#xA;&#xA;Restores {USAGEHEALTH} Health on use.&#xA;Restores {USAGEMANA} Mana on use.&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-Restores some Health and Mana. A pretty low level, and low price potion, that can be usefull when monsters attacks you.
+Восстанавливает немного здоровья и маны. Довольно низкоуровневое и недорогое зелье, которое может пригодиться, когда на вас нападают монстры.
 
-Restores {USAGEHEALTH} Health on use.
-Restores {USAGEMANA} Mana on use.
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Восстанавливает {USAGEHEALTH} здоровье при использовании.
+Восстанавливает {USAGEMANA} Ману при использовании.
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Boots Scroll">
-          <Txt>Boots Scroll</Txt>
+          <Txt>Пергамент Сапог</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object needed for the crafting of any craftable legs.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object needed for the crafting of any craftable legs.
+Предмет, необходимый для изготовления любых ремесленных сапог.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота</Txt>
         </GameElement>
         <GameElement ID="Chest Scroll">
-          <Txt>Chest Scroll</Txt>
+          <Txt>Пергамент Досппех.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object needed for the crafting of any craftable chest.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object needed for the crafting of any craftable chest.
+Предмет, необходимый для изготовления любого ремесленного доспеха.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота</Txt>
         </GameElement>
         <GameElement ID="Basic light Boot">
-          <Txt>Basic light Boot</Txt>
+          <Txt>Бозовые Лёгкие Сапоги.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;A solid yet simple boot you bought at the shop for a low price...&#xA;It will do the job, but it doesn't seem very solid.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-A solid yet simple boot you bought at the shop for a low price...
-It will do the job, but it doesn't seem very solid.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ЛУЧНИКОВ&lt;/b&gt;&lt;/i&gt;
+Прочные, но простое ботиноки, которые вы купили в магазине по низкой цене...
+Они подойдут для работы, но не кажутся очень прочными.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{CRITICALCHANCEBONUS} critical
+{DEFENSEBONUS} Броня
+{CRITICALCHANCEBONUS} Шанс крит. удара
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic light chest">
-          <Txt>Basic light chest</Txt>
+          <Txt>Базовые Лёгкие Доспехи.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An chest armor you  bought for pretty cheap.&#xA;It's simple, but it seem solid... enough?&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-An chest armor you  bought for pretty cheap.
-It's simple, but it seem solid... enough?
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ЛУЧНИКОВ&lt;/b&gt;&lt;/i&gt;
+Нагрудный доспех, который вы купили довольно дешево.
+Он прост, но кажется надежным... достаточно?
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Броня
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic light hood">
-          <Txt>Basic light hood</Txt>
+          <Txt>Базовый Лёгкий Капюшон.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An hood you bought... &#xA;It's simple, but seem solid,&#xA;and should help you focus on your ennemy&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-An hood you bought... 
-It's simple, but seem solid,
-and should help you focus on your ennemy
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ЛЦЧНИКОВ&lt;/b&gt;&lt;/i&gt;
+Капюшон, который вы купили... 
+Он прост, но кажется надежным,
+и должен помочь тебе сфокусироваться на враге.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{CRITICALCHANCEBONUS} critical
+{DEFENSEBONUS} Броня
+{CRITICALCHANCEBONUS} Шанс крит. удара
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice light Boot">
-          <Txt>Novice light Boot</Txt>
+          <Txt>Лёгкие Сапоги Новичка.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old boot you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-An old boot you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ЛУЧНИКОВ&lt;/b&gt;&lt;/i&gt;
+Старый сапог, который вы купили в лавке Элизиума, по низкой цене...
+Он сделает свою работу, но долго не протянет, когда ты станешь достаточно сильным.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{CRITICALCHANCEBONUS} critical
+{DEFENSEBONUS} Броня
+{CRITICALCHANCEBONUS} Шанс крит. удара
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice light chest">
-          <Txt>Novice light chest</Txt>
+          <Txt>Лёгкий Нагрудник Новичка.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old chestplate you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
 &lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-An old chestplate you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+Старый нагрудник, который вы купили в лавке Элизиума, по низкой цене...
+Он сделает свою работу, но долго не продержится, когда ты станешь достаточно сильным.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Броня
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice light hood">
-          <Txt>Novice light hood</Txt>
+          <Txt>Лёгкий капюшон Новичка.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old hood you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
 &lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-An old hood you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+Старый капюшон, который вы купили в лавке Элизиума, по низкой цене...
+Он сделает свою работу, но долго не продержится, когда ты станешь достаточно сильным.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{CRITICALCHANCEBONUS} critical
+{DEFENSEBONUS} Броня
+{CRITICALCHANCEBONUS} Шанс крит. удара
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Ranger boot">
-          <Txt>Ranger boot</Txt>
+          <Txt>Ботинки Лучника.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Boots made from the enemies you killed, imitating the style of a certain famous ranger.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-Boots made from the enemies you killed, imitating the style of a certain famous ranger.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ЛУЧНИКОВ&lt;/b&gt;&lt;/i&gt;
+Сапоги, сделанные из убитых вами врагов в подражание стилю знаменитого Лучника.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{CRITICALCHANCEBONUS} critical
+{DEFENSEBONUS} Броня
+{CRITICALCHANCEBONUS} Шанс крит. удара
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Ranger chest">
-          <Txt>Ranger chest</Txt>
+          <Txt>Нагрудник Лучника.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;A chest armor made from the enemies you killed, imitating the style of a certain famous ranger.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-A chest armor made from the enemies you killed, imitating the style of a certain famous ranger.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ЛУЧНИКОВ&lt;/b&gt;&lt;/i&gt;
+Нагрудная броня, сделанная из убитых вами врагов, подражающая стилю знаменитого Лучника.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Защита
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Ranger hat">
-          <Txt>Ranger hat</Txt>
+          <Txt>Шляпа ЛУчника.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An hat made from the enemies you killed, imitating the style of a certain famous ranger... Fun fact: The feather is actually a bunch of Lycaon's fur glued to a stick. What an original design choice!&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR ARCHER ONLY&lt;/b&gt;&lt;/i&gt;
-An hat made from the enemies you killed, imitating the style of a certain famous ranger... Fun fact: The feather is actually a bunch of Lycaon's fur glued to a stick. What an original design choice!
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ЛУЧНИКОВ&lt;/b&gt;&lt;/i&gt;
+Шляпа, сделанная из убитых вами врагов, подражающая стилю одного известного Лучника... Забавный факт: перо - это пучок меха Ликана, приклеенный к палке. Какой оригинальный дизайн!
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{CRITICALCHANCEBONUS} critical
+{DEFENSEBONUS} Броня
+{CRITICALCHANCEBONUS} Шанс крит. удара
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic heavy boot">
-          <Txt>Basic heavy boot</Txt>
+          <Txt>Базовые Тяжёлые Ботинки.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Boots you bought at the shop for a correct price...&#xA;it seems to be a little more solid, and protective than what you had before.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-Boots you bought at the shop for a correct price...
-it seems to be a little more solid, and protective than what you had before.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ВОИНОВ&lt;/b&gt;&lt;/i&gt;
+Сапоги, которые вы купили в магазине по правильной цене...
+она кажется более прочной и защитной, чем та, что была у вас раньше.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Броня
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic heavy Chestplate">
-          <Txt>Basic heavy Chestplate</Txt>
+          <Txt>Базовый Тяжёлый Нагрудник.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;A chestplate  you bought at the shop for a correct price...&#xA;it seems to be a little more solid, and protective than what you had before.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-A chestplate  you bought at the shop for a correct price...
-it seems to be a little more solid, and protective than what you had before.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ВОИНОВ&lt;/b&gt;&lt;/i&gt;
+Нагрудник, который вы купили в магазине по правильной цене...
+он кажется более прочным и защитным, чем тот, что был у вас раньше.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Броня
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic heavy helmet">
-          <Txt>Basic heavy helmet</Txt>
+          <Txt>Базовый Тяжёлый Шлем.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An helmet you bought at the shop for a correct price...&#xA;it seems to be a little more solid, and protective than what you had before.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-An helmet you bought at the shop for a correct price...
-it seems to be a little more solid, and protective than what you had before.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ВОИНОВ&lt;/b&gt;&lt;/i&gt;
+Шлем, который вы купили в магазине по правильной цене...
+он кажется немного более прочным и защитным, чем тот, что был у вас раньше.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Броня
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice heavy boot">
-          <Txt>Novice heavy boot</Txt>
+          <Txt>Старые Тяжёлые Сапоги.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Boots you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-Boots you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ВОИНОВ&lt;/b&gt;&lt;/i&gt;
+Старые сапоги, которые вы купили в лавке Элизиума, по низкой цене...
+Они сделают свою работу, но долго не протянут, когда ты станешь достаточно сильным.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Броня
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice heavy Chestplate">
-          <Txt>Novice heavy Chestplate</Txt>
+          <Txt>Старый Тяжёлый Нагрудник.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old chestplate you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-An old chestplate you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ВОИНОВ&lt;/b&gt;&lt;/i&gt;
+Старый Нагрудник, который вы купили в лавке Элизиума, по низкой цене...
+Он сделает свою работу, но долго не протянет, когда ты станешь достаточно сильным.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Броня
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice heavy helmet">
-          <Txt>Novice heavy helmet</Txt>
+          <Txt>Старый Тяжёлый Шлем.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old helmet you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-An old helmet you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ВОИНОВ&lt;/b&gt;&lt;/i&gt;
+Старый Шлем, который вы купили в лавке Элизиума, по низкой цене...
+Он сделает свою работу, но долго не протянет, когда ты станешь достаточно сильным.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Броня
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Spartan Boots">
-          <Txt>Spartan Boots</Txt>
+          <Txt>Спартанские Сапоги.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Boots built from the power of the monsters you killed, forged in pure spartan gold. It seems to still be limited...&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-Boots built from the power of the monsters you killed, forged in pure spartan gold. It seems to still be limited...
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ВОИНОВ&lt;/b&gt;&lt;/i&gt;
+Сапоги, созданные из убитых вами монстров, выкованные из чистого спартанского золота. Похоже, их количество все еще ограничено...
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Броня
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Spartan Chestplate">
-          <Txt>Spartan Chestplate</Txt>
+          <Txt>Спартанский Нагрудник.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;A chestplate built from the power of the monsters you killed, forged in pure spartan gold. It seems to still be limited...&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-A chestplate built from the power of the monsters you killed, forged in pure spartan gold. It seems to still be limited...
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ВОИНОВ&lt;/b&gt;&lt;/i&gt;
+Нагрудник, созданный из убитых вами монстров, выкованный из чистого спартанского золота. Кажется, он все еще ограничен...
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Броня
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Spartan Helmet">
-          <Txt>Spartan Helmet</Txt>
+          <Txt>Спартанский Шлем.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An helmet built from the power of the monsters you killed, forged in pure spartan gold. It seems to still be limited...&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;
-An helmet built from the power of the monsters you killed, forged in pure spartan gold. It seems to still be limited...
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ ВОИНОВ&lt;/b&gt;&lt;/i&gt;
+Шлем, созданный из убитых вами монстров, выкованный из чистого спартанского золота. Кажется, он все еще ограничен...
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
+{DEFENSEBONUS} Броня
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic Wizard Boot">
-          <Txt>Basic Wizard Boot</Txt>
+          <Txt>Базовые Ботинки Мага.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Simple wizard pants, you bought at the shop installed in the elysian field for a correct price...&#xA;While a bit more stylish, you are pretty sure this fabrick won't last long if you reach in the deepest zones of the overworld.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-Simple wizard pants, you bought at the shop installed in the elysian field for a correct price...
-While a bit more stylish, you are pretty sure this fabrick won't last long if you reach in the deepest zones of the overworld.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ МАГОВ&lt;/b&gt;&lt;/i&gt;
+Простые ботинки мага, которые вы купили в лавке Элизиума, по правильной цене...
+Хотя они и выглядят более стильно, вы уверены, что они не прослужат долго, если вы попадете в самые глубокие зоны надземного мира.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{MANABONUS} Mana
+{DEFENSEBONUS} Броня
+{MANABONUS} Мана
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic Wizard Hat">
-          <Txt>Basic Wizard Hat</Txt>
+          <Txt>Базовая Шляпа Мага.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;A simple wizard hat, you bought at the shop installed in the elysian field for a correct price...&#xA;While a bit more stylish, you are pretty sure this fabric won't last long if you reach in the deepest zones of the overworld.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-A simple wizard hat, you bought at the shop installed in the elysian field for a correct price...
-While a bit more stylish, you are pretty sure this fabric won't last long if you reach in the deepest zones of the overworld.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ МАГОВ&lt;/b&gt;&lt;/i&gt;
+Простая шляпа мага, которую вы купили в лавке Элизиума, по правильной цене...
+Хотя она и выглядит более стильно, вы уверены, что эта ткань не прослужит долго, если вы попадете в самые глубокие зоны надземного мира.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{MANABONUS} Mana
+{DEFENSEBONUS} Броня
+{MANABONUS} Мана
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic Wizard Robe">
-          <Txt>Basic Wizard Robe</Txt>
+          <Txt>Базовая Мантия Мага.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;A simple wizard robe, you bought at the shop installed in the elysian field for a correct price...&#xA;While a bit more stylish, you are pretty sure this fabrick won't last long if you reach in the deepest zones of the overworld.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-A simple wizard robe, you bought at the shop installed in the elysian field for a correct price...
-While a bit more stylish, you are pretty sure this fabrick won't last long if you reach in the deepest zones of the overworld.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ МАГОВ&lt;/b&gt;&lt;/i&gt;
+Простая мантия мага, которую вы купили в лавке Элизиума, по правильной цене...
+Хотя она и выглядит более стильно, вы уверены, что эта ткань не прослужит долго, если вы попадете в самые глубокие зоны надземного мира.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{MANABONUS} Mana
+{DEFENSEBONUS} Броня
+{MANABONUS} Мана
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Dark Mage Boot">
-          <Txt>Dark Mage Boot</Txt>
+          <Txt>Тёмные Сапоги Мага.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Built from the darkest powers inside the monsters you killed, it is infused with an ancient power. It still doesn't seem to have reached it's max potencial just yet...&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-Built from the darkest powers inside the monsters you killed, it is infused with an ancient power. It still doesn't seem to have reached it's max potencial just yet...
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ МАГОВ&lt;/b&gt;&lt;/i&gt;
+Созданный из темных сил убитых вами монстров, он пропитан древней силой. Кажется, он еще не достиг своего максимального потенциала...
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{MANABONUS} Mana
+{DEFENSEBONUS} Броня
+{MANABONUS} Мана
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Dark Mage Hood">
-          <Txt>Dark Mage Hood</Txt>
+          <Txt>Тёмная Шляпа Мага.</Txt>
         </GameElement>
         <GameElement ID="Dark Mage Robe">
-          <Txt>Dark Mage Robe</Txt>
+          <Txt>Тёмная Мантия Мага.</Txt>
         </GameElement>
         <GameElement ID="Novice Wizard Boot">
-          <Txt>Novice Wizard Boot</Txt>
+          <Txt>Старый Сапоги Мага.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;old pants you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-old pants you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ МАГОВ&lt;/b&gt;&lt;/i&gt;
+Старые сапоги мага, которые вы купили в лавке Элизиума, по правильной цене...
+Хотя они и выглядят более стильно, вы уверены, что они не прослужат долго, если вы попадете в самые глубокие зоны надземного мира.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{MANABONUS} Mana
+{DEFENSEBONUS} Броня
+{MANABONUS} Мана
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice Wizard Hat">
-          <Txt>Novice Wizard Hat</Txt>
+          <Txt>Старая Шляпа Мага.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old hat you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-An old hat you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ МАГОВ&lt;/b&gt;&lt;/i&gt;
+Старая шляпа, которую вы купили в лавке Элизиума, по низкой цене...
+Она сделает свою работу, но долго не продержится, когда вы станете достаточно сильным.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{MANABONUS} Mana
+{DEFENSEBONUS} Броня
+{MANABONUS} Мана
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice Wizard Robe">
-          <Txt>Novice Wizard Robe</Txt>
+          <Txt>Старая Мантия Мага.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;&#xA;An old wizard robe, you bought at the shop installed in the elysian field for a low price...&#xA;It will do the job, but it won't survive long once you get strong enough.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{MANABONUS} Mana&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-&lt;i&gt;&lt;b&gt;FOR WIZARD ONLY&lt;/b&gt;&lt;/i&gt;
-An old wizard robe, you bought at the shop installed in the elysian field for a low price...
-It will do the job, but it won't survive long once you get strong enough.
+&lt;i&gt;&lt;b&gt;ТОЛЬКО ДЛЯ МАГОВ&lt;/b&gt;&lt;/i&gt;
+Старая мантия, которую вы купили в лавке Элизиума, по низкой цене...
+Она сделает свою работу, но долго не продержится, когда вы станете достаточно сильным.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{MANABONUS} Mana
+{DEFENSEBONUS} Броня
+{MANABONUS} Мана
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Arrow">
-          <Txt>Arrow</Txt>
+          <Txt>Стрела.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A wooden Arrow, used for any kind of bow.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A wooden Arrow, used for any kind of bow.
+Деревянная стрела, используемая для любого вида лука. 
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота</Txt>
         </GameElement>
         <GameElement ID="Chest Of Gods">
-          <Txt>Chest Of Gods</Txt>
+          <Txt>Нагрудник Богов.</Txt>
         </GameElement>
         <GameElement ID="Let you become a god.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;">
-          <Txt>Let you become a god.
+          <Txt>Позволь тебе стать богом.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
-</Txt>
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}</Txt>
         </GameElement>
         <GameElement ID="Death ring">
-          <Txt>Death ring</Txt>
+          <Txt>Кольцо Смерти.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A legendary ring, using it it seem to make a little stronger in everything. Some people says his name came from a hidden power it had, deep inside, but it's more likely it was a name given by the person who created it for the first time, because it sound cool.&#xA;&#xA;+ {DEFENSEBONUS} defense&#xA;+ {CRITICALCHANCEBONUS} critical&#xA;+ {HEALTHBONUS} HP&#xA;+ {DAMAGEBONUS} damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A legendary ring, using it it seem to make a little stronger in everything. Some people says his name came from a hidden power it had, deep inside, but it's more likely it was a name given by the person who created it for the first time, because it sound cool.
+Легендарное кольцо, используя его, кажется, можно стать немного сильнее во всем. Некоторые люди говорят, что его имя произошло от скрытой силы, которой оно обладает, глубоко внутри, но более вероятно, что это имя было дано человеком, который создал его впервые, потому что оно звучит круто.
 
-+ {DEFENSEBONUS} defense
-+ {CRITICALCHANCEBONUS} critical
-+ {HEALTHBONUS} HP
-+ {DAMAGEBONUS} damage
++ {DEFENSEBONUS} Броня
++ {CRITICALCHANCEBONUS} Шанс крит. удара
++ {HEALTHBONUS} Жизней
++ {DAMAGEBONUS} Урон
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Defense ring">
-          <Txt>Defense ring</Txt>
+          <Txt>Кольцо Защиты.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A ring that give you more defense. Particularly usefull for a clumsy person... and for a hero of course !&#xA;&#xA;+ {DEFENSEBONUS} defense&#xA;+ {BLOCKCHANCEBONUS} block&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A ring that give you more defense. Particularly usefull for a clumsy person... and for a hero of course !
+Кольцо, которое дает вам больше защиты. Особенно полезно для неуклюжего человека... и для героя, конечно!
 
-+ {DEFENSEBONUS} defense
-+ {BLOCKCHANCEBONUS} block
++ {DEFENSEBONUS} Брони
++ {BLOCKCHANCEBONUS} Блок
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;This staff seems old, but still full of powerfull energy. It is unclear how this energy can be released, but the simple siping of it's magic is already making you more powerfull&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-This staff seems old, but still full of powerfull energy. It is unclear how this energy can be released, but the simple siping of it's magic is already making you more powerfull
+Этот посох кажется старым, но все еще полон мощной энергии. Непонятно, как эту энергию можно высвободить, но простое поглощение его магии уже делает вас более могущественным.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DAMAGEBONUS} Damage
+{DAMAGEBONUS} Урон
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Focus Ring">
-          <Txt>Focus Ring</Txt>
+          <Txt>Кольцо Фокуса.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A ring that give you more Critical ability by making your brain more able to focus on a specific objective. This ring was known to be very used by human emperors to augment their hability to focus on their work. &lt;i&gt; that's cheating... &lt;/i&gt;&#xA;&#xA;+ {CRITICALCHANCEBONUS} critical&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A ring that give you more Critical ability by making your brain more able to focus on a specific objective. This ring was known to be very used by human emperors to augment their hability to focus on their work. &lt;i&gt; that's cheating... &lt;/i&gt;
+Кольцо, которое дает вам больше шанса нанести критический урон, делая ваш мозг более способным сосредоточиться на определенной цели. Известно, что это кольцо очень часто использовали человеческие императоры, чтобы повысить свою способность сосредоточиться на работе. &lt;i&gt; это жульничество... &lt;/i&gt;
 
-+ {CRITICALCHANCEBONUS} critical
++ {CRITICALCHANCEBONUS} Шанс крит. удара
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Gold Bow">
-          <Txt>Gold Bow</Txt>
+          <Txt>Золотоё ЛУк.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A better bow you bought in the shop.&#xA;it's made of metal, with a nice yellow color to it.&#xA;I wonder if it is paint...&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Requires {REQUIREDAMMO}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A better bow you bought in the shop.
-it's made of metal, with a nice yellow color to it.
-I wonder if it is paint...
+Лучший лук, который вы купили в магазине.
+Он сделан из металла, приятного желтого цвета.
+Интересная краска...
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DAMAGEBONUS} Damage
+{DAMAGEBONUS} Урона
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Requires {REQUIREDAMMO}
+Требуются {REQUIREDAMMO}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Gold Sword">
-          <Txt>Gold Sword</Txt>
+          <Txt>Золотой Меч.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A better sword you bought at the shop. &#xA;it's made of metal, with a nice yellow color to it.&#xA;I wonder if it's paint...&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A better sword you bought at the shop. 
-it's made of metal, with a nice yellow color to it.
-I wonder if it's paint...
+Лучший меч, который вы купили в магазине. 
+Он сделан из металла, приятного желтого цвета.
+Интересная краска...
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DAMAGEBONUS} Damage
+{DAMAGEBONUS} Урона
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Life Ring">
-          <Txt>Life Ring</Txt>
+          <Txt>Кольцо Жизни</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A ring that give you more life. When putting it, you feel like when... well... before you died.&#xA;&#xA;+ {HEALTHBONUS} HP&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A ring that give you more life. When putting it, you feel like when... well... before you died.
+Кольцо, которое дает вам больше жизни. Надев его, вы чувствуете себя так, как... ну... перед смертью.
 
 + {HEALTHBONUS} HP
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice Bow">
-          <Txt>Novice Bow</Txt>
+          <Txt>Старый Лук.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A damaged bow, last living proof of your ancient honors. If it seems to be really solid, you have a hard time even bending the bow, and you doubt you'll be able to go really far with this.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;Requires {REQUIREDAMMO}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A damaged bow, last living proof of your ancient honors. If it seems to be really solid, you have a hard time even bending the bow, and you doubt you'll be able to go really far with this.
+Поврежденный лук, последнее живое доказательство ваших древних почестей. Если он кажется очень прочным, вам трудно даже согнуть лук, и вы сомневаетесь, что сможете зайти с ним далеко.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DAMAGEBONUS} Damage
+{DAMAGEBONUS} Урона
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
-Requires {REQUIREDAMMO}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Требуются {REQUIREDAMMO}
+
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice Shield">
-          <Txt>Novice Shield</Txt>
+          <Txt>Старый Щит.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A rusty shield you bought from the Shopkeeper. It seems to only be made in wood, and, even if it seems really resistant, you are not sure it will protect you much more than stopping a sword with your barehands. It is still better than nothing, at least for the dissuasive effect.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;{BLOCKCHANCEBONUS} % block&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A rusty shield you bought from the Shopkeeper. It seems to only be made in wood, and, even if it seems really resistant, you are not sure it will protect you much more than stopping a sword with your barehands. It is still better than nothing, at least for the dissuasive effect.
+Ржавый щит, который вы купили у лавочника. Похоже, он сделан только из дерева, и, даже если он кажется действительно прочным, вы не уверены, что он защитит вас больше, чем остановка меча голыми руками. Но все же это лучше, чем ничего, по крайней мере, для сдерживающего эффекта.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DEFENSEBONUS} Defense
-{BLOCKCHANCEBONUS} % block
+{DEFENSEBONUS} Брони
+{BLOCKCHANCEBONUS} % Блок
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice Staff">
-          <Txt>Novice Staff</Txt>
+          <Txt>Старый Жезл.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A basic wooden stick, last living proof of your ancient honors. If it seems really solid, you can't stop yourself from feeling you would almost be effective by just using a branch from a tree. At least it would weigh less.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A basic wooden stick, last living proof of your ancient honors. If it seems really solid, you can't stop yourself from feeling you would almost be effective by just using a branch from a tree. At least it would weigh less.
+Обычная деревянная палка, последнее живое доказательство ваших древних заслуг. Если она кажется действительно прочной, вы не можете остановить себя от ощущения, что вы почти были бы эффективны, если бы просто использовали ветку дерева. По крайней мере, она будет весить меньше.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DAMAGEBONUS} Damage
+{DAMAGEBONUS} Урона
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Novice Sword">
-          <Txt>Novice Sword</Txt>
+          <Txt>Старый Меч.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;A rusty sword, last living proof of your ancient honors. It seems very very durable, but clearly not as sharp as you would wish.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DAMAGEBONUS} Damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
-A rusty sword, last living proof of your ancient honors. It seems very very durable, but clearly not as sharp as you would wish.
+Ржавый меч, последнее живое доказательство ваших древних почестей. Он кажется очень прочным, но явно не такой острый, как вам хотелось бы.
 
-{EQUIPMENTHEALTHMAX} Max durability
-{EQUIPMENTHEALTH%} % Left
+{EQUIPMENTHEALTHMAX} Максимальная прочность
+{EQUIPMENTHEALTH%} % Осталось
 
-{DAMAGEBONUS} Damage
+{DAMAGEBONUS} Урона
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Packed Arrows">
-          <Txt>Packed Arrows</Txt>
+          <Txt>Упакованные Стрелы.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A pack of wooden arrow.&#xA;Click on it to open it and take your arrows.&#xA;&#xA;Quantity inside : {QUANTITY}&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A pack of wooden arrow.
-Click on it to open it and take your arrows.
+Комплект деревянных стрел.
+Нажмите на него, чтобы открыть и взять стрелы.
 
-Quantity inside : {QUANTITY}
+Количество внутри: {QUANTITY}
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота</Txt>
         </GameElement>
         <GameElement ID="Sharp Arrow">
-          <Txt>Sharp Arrow</Txt>
+          <Txt>Острая Стрела.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A wooden Arrow. It seem that this one is more solid, and sharper than the one you first used.&#xA;&#xA;+ {DAMAGEBONUS} damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A wooden Arrow. It seem that this one is more solid, and sharper than the one you first used.
+Деревянная стрела. Кажется, что она более прочная и острая, чем та, которую вы использовали в первый раз.
 
-+ {DAMAGEBONUS} damage
++ {DAMAGEBONUS} Урона
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота</Txt>
         </GameElement>
         <GameElement ID="Strength ring">
-          <Txt>Strength ring</Txt>
+          <Txt>Кольцо Силы.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A powerfull ring that augment your damage.&#xA;Do not throw toward a person, as the simple fact of touching it give you it's power.&#xA;&#xA;+ {DAMAGEBONUS} damage&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A powerfull ring that augment your damage.
-Do not throw toward a person, as the simple fact of touching it give you it's power.
+Мощное кольцо, увеличивающее наносимый вами урон.
+Не бросайте в сторону человека, так как простое прикосновение к нему дает вам его силу.
 
-+ {DAMAGEBONUS} damage
++ {DAMAGEBONUS} Урона
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Mergeable : {MERGEABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+Объединяемый: {MERGEABLE}
 
-Required Level: {MINLEVEL}
+Требуемый уровень: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Forge Scroll">
-          <Txt>Forge Scroll</Txt>
+          <Txt>Свиток Кузнеца.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A magic scroll, powerfull yet very common item created by gods to help fallen heroes have an easier time in the Elysium field, way before the war started. This one seem to have the drawing of an anvil on it. Where it will bring me seems pretty clear.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Destination : {TPNAME}&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A magic scroll, powerfull yet very common item created by gods to help fallen heroes have an easier time in the Elysium field, way before the war started. This one seem to have the drawing of an anvil on it. Where it will bring me seems pretty clear.
+Магический свиток, могущественный, но очень распространенный предмет, созданный богами, чтобы помочь павшим героям легче перебраться на поле Элизиума, задолго до начала войны. На этом свитке, похоже, нарисована наковальня. Куда он меня приведет, кажется, довольно ясно.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 Destination : {TPNAME}
-Required Level: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Требуемый уровень: {MINLEVEL}
+
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Gorgon's Tail">
-          <Txt>Gorgon's Tail</Txt>
+          <Txt>Хвост Горгоны.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;The tails of the gorgon sometime stay as a trophy when killing a gorgon. A pretty hard to collect item, and, even if not worth much, pretty usefull for the creations of exotics potions, or in the creations of rings.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-The tails of the gorgon sometime stay as a trophy when killing a gorgon. A pretty hard to collect item, and, even if not worth much, pretty usefull for the creations of exotics potions, or in the creations of rings.
+Хвосты горгоны иногда остаются в качестве трофея при убийстве горгоны. Довольно трудно собираемый предмет, и, даже если он не стоит многого, довольно полезен для создания экзотических зелий или при создании колец.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Health Potion">
-          <Txt>Health Potion</Txt>
+          <Txt>Зелье Здоровья.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;Restores some Health.&#xA;&#xA;Restores {USAGEHEALTH} Health on use.&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-Restores some Health.
+Восстанавливает немного здоровья.
 
-Restores {USAGEHEALTH} Health on use.
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Required Level: {MINLEVEL}
+Восстанавливает {USAGEHEALTH} здоровья при использовании.
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+
+Требуемый уровень: {MINLEVEL}
+
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Helmet Scroll">
-          <Txt>Helmet Scroll</Txt>
+          <Txt>Пергамент Шлема.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object needed for the crafting of any craftable helmet.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object needed for the crafting of any craftable helmet.
+Предмет, необходимый для изготовления любого ремесленного шлема.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота</Txt>
         </GameElement>
         <GameElement ID="Knight's emblem">
-          <Txt>Knight's emblem</Txt>
+          <Txt>Рыцарская Эмблема.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object needed for the crafting of any rings.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object needed for the crafting of any rings.
+Предмет, необходимый для изготовления любых колец.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Lycaon's fur">
-          <Txt>Lycaon's fur</Txt>
+          <Txt>Шерсть Ликана.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object of unknown usage...&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object of unknown usage...
+Предмет неизвестного назначения...
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Lycaon's tooth">
-          <Txt>Lycaon's tooth</Txt>
+          <Txt>Зуб Ликана.</Txt>
         </GameElement>
         <GameElement ID="Mana Potion">
-          <Txt>Mana Potion</Txt>
+          <Txt>Зелье Маны.</Txt>
         </GameElement>
         <GameElement ID="Metal ingot">
-          <Txt>Metal ingot</Txt>
+          <Txt>Металлический Слиток.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A metal, used to make armors and others wearable.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A metal, used to make armors and others wearable.
+Металл, используемый для изготовления доспехов и других носимых вещей.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Minotaur's horns">
-          <Txt>Minotaur's horns</Txt>
+          <Txt>Рога минотавра</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object needed for the crafting of some ring. A strong aura emanates from it's core...&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object needed for the crafting of some ring. A strong aura emanates from it's core...
+Предмет, необходимый для изготовления какого-то кольца. Из его сердцевины исходит сильная аура...
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Pet Health Potion">
-          <Txt>Pet Health Potion</Txt>
+          <Txt>Зелье Здоровья Питомца.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;Restores some of the Pet's health.&#xA;&#xA;Restores {USAGEPETHEALTH} Pet Health on use.&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-Restores some of the Pet's health.
+Восстанавливает часть здоровья питомца.
 
-Restores {USAGEPETHEALTH} Pet Health on use.
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
-Required Level: {MINLEVEL}
+Восстанавливает {USAGEPETHEALTH} здоровье питомца при использовании.
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+
+Требуемый уровень: {MINLEVEL}
+
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Baby Sapling">
-          <Txt>Baby Sapling</Txt>
+          <Txt>Детеныш Саженца.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Level {SUMMONEDLEVEL}&lt;/b&gt;&#xA;A Baby Sapling Pet.&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Level: {SUMMONEDLEVEL}&#xA;Experience: {SUMMONEDEXPERIENCE}&#xA;Max Level : {SUMMONEDMAXLEVEL}&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
-          <Txt>&lt;b&gt;{NAME} Level {SUMMONEDLEVEL}&lt;/b&gt;
-A Baby Sapling Pet.
+          <Txt>&lt;b&gt;{NAME} Уровень {SUMMONEDLEVEL}&lt;/b&gt;
+Детёныш саженца (питомец).
 
-Click Item to summon it.
-Click again to unsummon it.
-(requires owner level {SUMMONEDLEVEL}).
+Нажмите на предмет, чтобы вызвать его.
+Щелкните еще раз, чтобы снять вызов.
+(требуемый уровень владельца {SUMMONEDLEVEL}).
 
-Health: {SUMMONEDHEALTH}
-Level: {SUMMONEDLEVEL}
-Experience: {SUMMONEDEXPERIENCE}
-Max Level : {SUMMONEDMAXLEVEL}
+Здоровье: {SUMMONEDHEALTH}
+Уровень: {SUMMONEDLEVEL}
+Опыт: {SUMMONEDEXPERIENCE}
+Максимальный уровень : {SUMMONEDMAXLEVEL}
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Dragon">
-          <Txt>Dragon</Txt>
+          <Txt>Дракон.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;Your own little Dragon :)&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-Your own little Dragon :)
+Ваш собственный маленький дракончик :)
 
-Click Item to summon it.
-Click again to unsummon it.
-(requires owner level {SUMMONEDLEVEL}).
+Нажмите на предмет, чтобы вызвать его.
+Щелкните еще раз, чтобы снять вызов.
+(требуемый уровень владельца {SUMMONEDLEVEL}).
 
-Health: {SUMMONEDHEALTH}
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Здоровье: {SUMMONEDHEALTH}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Tamed wolf">
-          <Txt>Tamed wolf</Txt>
+          <Txt>Укрощённый Волк.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A wolf, tamed to be able to mount it.&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A wolf, tamed to be able to mount it.
+Волк, прирученный для того, чтобы на нем можно было ездить.
 
-Click Item to summon it.
-Click again to unsummon it.
-(requires owner level {SUMMONEDLEVEL}).
+Нажмите на предмет, чтобы вызвать его.
+Щелкните еще раз, чтобы снять вызов.
+(требуемый уровень владельца {SUMMONEDLEVEL}).
 
-Health: {SUMMONEDHEALTH}
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Здоровье: {SUMMONEDHEALTH}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
+
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Titan Turtle">
-          <Txt>Titan Turtle</Txt>
+          <Txt>Черепаха-Титан.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;The fastest turtle in the west!&#xA;As incredible as it looks, it is a very fast turtle, faster than some horse!&#xA;Warriors using such a mount are know to attract equally admiration and mockery from the people of this world.&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-The fastest turtle in the west!
-As incredible as it looks, it is a very fast turtle, faster than some horse!
-Warriors using such a mount are know to attract equally admiration and mockery from the people of this world.
+Самая быстрая черепаха на западе!
+Как бы невероятно она ни выглядела, это очень быстрая черепаха, быстрее любой лошади!
+Известно, что воины, использующие такую махину, вызывают как восхищение, так и насмешки со стороны людей этого мира.
 
-Click Item to summon it.
-Click again to unsummon it.
-(requires owner level {SUMMONEDLEVEL}).
+Нажмите на предмет, чтобы вызвать его.
+Щелкните еще раз, чтобы снять вызов.
+(требуемый уровень владельца {SUMMONEDLEVEL}).
 
-Health: {SUMMONEDHEALTH}
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Здоровье: {SUMMONEDHEALTH}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="White tiger">
-          <Txt>White tiger</Txt>
+          <Txt>Белый Тигр.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A white tiger, a beautifull mount to travel trough the world, found in inaccesible far mountain.&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A white tiger, a beautifull mount to travel trough the world, found in inaccesible far mountain.
+Белый тигр, прекрасный питомец для путешествий по миру, найденная в недоступной далекой горе.
 
-Click Item to summon it.
-Click again to unsummon it.
-(requires owner level {SUMMONEDLEVEL}).
+Нажмите на предмет, чтобы вызвать его.
+Щелкните еще раз, чтобы снять вызов.
+(требуемый уровень владельца {SUMMONEDLEVEL}).
 
-Health: {SUMMONEDHEALTH}
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Здоровье: {SUMMONEDHEALTH}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Wild Horse">
-          <Txt>Wild Horse</Txt>
+          <Txt>Дикая Лошадь.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A wild horse, captured by the Shopkeeper and sold to a pretty low price.&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A wild horse, captured by the Shopkeeper and sold to a pretty low price.
+Дикая лошадь, пойманная лавочником и проданная по довольно низкой цене.
 
-Click Item to summon it.
-Click again to unsummon it.
-(requires owner level {SUMMONEDLEVEL}).
+Нажмите на предмет, чтобы вызвать его.
+Щелкните еще раз, чтобы снять вызов.
+(требуемый уровень владельца {SUMMONEDLEVEL}).
 
-Health: {SUMMONEDHEALTH}
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Здоровье: {SUMMONEDHEALTH}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Ring Scroll">
-          <Txt>Ring Scroll</Txt>
+          <Txt>Свиток Кольца</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;An object needed for the crafting of any craftable rings.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-An object needed for the crafting of any craftable rings.
+Предмет, необходимый для изготовления любых ремесленных колец.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold</Txt>
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота</Txt>
         </GameElement>
         <GameElement ID="Rock">
-          <Txt>Rock</Txt>
+          <Txt>Камень.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A Rock, can be transformed into rubys.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A Rock, can be transformed into rubys.
+Камень, может быть превращен в рубин.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Ruby">
-          <Txt>Ruby</Txt>
+          <Txt>Рубин.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A Ruby, used in the crafting of some rings&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A Ruby, used in the crafting of some rings
+Рубин, используемый при изготовлении некоторых колец.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Skull">
-          <Txt>Skull</Txt>
+          <Txt>Череп.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;The crane of a Spartae, a skeleton ennemy. Sometimes doesn't get destroyed when the monster dye. A rare item, used to craft rings.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-The crane of a Spartae, a skeleton ennemy. Sometimes doesn't get destroyed when the monster dye. A rare item, used to craft rings.
+Иногда не выпадет, когда монстр умирает. Редкий предмет, используется для изготовления колец.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Soul of a warrior">
-          <Txt>Soul of a warrior</Txt>
+          <Txt>Душа Воина.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A precious item, considered as cursed for most humans.&#xA;The sould of a warrior can be obtain by extracting the memories of multiples killen heroes from the mind of a murderer.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A precious item, considered as cursed for most humans.
-The sould of a warrior can be obtain by extracting the memories of multiples killen heroes from the mind of a murderer.
+Драгоценный предмет, считающийся проклятым для большинства людей.
+Плечо воина можно получить, извлекая из разума убийцы воспоминания о множестве убитых героев.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A magic scroll, powerfull yet very common item created by gods to help fallen heroes have an easier time in the Elysium field, way before the war started. This one seem to have a weird drawing on it. Perhaps a map ? it does not represent the Elysians fields however.&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Destination : {TPNAME}&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A magic scroll, powerfull yet very common item created by gods to help fallen heroes have an easier time in the Elysium field, way before the war started. This one seem to have a weird drawing on it. Perhaps a map ? it does not represent the Elysians fields however.
+Магический свиток, мощный, но очень распространенный предмет, созданный богами, чтобы помочь павшим героям легче было попасть в Элизиум, задолго до начала войны. На этом свитке, кажется, есть странный рисунок. Возможно, карта? Однако на ней не изображены поля Элизиума.
 
-Destroyable: {DESTROYABLE}
-Sellable: {SELLABLE}
-Tradable: {TRADABLE}
+Разрушаемый: {DESTROYABLE}
+Продаваемый: {SELLABLE}
+Торгуемый: {TRADABLE}
 Destination : {TPNAME}
-Required Level: {MINLEVEL}
 
-Amount: {AMOUNT}
-Price: {BUYPRICE} Gold
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Требуемый уровень: {MINLEVEL}
+
+Колличество: {AMOUNT}
+Цена: {BUYPRICE} Золота
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Vigor Potion">
-          <Txt>Vigor Potion</Txt>
+          <Txt>Зелье Бодрости.</Txt>
         </GameElement>
         <GameElement ID="Wooden stick">
-          <Txt>Wooden stick</Txt>
+          <Txt>Деревянная Палка.</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;A stick, used to make arrows and others items.&#xA;It can be found by killing saplings.&#xA;&#xA;Amount: {AMOUNT}&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-A stick, used to make arrows and others items.
-It can be found by killing saplings.
+Палка, используемая для изготовления стрел и других предметов.
+Его можно найти, убивая саженцы.
 
-Amount: {AMOUNT}
-&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;</Txt>
+Колличество: {AMOUNT}
+&lt;i&gt;Продать за: {SELLPRICE} Золота&lt;/i&gt;</Txt>
         </GameElement>
       </listElements>
     </GameScene>
     <GameScene Category="Quests">
       <listElements>
         <GameElement ID="A man in need">
-          <Txt>A man in need</Txt>
+          <Txt>Человек в беде.</Txt>
         </GameElement>
         <GameElement ID="Hey! You can't let me like that!&#xA;I need some potion if I want to get out of here alive!&#xA;I'm not an immortal like you, I really need your help!&#xA;Find {GATHERAMOUNT} {GATHERITEM} for the Tired hero.&#xA;&#xA;Tasks:&#xA;* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}&#xA;&#xA;{STATUS}">
-          <Txt>Hey! You can't let me like that!
-I need some potion if I want to get out of here alive!
-I'm not an immortal like you, I really need your help!
-Find {GATHERAMOUNT} {GATHERITEM} for the Tired hero.
-
-Tasks:
-* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
+          <Txt>Эй! Вы не можете меня так оставить!
+Мне нужно зелье, если я хочу выбраться отсюда живым!
+Я не бессмертный, как ты, мне очень нужна твоя помощь!
+Найдите {GATHERAMOUNT} {GATHERITEM} для Усталого героя.
+Задание:
+* Собрать {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="A wolf fur">
-          <Txt>A wolf fur</Txt>
+          <Txt>Волчья шкура.</Txt>
         </GameElement>
         <GameElement ID="I got some tips from an... old friend. You will meet him later. Anyway, he was looking into buying &quot;the original wolf&quot; fur, whatever that is. &lt;i&gt;He promised me a lot of gold for it too...&lt;/i&gt; But that's not for you to worry about. Could you go get that for me? I don't have any gold for you, but I've an item that I know is valuable for your... fighting thing...&#xA;&#xA;Tasks:&#xA;* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}&#xA;&#xA;{STATUS}">
-          <Txt>I got some tips from an... old friend. You will meet him later. Anyway, he was looking into buying "the original wolf" fur, whatever that is. &lt;i&gt;He promised me a lot of gold for it too...&lt;/i&gt; But that's not for you to worry about. Could you go get that for me? I don't have any gold for you, but I've an item that I know is valuable for your... fighting thing...
-
-Tasks:
-* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
+          <Txt>Я получил несколько советов от... старого друга. Вы встретитесь с ним позже. В общем, он хотел купить мех "первородного волка", что бы это ни было. &lt;i&gt;Он обещал мне за него много золота...&lt;/i&gt; Но не тебе об этом беспокоиться. Не мог бы ты сходить за ним для меня? У меня нет золота для тебя, но у меня есть предмет, который, я знаю, ценен для твоего... боевого дела...
+Задание:
+* Собрать {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="A wolf tooth">
-          <Txt>A wolf tooth</Txt>
+          <Txt>Волчий зуб.</Txt>
         </GameElement>
         <GameElement ID="I got some tips from an... old friend. You will meet him later. Anyway, he was looking into buying &quot;the original wolf&quot; tooth, whatever that is. &lt;i&gt;He promised me a lot of gold for it too...&lt;/i&gt; But that's not for you to worry about. Could you go get that for me ? You will be rewarded for it ! &#xA;&lt;i&gt;Not as much as me though...&lt;/i&gt;&#xA;&#xA;Tasks:&#xA;* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}&#xA;&#xA;{STATUS}">
-          <Txt>I got some tips from an... old friend. You will meet him later. Anyway, he was looking into buying "the original wolf" tooth, whatever that is. &lt;i&gt;He promised me a lot of gold for it too...&lt;/i&gt; But that's not for you to worry about. Could you go get that for me ? You will be rewarded for it ! 
-&lt;i&gt;Not as much as me though...&lt;/i&gt;
+          <Txt>Я получил несколько советов от... старого друга. Вы встретитесь с ним позже. В общем, он хотел купить "первородный волчий зуб", что бы это ни было. &lt;i&gt;Он обещал мне много золота за это... &lt;/i&gt;Но не тебе об этом беспокоиться. Не могли бы вы сходить за этим для меня? Вы будете вознаграждены за это! 
+&lt;i&gt;Но не так сильно, как я...&lt;/i&gt;
 
-Tasks:
-* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
+Задание:
+* Собрать {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Beginners Journey">
-          <Txt>Beginners Journey</Txt>
+          <Txt>Путешествие новичка.</Txt>
         </GameElement>
         <GameElement ID="Kill some {KILLTARGET}s. We need to help the Elysian field regain it's original beauty !&#xA;&#xA;Tasks:&#xA;* Kill {KILLTARGET}: {KILLED}/{KILLAMOUNT}&#xA;&#xA;{STATUS}">
-          <Txt>Kill some {KILLTARGET}s. We need to help the Elysian field regain it's original beauty !
+          <Txt>Убейте несколько {KILLTARGET}. Мы должны помочь Элизиуму вернуть его первозданную красоту!
 
-Tasks:
-* Kill {KILLTARGET}: {KILLED}/{KILLAMOUNT}
+Задание:
+* Убить {KILLTARGET}: {KILLED}/{KILLAMOUNT}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Discover the new world">
-          <Txt>Discover the new world</Txt>
+          <Txt>Открыть новый мир.</Txt>
         </GameElement>
         <GameElement ID="It's time for you to go further... You have a lot to discover, and we'll need more heroes to fight in the new world!&#xA;&#xA;Tasks:&#xA;* Find the way out in the dungeon, and enter the new world : {LOCATIONSTATUS}&#xA;&#xA;{STATUS}">
-          <Txt>It's time for you to go further... You have a lot to discover, and we'll need more heroes to fight in the new world!
+          <Txt>Пришло время идти дальше... Вам предстоит многое открыть, и нам понадобится ещё больше героев, чтобы сражаться в новом мире!
 
-Tasks:
-* Find the way out in the dungeon, and enter the new world : {LOCATIONSTATUS}
+Задание:
+* Найдите выход в подземелье и войдите в новый мир: {LOCATIONSTATUS}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Find the Aeaea Island">
-          <Txt>Find the Aeaea Island</Txt>
+          <Txt>Найти остров Эаэй.</Txt>
         </GameElement>
         <GameElement ID="Hey!  You know, in my time, I myself traveled a lot!&#xA;How about this. If you successfully figure out, by yourself, where the Island of Circe, also named Aeaea, is, I'll give you my drawing of it, so you can see it on your map!&#xA;&#xA;[This Quest will unlock a part of the Map]&#xA;&#xA;Tasks:&#xA;* Discover the Aeaea Island : {LOCATIONSTATUS}&#xA;&#xA;{STATUS}">
-          <Txt>Hey!  You know, in my time, I myself traveled a lot!
-How about this. If you successfully figure out, by yourself, where the Island of Circe, also named Aeaea, is, I'll give you my drawing of it, so you can see it on your map!
+          <Txt>Эй! Знаете, в свое время я сам много путешествовал!
+Как насчет этого. Если ты успешно выяснишь самостоятельно, где находится остров Цирцеи, также называемый Эаей, я дам тебе свой рисунок, чтобы ты смог увидеть его на своей карте!
 
-[This Quest will unlock a part of the Map]
+[Этот квест разблокирует часть карты]
 
 Tasks:
-* Discover the Aeaea Island : {LOCATIONSTATUS}
+* Откройте для себя остров Эаэй : {LOCATIONSTATUS}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Find the Dungeon">
-          <Txt>Find the Dungeon</Txt>
+          <Txt>Найти подземелье.</Txt>
         </GameElement>
         <GameElement ID="Find the Dungeon, then report back to the Guardian near the entry.&#xA;&#xA;Tasks:&#xA;* Find the Dungeon: {LOCATIONSTATUS}&#xA;&#xA;{STATUS}">
-          <Txt>Find the Dungeon, then report back to the Guardian near the entry.
+          <Txt>Найдите подземелье, затем доложите об этом Хранителю возле входа.
 
-Tasks:
-* Find the Dungeon: {LOCATIONSTATUS}
+Задание:
+* Найти подземелье: {LOCATIONSTATUS}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Find the Forge">
-          <Txt>Find the Forge</Txt>
+          <Txt>Найти кузницу.</Txt>
         </GameElement>
         <GameElement ID="Find the forge, to be able to buy higher level gears and continue on your adventure, then report back to the man inside. He should give you some gold you can spend on his shop in exchange.&#xA;&#xA;Tasks:&#xA;* Find the Forge : {LOCATIONSTATUS}&#xA;&#xA;{STATUS}">
-          <Txt>Find the forge, to be able to buy higher level gears and continue on your adventure, then report back to the man inside. He should give you some gold you can spend on his shop in exchange.
+          <Txt>Найдите кузницу, чтобы иметь возможность купить снаряжение более высокого уровня и продолжить свое приключение, кузнец даст вам немного золота на покупки.
 
-Tasks:
-* Find the Forge : {LOCATIONSTATUS}
+Задание:
+* Найти кузницу : {LOCATIONSTATUS}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Find the Graveyard">
-          <Txt>Find the Graveyard</Txt>
+          <Txt>Найти кладбище.</Txt>
         </GameElement>
         <GameElement ID="Hey!  You know, in my time, I myself traveled a lot!&#xA;How about this. If you successfully figure out, by yourself, where the graveyard is, I'll give you my drawing of it, so you can see it on your map!&#xA;&#xA;[This Quest will unlock a part of the Map]&#xA;&#xA;Tasks:&#xA;* Discover the Graveyard : {LOCATIONSTATUS}&#xA;&#xA;{STATUS}">
-          <Txt>Hey!  You know, in my time, I myself traveled a lot!
-How about this. If you successfully figure out, by yourself, where the graveyard is, I'll give you my drawing of it, so you can see it on your map!
+          <Txt>Эй! Знаете, в свое время я сам много путешествовал!
+Как насчет этого. Если ты успешно разберешься сам, где находится кладбище, я дам тебе свой рисунок, чтобы ты смог увидеть его на своей карте!
 
-[This Quest will unlock a part of the Map]
+[Этот квест разблокирует часть карты]
 
-Tasks:
-* Discover the Graveyard : {LOCATIONSTATUS}
+Задание:
+* Найти кладбище : {LOCATIONSTATUS}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Forgetting something">
-          <Txt>Forgetting something</Txt>
+          <Txt>Забывая что-то...</Txt>
         </GameElement>
         <GameElement ID="hummm.... Aren't you forgetting something ?&#xA;How do you want me to get back to my town without at least one scroll ?!&#xA;Hop hop hop ! Move faster ! I'll not wait here the entire day.&#xA;&#xA;Tasks:&#xA;* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}&#xA;&#xA;{STATUS}">
-          <Txt>hummm.... Aren't you forgetting something ?
-How do you want me to get back to my town without at least one scroll ?!
-Hop hop hop ! Move faster ! I'll not wait here the entire day.
-
-Tasks:
-* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
+          <Txt>Хмммм.... Ты ничего не забыл?
+Как ты хочешь, чтобы я вернулся в свой город без хотя бы одного свитка?!
+Хоп-хоп-хоп! Быстрее! Я не буду ждать здесь целый день.
+Задание:
+* Собрать {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Gather the vigor">
-          <Txt>Gather the vigor</Txt>
+          <Txt>Собрать зелье бодрости.</Txt>
         </GameElement>
         <GameElement ID="Gather me some {GATHERITEM} by killings saplings, or by crafting them.&#xA;&#xA;Tasks:&#xA;* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}&#xA;&#xA;{STATUS}">
-          <Txt>Gather me some {GATHERITEM} by killings saplings, or by crafting them.
+          <Txt>Соберите мне немного {GATHERITEM}, убивая саженцы или создавая их.
 
-Tasks:
-* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
+Задание:
+* Собрать {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Get Some Gorgon tails">
-          <Txt>Get Some Gorgon tails</Txt>
+          <Txt>Собрать хвосты гаргулий.</Txt>
         </GameElement>
         <GameElement ID="I need to redo my stock of monster's item. Could you get some {GATHERITEM}s for me ?&#xA;&#xA;Tasks:&#xA;* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}&#xA;&#xA;{STATUS}">
-          <Txt>I need to redo my stock of monster's item. Could you get some {GATHERITEM}s for me ?
+          <Txt>Мне нужно пополнить запас предметов монстра. Не могли бы вы достать для меня несколько {GATHERITEM}?
 
-Tasks:
-* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
+Задание:
+* Собрать {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Get the soul">
-          <Txt>Get the soul</Txt>
+          <Txt>Собрать души.</Txt>
         </GameElement>
         <GameElement ID="I... I perhaps have a way, if you really want to get such a precious item... We would need to extract the soul directly from a hero body.&#xA;Tasks:&#xA;* Kill Players : {KILLED}/{KILLAMOUNT}&#xA;&#xA;{STATUS}">
-          <Txt>I... I perhaps have a way, if you really want to get such a precious item... We would need to extract the soul directly from a hero body.
-Tasks:
-* Kill Players : {KILLED}/{KILLAMOUNT}
+          <Txt>Возможно, у меня есть способ, если вы действительно хотите получить столь ценный предмет... Нам нужно будет извлечь душу прямо из тела героя.
+Задание:
+* Убить игроков : {KILLED}/{KILLAMOUNT}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Helping the new heroes">
-          <Txt>Helping the new heroes</Txt>
+          <Txt>Помогая новым героям.</Txt>
         </GameElement>
         <GameElement ID="Could you kill {KILLTARGET} to help new heroes come to me faster ? It would be a lot easier to prepare for the future war like this. Don't worry, you'll be recompensed.&#xA;&#xA;Tasks:&#xA;* Kill {KILLTARGET}: {KILLED}/{KILLAMOUNT}&#xA;&#xA;{STATUS}">
-          <Txt>Could you kill {KILLTARGET} to help new heroes come to me faster ? It would be a lot easier to prepare for the future war like this. Don't worry, you'll be recompensed.
+          <Txt>Не могли бы вы убить {KILLTARGET}, чтобы помочь новым героям быстрее прийти ко мне? Так будет намного легче готовиться к будущей войне. Не волнуйся, ты получишь вознаграждение.
 
-Tasks:
-* Kill {KILLTARGET}: {KILLED}/{KILLAMOUNT}
+Задание:
+* Убить {KILLTARGET}: {KILLED}/{KILLAMOUNT}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Kill the Lycaon">
-          <Txt>Kill the Lycaon</Txt>
+          <Txt>Убить Ликана.</Txt>
         </GameElement>
         <GameElement ID="Kill the {KILLTARGET} to prove your strength to all heroes of the Elysians Field ! &#xA;&#xA;Tasks:&#xA;* Kill {KILLTARGET}: {KILLED}/{KILLAMOUNT}&#xA;&#xA;{STATUS}">
-          <Txt>Kill the {KILLTARGET} to prove your strength to all heroes of the Elysians Field ! 
+          <Txt>Убейте {KILLTARGET}, чтобы доказать свою силу всем героям Элизиума
 
-Tasks:
-* Kill {KILLTARGET}: {KILLED}/{KILLAMOUNT}
+Задание:
+* Убить {KILLTARGET}: {KILLED}/{KILLAMOUNT}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Kill the Minotaur">
-          <Txt>Kill the Minotaur</Txt>
+          <Txt>Убить Минотавра.</Txt>
         </GameElement>
         <GameElement ID="Kill the Rock Monster">
-          <Txt>Kill the Rock Monster</Txt>
+          <Txt>Убить Скального монстра.</Txt>
         </GameElement>
         <GameElement ID="Leave The Elysian Fields">
-          <Txt>Leave The Elysian Fields</Txt>
+          <Txt>Покиньте Элизиум.</Txt>
         </GameElement>
         <GameElement ID="Welcome to this world, hero!&#xA;The humans need you, down on earth. &#xA;Please, take your time here to prepare yourself (and help us with the monster invasion on the way), &#xA;And go help them!&#xA;&#xA;[This Quest will unlock a part of the Map]&#xA;&#xA;Tasks:&#xA;* Leave the Elysian Fields and enter the Overworld : {LOCATIONSTATUS}&#xA;&#xA;{STATUS}">
-          <Txt>Welcome to this world, hero!
-The humans need you, down on earth. 
-Please, take your time here to prepare yourself (and help us with the monster invasion on the way), 
-And go help them!
+          <Txt>Добро пожаловать в этот мир, герой!
+Ты нужен людям на земле. 
+Пожалуйста, подготовься и помоги нам справиться с нашествием монстров, 
+Иди и помоги им!
 
-[This Quest will unlock a part of the Map]
+[Этот квест разблокирует часть карты]
 
-Tasks:
-* Leave the Elysian Fields and enter the Overworld : {LOCATIONSTATUS}
+Задание:
+* Покиньте Элизиум и войдите в Надземный мир : {LOCATIONSTATUS}
 
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="The strongest boy in town">
-          <Txt>The strongest boy in town</Txt>
+          <Txt>Самый сильный парень в городе.</Txt>
         </GameElement>
         <GameElement ID="Save me, kill some harpies!&#xA;In exchange, I'll give you a beautifull ring I made.&#xA;&#xA;Tasks:&#xA;* Kill {KILLTARGET}: {KILLED}/{KILLAMOUNT}&#xA;&#xA;{STATUS}">
-          <Txt>Save me, kill some harpies!
-In exchange, I'll give you a beautifull ring I made.
+          <Txt>Спаси меня, убей несколько гарпий!
+В обмен я дам тебе красивое кольцо, которое я сделал.
 
-Tasks:
-* Kill {KILLTARGET}: {KILLED}/{KILLAMOUNT}
+Задание:
+* Убить {KILLTARGET}: {KILLED}/{KILLAMOUNT}
 
 {STATUS}</Txt>
         </GameElement>
@@ -2668,310 +2670,310 @@ Tasks:
     <GameScene Category="Skills">
       <listElements>
         <GameElement ID="(Cooldown) Monster Potion">
-          <Txt>(Cooldown) Monster Potion</Txt>
+          <Txt>(Время отката) Зелье монстра</Txt>
         </GameElement>
         <GameElement ID="A Health Potion has recently been used.&#xA;&#xA;You can't use another one just yet...">
-          <Txt>A Health Potion has recently been used.
+          <Txt>Недавно было использовано зелье здоровья.
 
-You can't use another one just yet...</Txt>
+Вы пока не можете использовать другое...</Txt>
         </GameElement>
         <GameElement ID="(Cooldown) Mount Invocation">
-          <Txt>(Cooldown) Mount Invocation</Txt>
+          <Txt>(Время отката) Призыв скакуна</Txt>
         </GameElement>
         <GameElement ID="A mount has just been invoqued.&#xA;&#xA;You can't use another one just yet...">
-          <Txt>A mount has just been invoqued.
+          <Txt>Только что был призван скакун.
 
-You can't use another one just yet...</Txt>
+Вы пока не можете использовать другое...</Txt>
         </GameElement>
         <GameElement ID="(Cooldown) Potion">
-          <Txt>(Cooldown) Potion</Txt>
+          <Txt>(Время отката) Зелье</Txt>
         </GameElement>
         <GameElement ID="A Potion has recently been used.&#xA;&#xA;You can't use another one just yet...">
-          <Txt>A Potion has recently been used.
+          <Txt>Недавно было использовано зелье.
 
-You can't use another one just yet...</Txt>
+Вы пока не можете использовать другое...</Txt>
         </GameElement>
         <GameElement ID="(Cooldown) Tp Scroll">
-          <Txt>(Cooldown) Tp Scroll</Txt>
+          <Txt>(Время отката) Свиток Телепорта</Txt>
         </GameElement>
         <GameElement ID="A Teleport Scroll has recently been used.&#xA;&#xA;You can't use another one just yet...">
-          <Txt>A Teleport Scroll has recently been used.
+          <Txt>Недавно был использован свиток телепортации.
 
-You can't use another one just yet...</Txt>
+Вы пока не можете использовать другой...</Txt>
         </GameElement>
         <GameElement ID="Arrow Rain">
-          <Txt>Arrow Rain</Txt>
+          <Txt>Дождь из стрел</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Attack all the ennemies around you.&#xA;Doesn't use any arrow as those are only images from your power.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Mana Costs: {MANACOSTS}&#xA;Damage: {DAMAGE}&#xA;Stun Chance: {STUNCHANCE}%&#xA;Stun Time: {STUNTIME}s">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Attack all the ennemies around you.
-Doesn't use any arrow as those are only images from your power.
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Атакуйте всех врагов вокруг себя.
+Не использует стрелы, так как они являются лишь образами вашей силы.
 
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Cast Range: {CASTRANGE}
-Mana Costs: {MANACOSTS}
-Damage: {DAMAGE}
-Stun Chance: {STUNCHANCE}%
-Stun Time: {STUNTIME}s</Txt>
+Время действия: {CASTTIME}
+Время отката: {COOLDOWN}
+Дальность действия: {CASTRANGE}
+Затраты маны: {MANACOSTS}
+Урон: {DAMAGE}
+Шанс оглушения: {STUNCHANCE}%
+Время оглушения: {STUNTIME}s</Txt>
         </GameElement>
         <GameElement ID="Contained Power">
           <Txt>Contained Power</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Permanently increases your mana quantity&#xA;&#xA;Bonus Mana Max: {BONUSMANAMAX}%">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Permanently increases your mana quantity
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Увеличивает максимальное количество маны
 
-Bonus Mana Max: {BONUSMANAMAX}%</Txt>
+Бонус маны: {BONUSMANAMAX}%</Txt>
         </GameElement>
         <GameElement ID="Focus">
-          <Txt>Focus</Txt>
+          <Txt>Концентрация</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Permanently increases Critical chance.&#xA;&#xA;Bonus Critical: {BONUSCRITICALCHANCE}%">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Permanently increases Critical chance.
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Увеличивает шанс критического удара.
 
-Bonus Critical: {BONUSCRITICALCHANCE}%</Txt>
+Бонус критического удара: {BONUSCRITICALCHANCE}%</Txt>
         </GameElement>
         <GameElement ID="Golem Attack">
-          <Txt>Golem Attack</Txt>
+          <Txt>Атака голема</Txt>
         </GameElement>
         <GameElement ID="Griffin Left">
-          <Txt>Griffin Left</Txt>
+          <Txt>Гриффин Слева</Txt>
         </GameElement>
         <GameElement ID="Griffin Right">
-          <Txt>Griffin Right</Txt>
+          <Txt>Гриффин Справа</Txt>
         </GameElement>
         <GameElement ID="Ground Shake">
-          <Txt>Ground Shake</Txt>
+          <Txt>Сотрясение Земли</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Stun and damage all the enemies around you.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Mana Costs: {MANACOSTS}&#xA;Damage: {DAMAGE}&#xA;Stun Time: {STUNTIME}s">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Stun and damage all the enemies around you.
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Оглушайте и наносите урон всем врагам вокруг вас.
 
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Cast Range: {CASTRANGE}
-Mana Costs: {MANACOSTS}
-Damage: {DAMAGE}
-Stun Time: {STUNTIME}s</Txt>
+Время действия: {CASTTIME}
+Время отката: {COOLDOWN}
+Дальность действия: {CASTRANGE}
+Затраты маны: {MANACOSTS}
+Урон: {DAMAGE}
+Шанс оглушения: {STUNCHANCE}%
+Время оглушения: {STUNTIME}s</Txt>
         </GameElement>
         <GameElement ID="Hard Shell">
-          <Txt>Hard Shell</Txt>
+          <Txt>Твёрдый Панцырь</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;&#xA;Permanently increases Block chance.&#xA;&#xA;Bonus Block: {BONUSBLOCKCHANCE}%">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
 
-Permanently increases Block chance.
+Увеличивает шанс блокирования удара.
 
-Bonus Block: {BONUSBLOCKCHANCE}%</Txt>
+Бонус блокирования удара: {BONUSBLOCKCHANCE}%</Txt>
         </GameElement>
         <GameElement ID="Healing">
-          <Txt>Healing</Txt>
+          <Txt>Исцеление</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Slowly regen your health&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Buff Time: {BUFFTIME}&#xA;Buffs Regen: {BONUSHEALTHPERCENTPERSECOND}%&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Slowly regen your health
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Медленное восстановление здоровья
 
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Buff Time: {BUFFTIME}
-Buffs Regen: {BONUSHEALTHPERCENTPERSECOND}%
-Mana Costs: {MANACOSTS}</Txt>
+Время действия: {CASTTIME}
+Время отката: {COOLDOWN}
+Время действия заклинания: {BUFFTIME}
+Регенерация заклинания: {BONUSHEALTHPERCENTPERSECOND}%
+Затраты маны: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Health Aura">
-          <Txt>Health Aura</Txt>
+          <Txt>Исцеляющая аура</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Increases slightly the maximum health of all surrounding allies Players for a while and slowly heals them.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Buff Time: {BUFFTIME}&#xA;Buffs max Health: {BONUSHEALTHMAX}%&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Increases slightly the maximum health of all surrounding allies Players for a while and slowly heals them.
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+На некоторое время увеличивает максимальное здоровье всех окружающих союзников и медленно исцеляет их.
 
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Cast Range: {CASTRANGE}
-Buff Time: {BUFFTIME}
-Buffs max Health: {BONUSHEALTHMAX}%
-Mana Costs: {MANACOSTS}</Txt>
+Время действия: {CASTTIME}
+Время отката: {COOLDOWN}
+Дальность действия: {CASTRANGE}
+Время действия заклинания: {BUFFTIME}
+Бонус максимального здоровья: {BONUSHEALTHMAX}%
+Затраты маны: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Heavy Smoke">
-          <Txt>Heavy Smoke</Txt>
+          <Txt>Густой дым</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Uses smokes to blind enemies and slow them down:&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Malus Speed : {BONUSSPEED}&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Uses smokes to blind enemies and slow them down:
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Ослепляет и замедляет врага на некоторое время:
 
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Cast Range: {CASTRANGE}
-Malus Speed : {BONUSSPEED}
-Mana Costs: {MANACOSTS}</Txt>
+Время действия: {CASTTIME}
+Время отката: {COOLDOWN}
+Дальность действия: {CASTRANGE}
+Скорость замедления: {BONUSSPEED}
+Затраты маны: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Life Boost">
-          <Txt>Life Boost</Txt>
+          <Txt>Увеличение жизни</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Increases maximum health of a selected friend or of yourself for a while.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Buff Time: {BUFFTIME}&#xA;Buffs max Health: {BONUSHEALTHMAX}&#xA;Mana Costs: {MANACOSTS}">
           <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Increases maximum health of a selected friend or of yourself for a while.
+Увеличивает максимальное здоровье выбранного союзника или себя на некоторое время.
 
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Buff Time: {BUFFTIME}
-Buffs max Health: {BONUSHEALTHMAX}
-Mana Costs: {MANACOSTS}</Txt>
+Время действия: {CASTTIME}
+Время отката: {COOLDOWN}
+Время действия заклинания: {BUFFTIME}
+Бонус максимального здоровья: {BONUSHEALTHMAX}
+Затраты маны: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Lycaon Attack">
-          <Txt>Lycaon Attack</Txt>
+          <Txt>Атака Ликана</Txt>
         </GameElement>
         <GameElement ID="Lycaon Long Attack">
-          <Txt>Lycaon Long Attack</Txt>
+          <Txt>Длинная атака Ликана</Txt>
         </GameElement>
         <GameElement ID="Magic Shielding">
-          <Txt>Magic Shielding</Txt>
+          <Txt>Магический щит</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Augment selected character defense.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Malus Speed : {BONUSSPEED}&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Augment selected character defense.
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Повышение защиты выбранного персонажа.
 
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Cast Range: {CASTRANGE}
-Malus Speed : {BONUSSPEED}
-Mana Costs: {MANACOSTS}</Txt>
+Время действия: {CASTTIME}
+Время отката: {COOLDOWN}
+Дальность действия: {CASTRANGE}
+Бонус скорости: {BONUSSPEED}
+Затраты маны: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Monster Attack">
-          <Txt>Monster Attack</Txt>
+          <Txt>Атака Монстра</Txt>
         </GameElement>
         <GameElement ID="Murderer">
-          <Txt>Murderer</Txt>
+          <Txt>Убийца</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} &lt;/b&gt;&#xA;You murdered someone innocent recently.&#xA;Other players can kill you without a penalty for a while now, and you  feel a lot weaker !&#xA;&#xA;Buff Time: {BUFFTIME}">
           <Txt>&lt;b&gt;{NAME} &lt;/b&gt;
-You murdered someone innocent recently.
-Other players can kill you without a penalty for a while now, and you  feel a lot weaker !
+Недавно вы убили кого-то невинного.
+Другие игроки могут убивать вас без наказания уже некоторое время, и вы чувствуете себя намного слабее!
 
-Buff Time: {BUFFTIME}</Txt>
+Время действия: {BUFFTIME}</Txt>
         </GameElement>
         <GameElement ID="Normal Attack (Bow)">
-          <Txt>Normal Attack (Bow)</Txt>
+          <Txt>Обычная Атака (Лук)</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Default Attack.&#xA;&#xA;Damage: {DAMAGE}&#xA;Stun Chance: {STUNCHANCE}%&#xA;Stun Time: {STUNTIME}s&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Default Attack.
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Обычная атака.
 
-Damage: {DAMAGE}
-Stun Chance: {STUNCHANCE}%
-Stun Time: {STUNTIME}s
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Cast Range: {CASTRANGE}</Txt>
+Урон: {DAMAGE}
+Шанс оглушения: {STUNCHANCE}%
+Время оглушения: {STUNTIME}s
+Время атаки: {CASTTIME}
+Время отката: {COOLDOWN}
+Дальность действия: {CASTRANGE}</Txt>
         </GameElement>
         <GameElement ID="Normal Attack (Staff)">
-          <Txt>Normal Attack (Staff)</Txt>
+          <Txt>Обычная Атака (Жезл)</Txt>
         </GameElement>
         <GameElement ID="Normal Attack (Sword)">
-          <Txt>Normal Attack (Sword)</Txt>
+          <Txt>Обычная Атака (Меч)</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Default Attack&#xA;&#xA;Damage: {DAMAGE}&#xA;Stun Chance: {STUNCHANCE}%&#xA;Stun Time: {STUNTIME}s">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Default Attack
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Обычная Атака
 
-Damage: {DAMAGE}
-Stun Chance: {STUNCHANCE}%
-Stun Time: {STUNTIME}s</Txt>
+Урон: {DAMAGE}
+Шанс оглушения: {STUNCHANCE}%
+Время оглушения: {STUNTIME}s</Txt>
         </GameElement>
         <GameElement ID="Offender">
-          <Txt>Offender</Txt>
+          <Txt>Преступник</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;You attacked someone innocent recently.&#xA;Other players can kill you without a penalty for a while now!&#xA;&#xA;Buff Time: {BUFFTIME}">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
-You attacked someone innocent recently.
-Other players can kill you without a penalty for a while now!
+Недавно вы напали на кого-то невинного.
+Теперь другие игроки могут убивать вас без штрафа некоторое время!
 
-Buff Time: {BUFFTIME}</Txt>
+Вреямя действия: {BUFFTIME}</Txt>
         </GameElement>
         <GameElement ID="Pet Attack">
-          <Txt>Pet Attack</Txt>
+          <Txt>Атака питомца</Txt>
         </GameElement>
         <GameElement ID="Ranged Monster Attack">
-          <Txt>Ranged Monster Attack</Txt>
+          <Txt>Атака монстра с расстояния</Txt>
         </GameElement>
         <GameElement ID="Sacrifice">
-          <Txt>Sacrifice</Txt>
+          <Txt>Жертвоприношение</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Heals yourself at a pretty fast rate. &#xA;Considered a dark ability because can only heal yourself, even if it means letting your friends and ally die.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Heals Health: {HEALSHEALTH}&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Heals yourself at a pretty fast rate. 
-Considered a dark ability because can only heal yourself, even if it means letting your friends and ally die.
-
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Cast Range: {CASTRANGE}
-Heals Health: {HEALSHEALTH}
-Mana Costs: {MANACOSTS}</Txt>
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Исцеляет себя с высокой скоростью. 
+Считается темной способностью, так как может исцелять только себя, даже если это означает смерть союзников.
+Время действия: {CASTTIME}
+Время jnrfnf: {COOLDOWN}
+Дальность действия: {CASTRANGE}
+Исцеляет здоровья: {HEALSHEALTH}
+Затраты маны: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Second Chance">
-          <Txt>Second Chance</Txt>
+          <Txt>Второй шанс</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Heals a Player&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Heals Health: {HEALSHEALTH}&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Heals a Player
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Исцеляет игрока.
 
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Cast Range: {CASTRANGE}
-Heals Health: {HEALSHEALTH}
-Mana Costs: {MANACOSTS}</Txt>
+Время действия: {CASTTIME}
+Время отката: {COOLDOWN}
+Дальность действия: {CASTRANGE}
+Исцеляет здоровья: {HEALSHEALTH}
+Затраты маны: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Slash">
-          <Txt>Slash</Txt>
+          <Txt>Рассекающий удар</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Hits the selected ennemy, and stun it.&#xA;&#xA;Damage: {DAMAGE}&#xA;Mana Costs: {MANACOSTS}&#xA;Stun Time: {STUNTIME}s">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Hits the selected ennemy, and stun it.
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Поражает выбранного противника и оглушает его.
 
-Damage: {DAMAGE}
-Mana Costs: {MANACOSTS}
-Stun Time: {STUNTIME}s</Txt>
+Урон: {DAMAGE}
+Затраты маны: {MANACOSTS}
+Время оглушения: {STUNTIME}s</Txt>
         </GameElement>
         <GameElement ID="Therapy">
-          <Txt>Therapy</Txt>
+          <Txt>Высшее исцеление</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Heals all surrounding Players&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Heals Health: {HEALSHEALTH}&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Heals all surrounding Players
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Исцеляет всех окружающих игроков.
 
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Cast Range: {CASTRANGE}
-Heals Health: {HEALSHEALTH}
-Mana Costs: {MANACOSTS}</Txt>
+Время действия: {CASTTIME}
+Время отката: {COOLDOWN}
+Дальность действия: {CASTRANGE}
+Исцеляет здоровья: {HEALSHEALTH}
+Затраты маны: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Warrior's Chain">
-          <Txt>Warrior's Chain</Txt>
+          <Txt>Цепь воина</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Chain a ennemy and slow it down during a defined time.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Malus Speed : {BONUSSPEED}&#xA;Mana Costs: {MANACOSTS}&#xA;Buff Time: {BUFFTIME}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Chain a ennemy and slow it down during a defined time.
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+Приковывает врага цепью и замедляет его на определенное время.
 
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Cast Range: {CASTRANGE}
-Malus Speed : {BONUSSPEED}
-Mana Costs: {MANACOSTS}
-Buff Time: {BUFFTIME}</Txt>
+Время действия: {CASTTIME}
+Время отката: {COOLDOWN}
+Дальность действия: {CASTRANGE}
+Скорость замедления: {BONUSSPEED}
+Затраты маны: {MANACOSTS}
+Время действия замедления: {BUFFTIME}</Txt>
         </GameElement>
         <GameElement ID="Windwalk">
-          <Txt>Windwalk</Txt>
+          <Txt>Прогулка по ветру</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Increases movement speed for a while.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Buff Time: {BUFFTIME}&#xA;Buffs speed: {BONUSSPEED}&#xA;Mana Costs: {MANACOSTS}">
-          <Txt>&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;
-Increases movement speed for a while.
+          <Txt>&lt;b&gt;{NAME} Уровень {LEVEL}&lt;/b&gt;
+На некоторое время увеличивает скорость передвижения.
 
-Cast Time: {CASTTIME}
-Cooldown: {COOLDOWN}
-Buff Time: {BUFFTIME}
-Buffs speed: {BONUSSPEED}
-Mana Costs: {MANACOSTS}</Txt>
+Время действия: {CASTTIME}
+Время отката: {COOLDOWN}
+Время способности: {BUFFTIME}
+ Бонус скорости: {BONUSSPEED}
+Затраты маны: {MANACOSTS}</Txt>
         </GameElement>
       </listElements>
     </GameScene>
