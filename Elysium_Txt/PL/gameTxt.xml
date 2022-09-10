@@ -3,17 +3,11 @@
   <gameScenes>
     <GameScene Category="Scene UI Elements">
       <listElements>
-        <GameElement ID="Help me !">
-          <Txt>Pomóż mi!</Txt>
+        <GameElement ID="Register">
+          <Txt>Register</Txt>
         </GameElement>
-        <GameElement ID="If you are new to the game, just enter your informations &amp; click Start Playing !">
-          <Txt>Jeśli jesteś nowy, zarejestruj się i zacznij grać!</Txt>
-        </GameElement>
-        <GameElement ID="Asia">
-          <Txt>Azja</Txt>
-        </GameElement>
-        <GameElement ID="Wiki">
-          <Txt>Wiki</Txt>
+        <GameElement ID="Lv. 0">
+          <Txt>Lv. 0</Txt>
         </GameElement>
         <GameElement ID="Enter message...">
           <Txt>Wpisz wiadomość...</Txt>
@@ -21,65 +15,23 @@
         <GameElement ID="Send">
           <Txt>Wyślij</Txt>
         </GameElement>
-        <GameElement ID="Quit">
-          <Txt>Wyjście</Txt>
-        </GameElement>
-        <GameElement ID="Party Invite">
-          <Txt>Zaproszenie do drużyny</Txt>
-        </GameElement>
-        <GameElement ID="Server:">
-          <Txt>Serwer:</Txt>
-        </GameElement>
-        <GameElement ID="Recover &#xA;password">
-          <Txt>Odzyskaj hasło</Txt>
-        </GameElement>
-        <GameElement ID="Trade">
-          <Txt>Handel</Txt>
-        </GameElement>
-        <GameElement ID="[Skill Name]">
-          <Txt>Nazwa Czaru</Txt>
-        </GameElement>
-        <GameElement ID="Guild Invite">
-          <Txt>Zaproszenie do Gildii</Txt>
-        </GameElement>
-        <GameElement ID="America">
-          <Txt>Ameryka</Txt>
-        </GameElement>
-        <GameElement ID="Start Playing">
-          <Txt>Graj</Txt>
-        </GameElement>
-        <GameElement ID="Name">
-          <Txt>Nazwa</Txt>
-        </GameElement>
-        <GameElement ID="Password:">
-          <Txt>Hasło:</Txt>
-        </GameElement>
-        <GameElement ID="Europe">
-          <Txt>Europa</Txt>
-        </GameElement>
-        <GameElement ID="Enter text...">
-          <Txt>Wpisz tekst...</Txt>
-        </GameElement>
-        <GameElement ID="Username:">
-          <Txt>Nazwa:</Txt>
-        </GameElement>
-        <GameElement ID="Credit">
-          <Txt>Twórcy</Txt>
-        </GameElement>
-        <GameElement ID="Register">
-          <Txt>Register</Txt>
-        </GameElement>
-        <GameElement ID="[Pet Name]">
-          <Txt>[Pet Name]</Txt>
-        </GameElement>
-        <GameElement ID="Lv. 0">
-          <Txt>Lv. 0</Txt>
-        </GameElement>
         <GameElement ID="Local">
           <Txt>Local</Txt>
         </GameElement>
         <GameElement ID="Global">
           <Txt>Global</Txt>
+        </GameElement>
+        <GameElement ID="Name">
+          <Txt>Nazwa</Txt>
+        </GameElement>
+        <GameElement ID="Trade">
+          <Txt>Handel</Txt>
+        </GameElement>
+        <GameElement ID="Guild Invite">
+          <Txt>Zaproszenie do Gildii</Txt>
+        </GameElement>
+        <GameElement ID="Party Invite">
+          <Txt>Zaproszenie do drużyny</Txt>
         </GameElement>
         <GameElement ID="Inventory">
           <Txt>Inventory</Txt>
@@ -221,14 +173,8 @@ Skins</Txt>
         <GameElement ID="Guild Panel">
           <Txt>Guild Panel</Txt>
         </GameElement>
-        <GameElement ID="[GuildName]">
-          <Txt>[GuildName]</Txt>
-        </GameElement>
         <GameElement ID="Guild Master:">
           <Txt>Guild Master:</Txt>
-        </GameElement>
-        <GameElement ID="[Name]">
-          <Txt>[Name]</Txt>
         </GameElement>
         <GameElement ID="Capacity:">
           <Txt>Capacity:</Txt>
@@ -353,9 +299,6 @@ or join another player's guild !</Txt>
         </GameElement>
         <GameElement ID="Player's Offer:">
           <Txt>Player's Offer:</Txt>
-        </GameElement>
-        <GameElement ID="[Accepted]">
-          <Txt>[Accepted]</Txt>
         </GameElement>
         <GameElement ID="My Offer:">
           <Txt>My Offer:</Txt>
@@ -547,6 +490,9 @@ buyable Items</Txt>
         <GameElement ID="Buy Item:">
           <Txt>Buy Item:</Txt>
         </GameElement>
+        <GameElement ID="Enter text...">
+          <Txt>Wpisz tekst...</Txt>
+        </GameElement>
         <GameElement ID="Buy!">
           <Txt>Buy!</Txt>
         </GameElement>
@@ -695,6 +641,9 @@ You can't create a guild if you already are in one !</Txt>
         <GameElement ID="Delete">
           <Txt>Delete</Txt>
         </GameElement>
+        <GameElement ID="Quit">
+          <Txt>Wyjście</Txt>
+        </GameElement>
         <GameElement ID="Character Creation">
           <Txt>Character Creation</Txt>
         </GameElement>
@@ -718,6 +667,42 @@ You can't create a guild if you already are in one !</Txt>
         </GameElement>
         <GameElement ID="Are you sure that you want to delete this character ?">
           <Txt>Are you sure that you want to delete this character ?</Txt>
+        </GameElement>
+        <GameElement ID="Username:">
+          <Txt>Nazwa:</Txt>
+        </GameElement>
+        <GameElement ID="Password:">
+          <Txt>Hasło:</Txt>
+        </GameElement>
+        <GameElement ID="Server:">
+          <Txt>Serwer:</Txt>
+        </GameElement>
+        <GameElement ID="Europe">
+          <Txt>Europa</Txt>
+        </GameElement>
+        <GameElement ID="America">
+          <Txt>Ameryka</Txt>
+        </GameElement>
+        <GameElement ID="Asia">
+          <Txt>Azja</Txt>
+        </GameElement>
+        <GameElement ID="Start Playing">
+          <Txt>Graj</Txt>
+        </GameElement>
+        <GameElement ID="Recover &#xA;password">
+          <Txt>Odzyskaj hasło</Txt>
+        </GameElement>
+        <GameElement ID="Help me !">
+          <Txt>Pomóż mi!</Txt>
+        </GameElement>
+        <GameElement ID="Wiki">
+          <Txt>Wiki</Txt>
+        </GameElement>
+        <GameElement ID="If you are new to the game, just enter your informations &amp; click Start Playing !">
+          <Txt>Jeśli jesteś nowy, zarejestruj się i zacznij grać!</Txt>
+        </GameElement>
+        <GameElement ID="Credit">
+          <Txt>Twórcy</Txt>
         </GameElement>
         <GameElement ID="If you are new to the game&#xA;just enter your informations &amp;&#xA;click Start Playing !">
           <Txt>If you are new to the game
@@ -797,25 +782,6 @@ please enter the email you want to use :</Txt>
         <GameElement ID="RECOVER YOUR PASSWORD">
           <Txt>RECOVER YOUR PASSWORD</Txt>
         </GameElement>
-        <GameElement ID="&lt;color=#fe3d39&gt;u&lt;/color&gt;MMORPG">
-          <Txt>&lt;color=#fe3d39&gt;u&lt;/color&gt;MMORPG</Txt>
-        </GameElement>
-        <GameElement ID="Game server is turned off.&#xA;What do you want to do ?">
-          <Txt>Game server is turned off.
-What do you want to do ?</Txt>
-        </GameElement>
-        <GameElement ID="Server &amp; Play">
-          <Txt>Server &amp; Play</Txt>
-        </GameElement>
-        <GameElement ID="Server Only">
-          <Txt>Server Only</Txt>
-        </GameElement>
-        <GameElement ID="Local Account">
-          <Txt>Local Account</Txt>
-        </GameElement>
-        <GameElement ID="Game Contol Panel">
-          <Txt>Game Contol Panel</Txt>
-        </GameElement>
         <GameElement ID="Email:">
           <Txt>Email:</Txt>
         </GameElement>
@@ -833,18 +799,6 @@ What do you want to do ?</Txt>
         </GameElement>
         <GameElement ID="Enter your new password here :">
           <Txt>Enter your new password here :</Txt>
-        </GameElement>
-        <GameElement ID="SERVER :">
-          <Txt>SERVER :</Txt>
-        </GameElement>
-        <GameElement ID="Account Min Length">
-          <Txt>Account Min Length</Txt>
-        </GameElement>
-        <GameElement ID="Password Min Length">
-          <Txt>Password Min Length</Txt>
-        </GameElement>
-        <GameElement ID="Verification Registration">
-          <Txt>Verification Registration</Txt>
         </GameElement>
         <GameElement ID="! Alert !">
           <Txt>! Alert !</Txt>
