@@ -18,6 +18,18 @@
         <GameElement ID="hours">
           <Txt>hours</Txt>
         </GameElement>
+        <GameElement ID="Not Started">
+          <Txt>Not Started</Txt>
+        </GameElement>
+        <GameElement ID="To Complete">
+          <Txt>To Complete</Txt>
+        </GameElement>
+        <GameElement ID="Complete">
+          <Txt>Complete</Txt>
+        </GameElement>
+        <GameElement ID="Accept">
+          <Txt>Akceptuj</Txt>
+        </GameElement>
         <GameElement ID="Lv. 0">
           <Txt>Poziom 0</Txt>
         </GameElement>
@@ -318,9 +330,6 @@ lub dołącz do gildii innego gracza!</Txt>
         </GameElement>
         <GameElement ID="Lock">
           <Txt>Zablokuj</Txt>
-        </GameElement>
-        <GameElement ID="Accept">
-          <Txt>Akceptuj</Txt>
         </GameElement>
         <GameElement ID="Quests">
           <Txt>Zadania</Txt>

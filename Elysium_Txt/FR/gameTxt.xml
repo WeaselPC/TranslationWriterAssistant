@@ -18,6 +18,18 @@
         <GameElement ID="hours">
           <Txt>hours</Txt>
         </GameElement>
+        <GameElement ID="Not Started">
+          <Txt>Not Started</Txt>
+        </GameElement>
+        <GameElement ID="To Complete">
+          <Txt>To Complete</Txt>
+        </GameElement>
+        <GameElement ID="Complete">
+          <Txt>Complete</Txt>
+        </GameElement>
+        <GameElement ID="Accept">
+          <Txt>Accepter</Txt>
+        </GameElement>
         <GameElement ID="Lv. 0">
           <Txt>Nv. 0</Txt>
         </GameElement>
@@ -320,9 +332,6 @@ or join another player's guild !</Txt>
         </GameElement>
         <GameElement ID="Lock">
           <Txt>Verrouiler</Txt>
-        </GameElement>
-        <GameElement ID="Accept">
-          <Txt>Accepter</Txt>
         </GameElement>
         <GameElement ID="Quests">
           <Txt>Quêtes</Txt>
