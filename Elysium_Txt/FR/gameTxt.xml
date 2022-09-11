@@ -6,6 +6,18 @@
         <GameElement ID="Register">
           <Txt>S'enregister</Txt>
         </GameElement>
+        <GameElement ID="Normal Quests">
+          <Txt>Normal Quests</Txt>
+        </GameElement>
+        <GameElement ID="Daily Quests">
+          <Txt>Daily Quests</Txt>
+        </GameElement>
+        <GameElement ID="Time left to complete :">
+          <Txt>Time left to complete :</Txt>
+        </GameElement>
+        <GameElement ID="hours">
+          <Txt>hours</Txt>
+        </GameElement>
         <GameElement ID="Lv. 0">
           <Txt>Nv. 0</Txt>
         </GameElement>
