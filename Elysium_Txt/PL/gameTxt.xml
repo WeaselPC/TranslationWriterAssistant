@@ -7,25 +7,25 @@
           <Txt>Rejestracja</Txt>
         </GameElement>
         <GameElement ID="Normal Quests">
-          <Txt>Normal Quests</Txt>
+          <Txt>Normalne Zadania</Txt>
         </GameElement>
         <GameElement ID="Daily Quests">
-          <Txt>Daily Quests</Txt>
+          <Txt>Dzienne Zadania</Txt>
         </GameElement>
         <GameElement ID="Time left to complete :">
-          <Txt>Time left to complete :</Txt>
+          <Txt>Pozostały czas:</Txt>
         </GameElement>
         <GameElement ID="hours">
-          <Txt>hours</Txt>
+          <Txt>godzin</Txt>
         </GameElement>
         <GameElement ID="Not Started">
-          <Txt>Not Started</Txt>
+          <Txt>Nie wystartowano</Txt>
         </GameElement>
         <GameElement ID="To Complete">
-          <Txt>To Complete</Txt>
+          <Txt>Do wykonania</Txt>
         </GameElement>
         <GameElement ID="Complete">
-          <Txt>Complete</Txt>
+          <Txt>Ukończono</Txt>
         </GameElement>
         <GameElement ID="Accept">
           <Txt>Akceptuj</Txt>
@@ -95,7 +95,7 @@ Wygląd</Txt>
           <Txt>Umiejętności</Txt>
         </GameElement>
         <GameElement ID="Available Skill Exp.:">
-          <Txt>Dostępne punkty rozwoju</Txt>
+          <Txt>Dostępne pkt. rozwoju:</Txt>
         </GameElement>
         <GameElement ID="reset">
           <Txt>Resetuj</Txt>
@@ -161,7 +161,7 @@ Wygląd</Txt>
           <Txt>Strona 1/1</Txt>
         </GameElement>
         <GameElement ID="Spawn Scroll">
-          <Txt>Zwój odrodzenia</Txt>
+          <Txt>Zwój Odrodzenia</Txt>
         </GameElement>
         <GameElement ID="Craft (100%)">
           <Txt>Tworzenie (100%)</Txt>
@@ -350,7 +350,7 @@ lub dołącz do gildii innego gracza!</Txt>
           <Txt>Grupa</Txt>
         </GameElement>
         <GameElement ID="Exp. Auto Share">
-          <Txt>Dzielenie dośw.</Txt>
+          <Txt>Dzielenie Dośw.</Txt>
         </GameElement>
         <GameElement ID="Gold Auto Share">
           <Txt>Dzielenie Złota</Txt>
@@ -501,7 +501,7 @@ do kupienia</Txt>
           <Txt>Ekwipunek</Txt>
         </GameElement>
         <GameElement ID="Category :">
-          <Txt>Kategoria :</Txt>
+          <Txt>Kategoria:</Txt>
         </GameElement>
         <GameElement ID="Buy Item:">
           <Txt>Kup przedmiot</Txt>
@@ -664,10 +664,10 @@ Nie możesz stworzyć gildii, jeśli już w niej jesteś!</Txt>
           <Txt>Tworzenie postaci</Txt>
         </GameElement>
         <GameElement ID="Choose your name :">
-          <Txt>Wybierz swoje imię :</Txt>
+          <Txt>Wybierz swoje imię:</Txt>
         </GameElement>
         <GameElement ID="Choose your path :">
-          <Txt>Wybierz swoją ścieżkę :</Txt>
+          <Txt>Wybierz swoją ścieżkę:</Txt>
         </GameElement>
         <GameElement ID="Warrior">
           <Txt>Wojownik</Txt>
@@ -1359,7 +1359,7 @@ Cena: {BUYPRICE} Złota
 &lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Basic heavy boot">
-          <Txt>Podstawowe ciężkie buty</Txt>
+          <Txt>Ciężkie buty dla początkujących</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAMEX}&lt;/b&gt;&#xA;&lt;i&gt;&lt;b&gt;FOR WARRIOR ONLY&lt;/b&gt;&lt;/i&gt;&#xA;Boots you bought at the shop for a correct price...&#xA;it seems to be a little more solid, and protective than what you had before.&#xA;&#xA;{EQUIPMENTHEALTHMAX} Max durability&#xA;{EQUIPMENTHEALTH%} % Left&#xA;&#xA;{DEFENSEBONUS} Defense&#xA;&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;Mergeable : {MERGEABLE}&#xA;&#xA;Required Level: {MINLEVEL}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAMEX}&lt;/b&gt;
@@ -2192,8 +2192,7 @@ Ilość: {AMOUNT}
 &lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Lycaon's tooth">
-          <Txt>
-Ząb Likaona</Txt>
+          <Txt>Ząb Likaona</Txt>
         </GameElement>
         <GameElement ID="Mana Potion">
           <Txt>Mikstura Many</Txt>
@@ -2308,8 +2307,7 @@ Cena: {BUYPRICE} Złota
 &lt;i&gt;Sprzedaż za: {SELLPRICE} Złota&lt;/i&gt;</Txt>
         </GameElement>
         <GameElement ID="Titan Turtle">
-          <Txt>
-Żółw Tytanowy</Txt>
+          <Txt>Żółw Tytanowy</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME}&lt;/b&gt;&#xA;The fastest turtle in the west!&#xA;As incredible as it looks, it is a very fast turtle, faster than some horse!&#xA;Warriors using such a mount are know to attract equally admiration and mockery from the people of this world.&#xA;&#xA;Click Item to summon it.&#xA;Click again to unsummon it.&#xA;(requires owner level {SUMMONEDLEVEL}).&#xA;&#xA;Health: {SUMMONEDHEALTH}&#xA;Destroyable: {DESTROYABLE}&#xA;Sellable: {SELLABLE}&#xA;Tradable: {TRADABLE}&#xA;&#xA;Amount: {AMOUNT}&#xA;Price: {BUYPRICE} Gold&#xA;&lt;i&gt;Sells for: {SELLPRICE} Gold&lt;/i&gt;">
           <Txt>&lt;b&gt;{NAME}&lt;/b&gt;
@@ -2608,12 +2606,12 @@ Zadanie:
 {STATUS}</Txt>
         </GameElement>
         <GameElement ID="Get Some Gorgon tails">
-          <Txt>Zdobądź trochę ogonów gorgony</Txt>
+          <Txt>Zdobądź ogony Gorgony</Txt>
         </GameElement>
         <GameElement ID="I need to redo my stock of monster's item. Could you get some {GATHERITEM}s for me ?&#xA;&#xA;Tasks:&#xA;* Gather {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}&#xA;&#xA;{STATUS}">
           <Txt>Muszę przerobić zapas przedmiotów potwora. Czy możesz zdobyć dla mnie kilka {GATHERITEM}?
 
-Tasks:
+Zadanie:
 * Znajdź {GATHERITEM}: {GATHERED}/{GATHERAMOUNT}
 
 {STATUS}</Txt>
@@ -2860,7 +2858,7 @@ Prędkość Malusa : {BONUSSPEED}
 Koszt many: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Monster Attack">
-          <Txt>Atak potwora</Txt>
+          <Txt>Atak Potwora</Txt>
         </GameElement>
         <GameElement ID="Murderer">
           <Txt>Morderca</Txt>
@@ -2873,11 +2871,11 @@ Inni gracze mogą cię zabić przez chwilę bez kary, a ty czujesz się dużo s�
 Czas wzmocnienia: {BUFFTIME}</Txt>
         </GameElement>
         <GameElement ID="Normal Attack (Bow)">
-          <Txt>Normalny atak (Łuk)</Txt>
+          <Txt>Normalny Atak (Łuk)</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Default Attack.&#xA;&#xA;Damage: {DAMAGE}&#xA;Stun Chance: {STUNCHANCE}%&#xA;Stun Time: {STUNTIME}s&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}">
           <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
-Atak domyślny.
+Atak Domyślny.
 
 Obrażenia: {DAMAGE}
 Szansa na ogłuszenie: {STUNCHANCE}%
@@ -2894,7 +2892,7 @@ Zasięg rzucania: {CASTRANGE}</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Default Attack&#xA;&#xA;Damage: {DAMAGE}&#xA;Stun Chance: {STUNCHANCE}%&#xA;Stun Time: {STUNTIME}s">
           <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
-Atak domyślny.
+Atak Domyślny.
 
 Obrażenia: {DAMAGE}
 Szansa na ogłuszenie: {STUNCHANCE}%
@@ -2922,7 +2920,7 @@ Czas wzmocnienia: {BUFFTIME}</Txt>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Heals yourself at a pretty fast rate. &#xA;Considered a dark ability because can only heal yourself, even if it means letting your friends and ally die.&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Heals Health: {HEALSHEALTH}&#xA;Mana Costs: {MANACOSTS}">
           <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
 Leczy się w dość szybkim tempie.
-Uważana za mroczną zdolność, ponieważ może leczyć tylko siebie, nawet jeśli oznacza to pozwolenie swoim przyjaciołom i sojusznikom umrzeć.
+Uważana za mroczną zdolność, ponieważ może leczyć tylko siebie, nawet jeśli pozwala to przyjaciołom i sojusznikom umrzeć.
 
 Czas rzucania: {CASTTIME}
 Czas odnowienia: {COOLDOWN}
@@ -2931,7 +2929,7 @@ Leczy zdrowie: {HEALSHEALTH}
 Koszt many: {MANACOSTS}</Txt>
         </GameElement>
         <GameElement ID="Second Chance">
-          <Txt>Druga szansa</Txt>
+          <Txt>Druga Szansa</Txt>
         </GameElement>
         <GameElement ID="&lt;b&gt;{NAME} Lvl {LEVEL}&lt;/b&gt;&#xA;Heals a Player&#xA;&#xA;Cast Time: {CASTTIME}&#xA;Cooldown: {COOLDOWN}&#xA;Cast Range: {CASTRANGE}&#xA;Heals Health: {HEALSHEALTH}&#xA;Mana Costs: {MANACOSTS}">
           <Txt>&lt;b&gt;{NAME} Poziom {LEVEL}&lt;/b&gt;
