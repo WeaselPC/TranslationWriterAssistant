@@ -52,10 +52,10 @@
           <Txt>Handel</Txt>
         </GameElement>
         <GameElement ID="Guild Invite">
-          <Txt>Zaproszenie do Gildii</Txt>
+          <Txt>Zapr. do Gildii</Txt>
         </GameElement>
         <GameElement ID="Party Invite">
-          <Txt>Zaproszenie do drużyny</Txt>
+          <Txt>Zapr. do drużyny</Txt>
         </GameElement>
         <GameElement ID="Inventory">
           <Txt>Ekwipunek</Txt>
@@ -85,7 +85,8 @@
           <Txt>Zakład:</Txt>
         </GameElement>
         <GameElement ID="See&#xA;Skins">
-          <Txt>Zobacz wygląd</Txt>
+          <Txt>Zobacz 
+Wygląd</Txt>
         </GameElement>
         <GameElement ID="Upgrade">
           <Txt>Ulepsz</Txt>
@@ -112,16 +113,16 @@
           <Txt>Obrona:</Txt>
         </GameElement>
         <GameElement ID="Max. Health:">
-          <Txt>Maksymalne życie</Txt>
+          <Txt>Maks. Zdrowie</Txt>
         </GameElement>
         <GameElement ID="Max. Mana:">
-          <Txt>Maksymalna mana</Txt>
+          <Txt>Maks. Mana</Txt>
         </GameElement>
         <GameElement ID="Critical:">
-          <Txt>Szansa na krytyka:</Txt>
+          <Txt>Krytyk:</Txt>
         </GameElement>
         <GameElement ID="Block:">
-          <Txt>Szansa na blok:</Txt>
+          <Txt>Blok:</Txt>
         </GameElement>
         <GameElement ID="Speed:">
           <Txt>Prędkość:</Txt>
@@ -133,26 +134,25 @@
           <Txt>Doświadczenie</Txt>
         </GameElement>
         <GameElement ID="Exp. max.:">
-          <Txt>Maksymalne doświadczenie</Txt>
+          <Txt>Maks. dośw.</Txt>
         </GameElement>
         <GameElement ID="Skill Exp.:">
-          <Txt>Doświadczenie Umiejętności</Txt>
+          <Txt>Pkt. Umiejętności</Txt>
         </GameElement>
         <GameElement ID="Attributes">
-          <Txt>Atrybuty
-</Txt>
+          <Txt>Atrybuty</Txt>
         </GameElement>
         <GameElement ID="Intelligence:">
-          <Txt>Inteligencja</Txt>
+          <Txt>Inteligencja:</Txt>
         </GameElement>
         <GameElement ID="Strength:">
           <Txt>Siła:</Txt>
         </GameElement>
         <GameElement ID="Precision:">
-          <Txt>Precyzja</Txt>
+          <Txt>Precyzja:</Txt>
         </GameElement>
         <GameElement ID="Constitution:">
-          <Txt>Konstytucja:</Txt>
+          <Txt>Żywotność:</Txt>
         </GameElement>
         <GameElement ID="Crafting">
           <Txt>Tworzenie</Txt>
@@ -177,7 +177,7 @@
 (1/5)</Txt>
         </GameElement>
         <GameElement ID="CRAFT FAILED :(">
-          <Txt>Wytwarzanie nie powiodło się ! :(</Txt>
+          <Txt>Nie powiodło się ! :(</Txt>
         </GameElement>
         <GameElement ID="ITEM NAME">
           <Txt>ITEM NAME</Txt>
@@ -244,7 +244,7 @@
         </GameElement>
         <GameElement ID="You can't leave your guild as the Guild Master !&#xA;Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.&#xA;">
           <Txt>Nie możesz opuścić swojej gildii jako Guild Master!
-Udaj się do NPC, który zajmuje się zarządzaniem NPC, jeśli chcesz go zakończyć, lub wybierz innego członka na nowego mistrza gildii.</Txt>
+Udaj się do NPC, który zajmuje się Gildiami, jeśli chcesz go zakończyć, lub wybierz innego członka na nowego mistrza gildii.</Txt>
         </GameElement>
         <GameElement ID="You can't leave your guild as the Guild Master !&#xA;">
           <Txt>Nie możesz opuścić swojej gildii jako Guild Master!</Txt>
@@ -256,7 +256,7 @@ Udaj się do NPC, który zajmuje się zarządzaniem NPC, jeśli chcesz go zakoń
           <Txt>Nowy tekst</Txt>
         </GameElement>
         <GameElement ID="You do not have a guild">
-          <Txt>Nie masz gildii</Txt>
+          <Txt>Nie posiadasz gildii</Txt>
         </GameElement>
         <GameElement ID="To enter a guild, create one at the shopkeeper&#xA;or join another player's guild !">
           <Txt>Aby dołączyć do gildii, utwórz ją u sklepikarza
@@ -302,7 +302,7 @@ lub dołącz do gildii innego gracza!</Txt>
           <Txt>Edycja postaci</Txt>
         </GameElement>
         <GameElement ID="Chose new appearance">
-          <Txt>Zmień wygląd</Txt>
+          <Txt>Wybierz nowy wygląd</Txt>
         </GameElement>
         <GameElement ID="Cancel">
           <Txt>Anuluj</Txt>
@@ -350,7 +350,7 @@ lub dołącz do gildii innego gracza!</Txt>
           <Txt>Grupa</Txt>
         </GameElement>
         <GameElement ID="Exp. Auto Share">
-          <Txt>Dzielenie doświadczenia</Txt>
+          <Txt>Dzielenie dośw.</Txt>
         </GameElement>
         <GameElement ID="Gold Auto Share">
           <Txt>Dzielenie Złota</Txt>
@@ -484,10 +484,12 @@ Zakładu zabitych graczy</Txt>
           <Txt>Przedmioty na sprzedaż</Txt>
         </GameElement>
         <GameElement ID="Only show &#xA;usable Items">
-          <Txt>Pokaż przemioty użytkowe</Txt>
+          <Txt>Pokaż przemioty 
+użytkowe</Txt>
         </GameElement>
         <GameElement ID="Only show &#xA;buyable Items">
-          <Txt>Pokaż przedmioty do kupienia</Txt>
+          <Txt>Pokaż przedmioty 
+do kupienia</Txt>
         </GameElement>
         <GameElement ID="Everything">
           <Txt>Wszystko</Txt>
@@ -560,11 +562,10 @@ Nie możesz stworzyć gildii, jeśli już w niej jesteś!</Txt>
           <Txt>Ożyw zwierzaka</Txt>
         </GameElement>
         <GameElement ID="Drag your summonable item in here to revive it!">
-          <Txt>Przeciągnij tutaj swój przedmiot do przywołania, aby go ożywić!</Txt>
+          <Txt>Przeciągnij przedmiot do przywołania, aby go ożywić!</Txt>
         </GameElement>
         <GameElement ID="Repair your equipment">
-          <Txt>
-Napraw swój sprzęt</Txt>
+          <Txt>Napraw swój sprzęt</Txt>
         </GameElement>
         <GameElement ID="Item to repair :">
           <Txt>Przedmiot do naprawy:</Txt>
@@ -630,7 +631,7 @@ Napraw swój sprzęt</Txt>
           <Txt>Zaprosił cię do swojej Gildii.</Txt>
         </GameElement>
         <GameElement ID="Ignore all further requests from this user">
-          <Txt>Zignoruj ​​wszystkie dalsze prośby od tego użytkownika</Txt>
+          <Txt>Zignoruj ​​wszystkie prośby od tego użytkownika</Txt>
         </GameElement>
         <GameElement ID="Player Trade Request">
           <Txt>Prośba o handel</Txt>
@@ -648,9 +649,7 @@ Napraw swój sprzęt</Txt>
           <Txt>Odrodzenie</Txt>
         </GameElement>
         <GameElement ID="You Died :(">
-          <Txt>Umarłeś :(
-
-</Txt>
+          <Txt>Umarłeś :(</Txt>
         </GameElement>
         <GameElement ID="Start">
           <Txt>Start</Txt>
@@ -707,7 +706,8 @@ Napraw swój sprzęt</Txt>
           <Txt>Graj</Txt>
         </GameElement>
         <GameElement ID="Recover &#xA;password">
-          <Txt>Odzyskaj hasło</Txt>
+          <Txt>Odzyskaj 
+hasło</Txt>
         </GameElement>
         <GameElement ID="Help me !">
           <Txt>Pomóż mi!</Txt>
@@ -716,14 +716,14 @@ Napraw swój sprzęt</Txt>
           <Txt>Wiki</Txt>
         </GameElement>
         <GameElement ID="If you are new to the game, just enter your informations &amp; click Start Playing !">
-          <Txt>Jeśli jesteś nowy, zarejestruj się i zacznij grać!</Txt>
+          <Txt>Jeśli jesteś nowy w grze, wpisz informacje o sobie i zacznij grać!</Txt>
         </GameElement>
         <GameElement ID="Credit">
           <Txt>Twórcy</Txt>
         </GameElement>
         <GameElement ID="If you are new to the game&#xA;just enter your informations &amp;&#xA;click Start Playing !">
-          <Txt>Jeśli jesteś nowy, 
-zarejestruj się 
+          <Txt>Jeśli jesteś nowy w grze, 
+wpisz informacje o sobie 
 i zacznij grać!</Txt>
         </GameElement>
         <GameElement ID="Settings">
@@ -797,7 +797,7 @@ wpisz adres e-mail, którego chcesz użyć :</Txt>
           <Txt>Kod weryfikacyjny:</Txt>
         </GameElement>
         <GameElement ID="You should have received a confirmation code in your mail, please enter it below.">
-          <Txt>Powinieneś otrzymać kod potwierdzający pocztą, wpisz go poniżej.</Txt>
+          <Txt>Powinieneś otrzymać kod potwierdzający na Twoją pocztę, wpisz go poniżej.</Txt>
         </GameElement>
         <GameElement ID="Enter password...">
           <Txt>Wpisz hasło...</Txt>
@@ -847,7 +847,8 @@ najbliższy</Txt>
           <Txt>Czat</Txt>
         </GameElement>
         <GameElement ID="X&#xA;&#xA;&#xA;">
-          <Txt>X
+          <Txt>
+X
 
 
 </Txt>
@@ -884,10 +885,10 @@ Globalny</Txt>
           <Txt>1000ms</Txt>
         </GameElement>
         <GameElement ID="If you already have an account, but wrote incorrectly your username, click on :">
-          <Txt>Jeśli masz już konto, ale błędnie wpisałeś swoją nazwę użytkownika, kliknij :</Txt>
+          <Txt>Jeśli masz już konto, ale błędnie wpisałeś swoją nazwę użytkownika, kliknij:</Txt>
         </GameElement>
         <GameElement ID="You should have received a confirmation code in your mail, please enter it below :">
-          <Txt>Powinieneś otrzymać kod potwierdzający pocztą, wpisz go poniżej:</Txt>
+          <Txt>Powinieneś otrzymać kod potwierdzający na Twoją pocztę, wpisz go poniżej:</Txt>
         </GameElement>
         <GameElement ID="Enter here what you want your new password to be :">
           <Txt>Wpisz tutaj, jakie ma być Twoje nowe hasło:</Txt>
