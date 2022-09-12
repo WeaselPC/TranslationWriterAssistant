@@ -112,10 +112,10 @@
           <Txt>Защита:</Txt>
         </GameElement>
         <GameElement ID="Max. Health:">
-          <Txt>Макс. Здоровье:</Txt>
+          <Txt>Здоровье:</Txt>
         </GameElement>
         <GameElement ID="Max. Mana:">
-          <Txt>Макс. Мана:</Txt>
+          <Txt>Мана:</Txt>
         </GameElement>
         <GameElement ID="Critical:">
           <Txt>Крит:</Txt>
@@ -130,10 +130,10 @@
           <Txt>Уровень:</Txt>
         </GameElement>
         <GameElement ID="Exp. cur:">
-          <Txt>Текущий EXP:</Txt>
+          <Txt>Опыт:</Txt>
         </GameElement>
         <GameElement ID="Exp. max.:">
-          <Txt>EXP до след. уровня:</Txt>
+          <Txt>След. Ур.:</Txt>
         </GameElement>
         <GameElement ID="Skill Exp.:">
           <Txt>Очки способностей:</Txt>
@@ -151,7 +151,7 @@
           <Txt>Точность:</Txt>
         </GameElement>
         <GameElement ID="Constitution:">
-          <Txt>Выносливость:</Txt>
+          <Txt>Живучесть:</Txt>
         </GameElement>
         <GameElement ID="Crafting">
           <Txt>Ремесленничество</Txt>
@@ -704,7 +704,7 @@
           <Txt>Азия</Txt>
         </GameElement>
         <GameElement ID="Start Playing">
-          <Txt>Начать играть!</Txt>
+          <Txt>Играть!</Txt>
         </GameElement>
         <GameElement ID="Recover &#xA;password">
           <Txt>Восстановить пароль</Txt>
@@ -716,7 +716,7 @@
           <Txt>Вики</Txt>
         </GameElement>
         <GameElement ID="If you are new to the game, just enter your informations &amp; click Start Playing !">
-          <Txt>Если вы не зарегистрированны, просто введите свои данные и нажмите "Начать играть"!</Txt>
+          <Txt>Если вы не зарегистрированны, просто введите свои данные и нажмите "Играть"!</Txt>
         </GameElement>
         <GameElement ID="Credit">
           <Txt>Заслуги</Txt>
@@ -724,7 +724,7 @@
         <GameElement ID="If you are new to the game&#xA;just enter your informations &amp;&#xA;click Start Playing !">
           <Txt>Если вы новичок в игре
 просто введите свои данные и
-нажмите кнопку "Начать игру"!</Txt>
+нажмите кнопку "Играть"!</Txt>
         </GameElement>
         <GameElement ID="Settings">
           <Txt>Настройки</Txt>
