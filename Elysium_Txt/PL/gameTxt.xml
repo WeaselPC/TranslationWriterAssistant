@@ -30,11 +30,11 @@
         <GameElement ID="Accept">
           <Txt>Akceptuj</Txt>
         </GameElement>
-        <GameElement ID="Poseidon's Followers">
-          <Txt>Poseidon's Followers</Txt>
+        <GameElement ID="Poseidon' Followers">
+          <Txt>Poseidon' Followers</Txt>
         </GameElement>
-        <GameElement ID="Zeus's Followers">
-          <Txt>Zeus's Followers</Txt>
+        <GameElement ID="Zeus' Followers">
+          <Txt>Zeus' Followers</Txt>
         </GameElement>
         <GameElement ID="Lv. 0">
           <Txt>Poziom 0</Txt>
@@ -248,9 +248,9 @@ Wygląd</Txt>
         <GameElement ID="NO !">
           <Txt>NIE !</Txt>
         </GameElement>
-        <GameElement ID="You can't leave your guild as the Guild Master !&#xA;Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.&#xA;">
-          <Txt>Nie możesz opuścić swojej gildii jako Guild Master!
-Udaj się do NPC, który zajmuje się Gildiami, jeśli chcesz go zakończyć, lub wybierz innego członka na nowego mistrza gildii.</Txt>
+        <GameElement ID="You can't leave your guild as the Guild Master !&#xA;Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.">
+          <Txt>You can't leave your guild as the Guild Master !
+Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.</Txt>
         </GameElement>
         <GameElement ID="You can't leave your guild as the Guild Master !&#xA;">
           <Txt>Nie możesz opuścić swojej gildii jako Guild Master!</Txt>
@@ -373,20 +373,16 @@ lub dołącz do gildii innego gracza!</Txt>
         <GameElement ID="CHOSE WHO YOU WANT TO FIGHT FOR !">
           <Txt>WYBIERZ DLA KOGO CHCESZ WALCZYĆ!</Txt>
         </GameElement>
-        <GameElement ID="Zeus's Followers&#xA;&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;">
-          <Txt>Wyznawcy Zeusa
-&lt;color=#F0E68C&gt;Bóg nieba i piorunów&lt;/color&gt;</Txt>
+        <GameElement ID="Zeus' Followers&#xA;&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;">
+          <Txt>Zeus' Followers
+&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;</Txt>
         </GameElement>
-        <GameElement ID="Poseidons's Followers&#xA;&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;">
-          <Txt>Wyznawcy Posejdona
-&lt;color=#ADD8E6&gt;Bóg morza i piorunów&lt;/color&gt;</Txt>
+        <GameElement ID="Poseidons' Followers&#xA;&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;">
+          <Txt>Poseidons' Followers
+&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Faction Popup">
           <Txt>Wyskakujące okienko frakcji</Txt>
-        </GameElement>
-        <GameElement ID="Are you sure you want to join &lt;color=#ADD8E6&gt;Poseidon's Followers&lt;/color&gt; ?&#xA;&lt;color=#E00016&gt;You won't be able to change faction ever again !&lt;/color&gt;">
-          <Txt>Czy na pewno chcesz dołączyć do &lt;color=#ADD8E6&gt;Wyznawców Posejdona&lt;/color&gt;?
-&lt;color=#E00016&gt;Nigdy więcej nie będziesz mógł zmienić frakcji!&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Accept !">
           <Txt>Akceptuj !</Txt>
@@ -423,6 +419,10 @@ lub dołącz do gildii innego gracza!</Txt>
         </GameElement>
         <GameElement ID="Change Leader">
           <Txt>Zmień Lidera</Txt>
+        </GameElement>
+        <GameElement ID="You can't leave your guild as the Guild Master !&#xA;Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.&#xA;">
+          <Txt>Nie możesz opuścić swojej gildii jako Guild Master!
+Udaj się do NPC, który zajmuje się Gildiami, jeśli chcesz go zakończyć, lub wybierz innego członka na nowego mistrza gildii.</Txt>
         </GameElement>
         <GameElement ID="Enter the ARENA">
           <Txt>Wejdź do ARENY</Txt>
@@ -897,9 +897,13 @@ Globalny</Txt>
         <GameElement ID="CHOOSE YOUR FACTION!">
           <Txt>CHOOSE YOUR FACTION!</Txt>
         </GameElement>
-        <GameElement ID="Poseidon's Followers&#xA;&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;">
-          <Txt>Wyznawcy posejdona
-&lt;color=#ADD8E6&gt;Bóg morza i piorunów&lt;/color&gt;</Txt>
+        <GameElement ID="Poseidon' Followers&#xA;&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;">
+          <Txt>Poseidon' Followers
+&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;</Txt>
+        </GameElement>
+        <GameElement ID="Are you sure you want to join &lt;color=#ADD8E6&gt;Poseidon's Followers&lt;/color&gt; ?&#xA;&lt;color=#E00016&gt;You won't be able to change faction ever again !&lt;/color&gt;">
+          <Txt>Czy na pewno chcesz dołączyć do &lt;color=#ADD8E6&gt;Wyznawców Posejdona&lt;/color&gt;?
+&lt;color=#E00016&gt;Nigdy więcej nie będziesz mógł zmienić frakcji!&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;&#xA;to integrate a faction !">
           <Txt>You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;
