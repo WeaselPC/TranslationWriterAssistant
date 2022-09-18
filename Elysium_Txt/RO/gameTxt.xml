@@ -36,6 +36,12 @@
         <GameElement ID="Zeus' Followers">
           <Txt>Zeus' Followers</Txt>
         </GameElement>
+        <GameElement ID="You have">
+          <Txt>You have</Txt>
+        </GameElement>
+        <GameElement ID="gold">
+          <Txt>gold</Txt>
+        </GameElement>
         <GameElement ID="Lv. 0">
           <Txt>Lv. 0</Txt>
         </GameElement>
@@ -659,6 +665,9 @@ You can't create a guild if you already are in one !</Txt>
         <GameElement ID="You Died :(">
           <Txt>You Died :(</Txt>
         </GameElement>
+        <GameElement ID="Character Selection">
+          <Txt>Character Selection</Txt>
+        </GameElement>
         <GameElement ID="Start">
           <Txt>Start</Txt>
         </GameElement>
@@ -895,6 +904,15 @@ Chat</Txt>
         <GameElement ID="Donate To Faction">
           <Txt>Donate To Faction</Txt>
         </GameElement>
+        <GameElement ID="Amount To Donate">
+          <Txt>Amount To Donate</Txt>
+        </GameElement>
+        <GameElement ID="You'll get supporter powers for {SUPPORTERTIMER} hours">
+          <Txt>You'll get supporter powers for {SUPPORTERTIMER} hours</Txt>
+        </GameElement>
+        <GameElement ID="Enter Gold Amount...">
+          <Txt>Enter Gold Amount...</Txt>
+        </GameElement>
         <GameElement ID="CHOOSE YOUR FACTION!">
           <Txt>CHOOSE YOUR FACTION!</Txt>
         </GameElement>
@@ -902,9 +920,12 @@ Chat</Txt>
           <Txt>Poseidon' Followers
 &lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;</Txt>
         </GameElement>
-        <GameElement ID="Are you sure you want to join &lt;color=#ADD8E6&gt;Poseidon's Followers&lt;/color&gt; ?&#xA;&lt;color=#E00016&gt;You won't be able to change faction ever again !&lt;/color&gt;">
-          <Txt>Are you sure you want to join &lt;color=#ADD8E6&gt;Poseidon's Followers&lt;/color&gt; ?
-&lt;color=#E00016&gt;You won't be able to change faction ever again !&lt;/color&gt;</Txt>
+        <GameElement ID="By choosing {Faction} as your faction, &#xA;you are agreeing to become part of it and join their ranks.&#xA;&#xA;This choice will have an impact on your guild, your power, your impact on this world, and more.&#xA;&lt;color=#E00016&gt;Leaving your faction is possible, but is an arduous and slow task, so do act carefully!&lt;/color&gt;">
+          <Txt>By choosing {Faction} as your faction, 
+you are agreeing to become part of it and join their ranks.
+
+This choice will have an impact on your guild, your power, your impact on this world, and more.
+&lt;color=#E00016&gt;Leaving your faction is possible, but is an arduous and slow task, so do act carefully!&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;&#xA;to integrate a faction !">
           <Txt>You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;
