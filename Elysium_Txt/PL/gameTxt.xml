@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TranslationSystem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <gameScenes>
-    <GameScene Category="Scene UI Elements">
+    <GameScene Category="UI - Code">
       <listElements>
         <GameElement ID="Register">
           <Txt>Rejestracja</Txt>
@@ -42,6 +42,10 @@
         <GameElement ID="gold">
           <Txt>gold</Txt>
         </GameElement>
+      </listElements>
+    </GameScene>
+    <GameScene Category="UI - Scene">
+      <listElements>
         <GameElement ID="Lv. 0">
           <Txt>Poziom 0</Txt>
         </GameElement>
@@ -963,7 +967,7 @@ to integrate a faction !</Txt>
         </GameElement>
       </listElements>
     </GameScene>
-    <GameScene Category="Other UI Elements">
+    <GameScene Category="UI - Prefab">
       <listElements>
         <GameElement ID="Use All">
           <Txt>Użyj wszystkie</Txt>
