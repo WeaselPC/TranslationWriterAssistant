@@ -905,6 +905,9 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
         <GameElement ID="Donate To Faction">
           <Txt>Donate To Faction</Txt>
         </GameElement>
+        <GameElement ID="Leader Control Page">
+          <Txt>Leader Control Page</Txt>
+        </GameElement>
         <GameElement ID="Amount To Donate">
           <Txt>Amount To Donate</Txt>
         </GameElement>
@@ -913,6 +916,18 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
         </GameElement>
         <GameElement ID="Enter Gold Amount...">
           <Txt>Enter Gold Amount...</Txt>
+        </GameElement>
+        <GameElement ID="Activate new faction power-up">
+          <Txt>Activate new faction power-up</Txt>
+        </GameElement>
+        <GameElement ID="Kick member">
+          <Txt>Kick member</Txt>
+        </GameElement>
+        <GameElement ID="Start faction quest">
+          <Txt>Start faction quest</Txt>
+        </GameElement>
+        <GameElement ID="Return to faction page">
+          <Txt>Return to faction page</Txt>
         </GameElement>
         <GameElement ID="CHOOSE YOUR FACTION!">
           <Txt>CHOOSE YOUR FACTION!</Txt>
@@ -931,9 +946,6 @@ This choice will have an impact on your guild, your power, your impact on this w
         <GameElement ID="You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;&#xA;to integrate a faction !">
           <Txt>You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;
 to integrate a faction !</Txt>
-        </GameElement>
-        <GameElement ID="Chose a leader for your faction">
-          <Txt>Выберите лидера для своей фракции</Txt>
         </GameElement>
         <GameElement ID="Neutrals">
           <Txt>Нейтральные</Txt>
