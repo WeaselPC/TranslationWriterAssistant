@@ -2,7 +2,20 @@
 <TranslationSystem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <gameScenes>
     <GameScene Category="Code">
-      <listElements />
+      <listElements>
+        <GameElement ID="Play_Button">
+          <Txt>Play_Button</Txt>
+        </GameElement>
+        <GameElement ID="Chat_Button">
+          <Txt>Chat_Button</Txt>
+        </GameElement>
+        <GameElement ID="Settings_Button">
+          <Txt>Settings_Button</Txt>
+        </GameElement>
+        <GameElement ID="Exit_Button">
+          <Txt>Exit_Button</Txt>
+        </GameElement>
+      </listElements>
     </GameScene>
     <GameScene Category="Scene">
       <listElements>
