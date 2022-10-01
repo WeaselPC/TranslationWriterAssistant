@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationSystem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <gameScenes>
+    <GameScene Category="Code">
+      <listElements />
+    </GameScene>
+    <GameScene Category="Scene">
+      <listElements>
+        <GameElement ID="Iniciating Session...">
+          <Txt>Iniciating Session...</Txt>
+        </GameElement>
+        <GameElement ID="Welcome to ChromaOS">
+          <Txt>Welcome to ChromaOS</Txt>
+        </GameElement>
+        <GameElement ID="Connecting to proxy...">
+          <Txt>Connecting to proxy...</Txt>
+        </GameElement>
+        <GameElement ID="Loading ChromaOS GUI...">
+          <Txt>Loading ChromaOS GUI...</Txt>
+        </GameElement>
+        <GameElement ID="Welcome Agent.">
+          <Txt>Welcome Agent.</Txt>
+        </GameElement>
+        <GameElement ID="Connection successfull.">
+          <Txt>Connection successfull.</Txt>
+        </GameElement>
+        <GameElement ID="Log-in successfull.">
+          <Txt>Log-in successfull.</Txt>
+        </GameElement>
+      </listElements>
+    </GameScene>
+    <GameScene Category="Prefab">
+      <listElements>
+        <GameElement ID="OS Settings">
+          <Txt>OS Settings</Txt>
+        </GameElement>
+        <GameElement ID="Warning">
+          <Txt>Warning</Txt>
+        </GameElement>
+        <GameElement ID="Unavailable">
+          <Txt>Unavailable</Txt>
+        </GameElement>
+      </listElements>
+    </GameScene>
+  </gameScenes>
+</TranslationSystem>
