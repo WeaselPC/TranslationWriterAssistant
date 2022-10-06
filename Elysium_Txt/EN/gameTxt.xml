@@ -974,6 +974,9 @@ to integrate a faction !</Txt>
         <GameElement ID="Enter here what you want your new password to be :">
           <Txt>Enter here what you want your new password to be :</Txt>
         </GameElement>
+        <GameElement ID="Chose Your Language:">
+          <Txt>Chose Your Language:</Txt>
+        </GameElement>
         <GameElement ID="POPUP">
           <Txt>POPUP</Txt>
         </GameElement>
