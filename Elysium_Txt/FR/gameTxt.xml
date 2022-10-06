@@ -846,7 +846,7 @@ Merci, et amusez vous bien !</Txt>
           <Txt>Overworld</Txt>
         </GameElement>
         <GameElement ID="Select&#xA;nearest">
-          <Txt>Selectionner
+          <Txt>Select.
 plus proche</Txt>
         </GameElement>
         <GameElement ID="SPEAK">
@@ -977,6 +977,11 @@ to integrate a faction !</Txt>
         </GameElement>
         <GameElement ID="Chose Your Language:">
           <Txt>Choisissez votre language :</Txt>
+        </GameElement>
+        <GameElement ID="The translations in Elysium are community driven, and the work on them has just started!&#xA;As such, please don't expect them to be perfect (or close to that) yet! &#xA;Please come on discord, report any issue, and maybe even participate in translating the game!">
+          <Txt>The translations in Elysium are community driven, and the work on them has just started!
+As such, please don't expect them to be perfect (or close to that) yet! 
+Please come on discord, report any issue, and maybe even participate in translating the game!</Txt>
         </GameElement>
         <GameElement ID="POPUP">
           <Txt>POPUP</Txt>
