@@ -42,6 +42,12 @@
         <GameElement ID="gold">
           <Txt>Ouro</Txt>
         </GameElement>
+        <GameElement ID="Joystick Movement">
+          <Txt>Joystick Movement</Txt>
+        </GameElement>
+        <GameElement ID="Tap Movement">
+          <Txt>Tap Movement</Txt>
+        </GameElement>
       </listElements>
     </GameScene>
     <GameScene Category="UI - Scene">
@@ -749,18 +755,6 @@ click Start Playing !</Txt>
         <GameElement ID="Settings">
           <Txt>Settings</Txt>
         </GameElement>
-        <GameElement ID="BGM:">
-          <Txt>BGM:</Txt>
-        </GameElement>
-        <GameElement ID="SFX:">
-          <Txt>SFX:</Txt>
-        </GameElement>
-        <GameElement ID="GUI Scale Factor:">
-          <Txt>GUI Scale Factor:</Txt>
-        </GameElement>
-        <GameElement ID="UI Scale Factor:">
-          <Txt>UI Scale Factor:</Txt>
-        </GameElement>
         <GameElement ID="Panel UI Scaling is a *Work In Progress*. Only use for testing!">
           <Txt>Panel UI Scaling is a *Work In Progress*. Only use for testing!</Txt>
         </GameElement>
@@ -770,8 +764,20 @@ click Start Playing !</Txt>
         <GameElement ID="Fullscreen:">
           <Txt>Fullscreen:</Txt>
         </GameElement>
-        <GameElement ID="1920x1080">
-          <Txt>1920x1080</Txt>
+        <GameElement ID="BGM:">
+          <Txt>BGM:</Txt>
+        </GameElement>
+        <GameElement ID="SFX:">
+          <Txt>SFX:</Txt>
+        </GameElement>
+        <GameElement ID="Camera Zoom:">
+          <Txt>Camera Zoom:</Txt>
+        </GameElement>
+        <GameElement ID="GUI Scale Factor:">
+          <Txt>GUI Scale Factor:</Txt>
+        </GameElement>
+        <GameElement ID="UI Scale Factor:">
+          <Txt>UI Scale Factor:</Txt>
         </GameElement>
         <GameElement ID="Credits">
           <Txt>Credits</Txt>
@@ -840,6 +846,14 @@ Thanks you, and have fun playing !</Txt>
         </GameElement>
         <GameElement ID="Take me to Google play">
           <Txt>Take me to Google play</Txt>
+        </GameElement>
+        <GameElement ID="Chose Your Language:">
+          <Txt>Chose Your Language:</Txt>
+        </GameElement>
+        <GameElement ID="The translations in Elysium are community driven, and the work on them has just started!&#xA;As such, please don't expect them to be perfect (or close to that) yet! &#xA;Please come on discord, report any issue, and maybe even participate in translating the game!">
+          <Txt>The translations in Elysium are community driven, and the work on them has just started!
+As such, please don't expect them to be perfect (or close to that) yet! 
+Please come on discord, report any issue, and maybe even participate in translating the game!</Txt>
         </GameElement>
         <GameElement ID="Overworld">
           <Txt>Overworld</Txt>
@@ -973,14 +987,6 @@ to integrate a faction !</Txt>
         </GameElement>
         <GameElement ID="Enter here what you want your new password to be :">
           <Txt>Enter here what you want your new password to be :</Txt>
-        </GameElement>
-        <GameElement ID="Chose Your Language:">
-          <Txt>Chose Your Language:</Txt>
-        </GameElement>
-        <GameElement ID="The translations in Elysium are community driven, and the work on them has just started!&#xA;As such, please don't expect them to be perfect (or close to that) yet! &#xA;Please come on discord, report any issue, and maybe even participate in translating the game!">
-          <Txt>The translations in Elysium are community driven, and the work on them has just started!
-As such, please don't expect them to be perfect (or close to that) yet! 
-Please come on discord, report any issue, and maybe even participate in translating the game!</Txt>
         </GameElement>
         <GameElement ID="POPUP">
           <Txt>POPUP</Txt>

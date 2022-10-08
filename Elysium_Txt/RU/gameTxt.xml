@@ -42,6 +42,12 @@
         <GameElement ID="gold">
           <Txt>gold</Txt>
         </GameElement>
+        <GameElement ID="Joystick Movement">
+          <Txt>Joystick Movement</Txt>
+        </GameElement>
+        <GameElement ID="Tap Movement">
+          <Txt>Tap Movement</Txt>
+        </GameElement>
       </listElements>
     </GameScene>
     <GameScene Category="UI - Scene">
@@ -748,18 +754,6 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
         <GameElement ID="Settings">
           <Txt>Настройки</Txt>
         </GameElement>
-        <GameElement ID="BGM:">
-          <Txt>BGM:</Txt>
-        </GameElement>
-        <GameElement ID="SFX:">
-          <Txt>SFX:</Txt>
-        </GameElement>
-        <GameElement ID="GUI Scale Factor:">
-          <Txt>Маштаб интерфейса:</Txt>
-        </GameElement>
-        <GameElement ID="UI Scale Factor:">
-          <Txt>Маштаб графики:</Txt>
-        </GameElement>
         <GameElement ID="Panel UI Scaling is a *Work In Progress*. Only use for testing!">
           <Txt>Панель масштабирование пользовательского интерфейса - *В РАЗРАБОТКЕ*. Используйте только для тестирования!</Txt>
         </GameElement>
@@ -769,8 +763,20 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
         <GameElement ID="Fullscreen:">
           <Txt>Полный экран:</Txt>
         </GameElement>
-        <GameElement ID="1920x1080">
-          <Txt>1920x1080</Txt>
+        <GameElement ID="BGM:">
+          <Txt>BGM:</Txt>
+        </GameElement>
+        <GameElement ID="SFX:">
+          <Txt>SFX:</Txt>
+        </GameElement>
+        <GameElement ID="Camera Zoom:">
+          <Txt>Camera Zoom:</Txt>
+        </GameElement>
+        <GameElement ID="GUI Scale Factor:">
+          <Txt>Маштаб интерфейса:</Txt>
+        </GameElement>
+        <GameElement ID="UI Scale Factor:">
+          <Txt>Маштаб графики:</Txt>
         </GameElement>
         <GameElement ID="Credits">
           <Txt>Заслуги</Txt>
@@ -839,6 +845,14 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
         </GameElement>
         <GameElement ID="Take me to Google play">
           <Txt>Перейти в GooglePlay</Txt>
+        </GameElement>
+        <GameElement ID="Chose Your Language:">
+          <Txt>Chose Your Language:</Txt>
+        </GameElement>
+        <GameElement ID="The translations in Elysium are community driven, and the work on them has just started!&#xA;As such, please don't expect them to be perfect (or close to that) yet! &#xA;Please come on discord, report any issue, and maybe even participate in translating the game!">
+          <Txt>The translations in Elysium are community driven, and the work on them has just started!
+As such, please don't expect them to be perfect (or close to that) yet! 
+Please come on discord, report any issue, and maybe even participate in translating the game!</Txt>
         </GameElement>
         <GameElement ID="Overworld">
           <Txt>Надземный Мир</Txt>
@@ -971,14 +985,6 @@ to integrate a faction !</Txt>
         </GameElement>
         <GameElement ID="Enter here what you want your new password to be :">
           <Txt>Введите новый пароль:</Txt>
-        </GameElement>
-        <GameElement ID="Chose Your Language:">
-          <Txt>Chose Your Language:</Txt>
-        </GameElement>
-        <GameElement ID="The translations in Elysium are community driven, and the work on them has just started!&#xA;As such, please don't expect them to be perfect (or close to that) yet! &#xA;Please come on discord, report any issue, and maybe even participate in translating the game!">
-          <Txt>The translations in Elysium are community driven, and the work on them has just started!
-As such, please don't expect them to be perfect (or close to that) yet! 
-Please come on discord, report any issue, and maybe even participate in translating the game!</Txt>
         </GameElement>
         <GameElement ID="POPUP">
           <Txt>POPUP</Txt>
