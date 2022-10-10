@@ -51,6 +51,9 @@
         <GameElement ID="Tap Movement">
           <Txt>Tap Movement</Txt>
         </GameElement>
+        <GameElement ID="None">
+          <Txt>None</Txt>
+        </GameElement>
       </listElements>
     </GameScene>
     <GameScene Category="UI - Scene">
