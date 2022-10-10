@@ -30,6 +30,9 @@
         <GameElement ID="Accept">
           <Txt>Принять</Txt>
         </GameElement>
+        <GameElement ID="Cancel">
+          <Txt>Отмена</Txt>
+        </GameElement>
         <GameElement ID="Poseidon' Followers">
           <Txt>Poseidon' Followers</Txt>
         </GameElement>
@@ -326,9 +329,6 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
         <GameElement ID="Chose new appearance">
           <Txt>Выбрать новую внешность</Txt>
         </GameElement>
-        <GameElement ID="Cancel">
-          <Txt>Отмена</Txt>
-        </GameElement>
         <GameElement ID="Loot">
           <Txt>Добыча</Txt>
         </GameElement>
@@ -386,28 +386,11 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
         <GameElement ID="Faction Panel">
           <Txt>Фракция</Txt>
         </GameElement>
-        <GameElement ID="CHOSE WHO YOU WANT TO FIGHT FOR !">
-          <Txt>ВЫБИРАЙТЕ, ЗА КОГО ВЫ ХОТИТЕ СРАЖАТЬСЯ!</Txt>
+        <GameElement ID="Supporter powers time left:">
+          <Txt>Supporter powers time left:</Txt>
         </GameElement>
-        <GameElement ID="Zeus' Followers&#xA;&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;">
-          <Txt>Zeus' Followers
-&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;</Txt>
-        </GameElement>
-        <GameElement ID="Poseidons' Followers&#xA;&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;">
-          <Txt>Poseidons' Followers
-&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;</Txt>
-        </GameElement>
-        <GameElement ID="Faction Popup">
-          <Txt>Всплывающее окно фракции</Txt>
-        </GameElement>
-        <GameElement ID="Accept !">
-          <Txt>Принять!</Txt>
-        </GameElement>
-        <GameElement ID="You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt; to integrate a faction !">
-          <Txt>Вы должны быть &lt;color=#F0E68C&gt;20 уровня&lt;/color&gt;, чтобы присоединиться к фракции!</Txt>
-        </GameElement>
-        <GameElement ID="FACTION NAME">
-          <Txt>НАЗВАНИЕ ФАКЦИИ</Txt>
+        <GameElement ID="X Hour">
+          <Txt>X Hour</Txt>
         </GameElement>
         <GameElement ID="Leading guild :">
           <Txt>Лидирующая гильдия:</Txt>
@@ -415,14 +398,11 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
         <GameElement ID="Leading guild name">
           <Txt>Название лидирующей гильдии</Txt>
         </GameElement>
-        <GameElement ID="Power level :">
-          <Txt>Уровень Силы:</Txt>
+        <GameElement ID="Guild Power:">
+          <Txt>Guild Power:</Txt>
         </GameElement>
-        <GameElement ID="power level">
-          <Txt>Уровень мощности</Txt>
-        </GameElement>
-        <GameElement ID="Actual leader :">
-          <Txt>Действующий Лидер:</Txt>
+        <GameElement ID="Guild leader :">
+          <Txt>Guild leader :</Txt>
         </GameElement>
         <GameElement ID="Leader name">
           <Txt>Имя Лидера</Txt>
@@ -430,16 +410,69 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
         <GameElement ID="Time In power:">
           <Txt>Время нахождения в Лидерстве:</Txt>
         </GameElement>
-        <GameElement ID="time">
-          <Txt>Время</Txt>
+        <GameElement ID="Time">
+          <Txt>Time</Txt>
         </GameElement>
-        <GameElement ID="Change Leader">
-          <Txt>Сменить Лидера</Txt>
+        <GameElement ID="Faction riches:">
+          <Txt>Faction riches:</Txt>
         </GameElement>
-        <GameElement ID="You can't leave your guild as the Guild Master !&#xA;Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.&#xA;">
-          <Txt>Вы не можете покинуть свою гильдию когда вы Лидер гильдии!
-Обратитесь к NPC, который занимается управлением гильдиями, если вы хотите прекратить его деятельность, или выберите другого члена гильдии в качестве нового Лидера гильдии.
-</Txt>
+        <GameElement ID="Faction power ups:">
+          <Txt>Faction power ups:</Txt>
+        </GameElement>
+        <GameElement ID="Leave Faction">
+          <Txt>Leave Faction</Txt>
+        </GameElement>
+        <GameElement ID="Donate To Faction">
+          <Txt>Donate To Faction</Txt>
+        </GameElement>
+        <GameElement ID="Leader Control Page">
+          <Txt>Leader Control Page</Txt>
+        </GameElement>
+        <GameElement ID="Amount To Donate">
+          <Txt>Amount To Donate</Txt>
+        </GameElement>
+        <GameElement ID="You'll get supporter powers for {SUPPORTERTIMER} hours">
+          <Txt>You'll get supporter powers for {SUPPORTERTIMER} hours</Txt>
+        </GameElement>
+        <GameElement ID="Enter Gold Amount...">
+          <Txt>Enter Gold Amount...</Txt>
+        </GameElement>
+        <GameElement ID="Activate new faction power-up">
+          <Txt>Activate new faction power-up</Txt>
+        </GameElement>
+        <GameElement ID="Kick member">
+          <Txt>Kick member</Txt>
+        </GameElement>
+        <GameElement ID="Start faction quest">
+          <Txt>Start faction quest</Txt>
+        </GameElement>
+        <GameElement ID="Return to faction page">
+          <Txt>Return to faction page</Txt>
+        </GameElement>
+        <GameElement ID="Zeus' Followers&#xA;&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;">
+          <Txt>Zeus' Followers
+&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;</Txt>
+        </GameElement>
+        <GameElement ID="CHOOSE YOUR FACTION!">
+          <Txt>CHOOSE YOUR FACTION!</Txt>
+        </GameElement>
+        <GameElement ID="Poseidon' Followers&#xA;&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;">
+          <Txt>Poseidon' Followers
+&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;</Txt>
+        </GameElement>
+        <GameElement ID="By choosing {Faction} as your faction, &#xA;you are agreeing to become part of it and join their ranks.&#xA;&#xA;This choice will have an impact on your guild, your power, your impact on this world, and more.&#xA;&lt;color=#E00016&gt;Leaving your faction is possible, but is an arduous and slow task, so do act carefully!&lt;/color&gt;">
+          <Txt>By choosing {Faction} as your faction, 
+you are agreeing to become part of it and join their ranks.
+
+This choice will have an impact on your guild, your power, your impact on this world, and more.
+&lt;color=#E00016&gt;Leaving your faction is possible, but is an arduous and slow task, so do act carefully!&lt;/color&gt;</Txt>
+        </GameElement>
+        <GameElement ID="Accept !">
+          <Txt>Принять!</Txt>
+        </GameElement>
+        <GameElement ID="You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;&#xA;to integrate a faction !">
+          <Txt>You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;
+to integrate a faction !</Txt>
         </GameElement>
         <GameElement ID="Enter the ARENA">
           <Txt>Войти на арену.</Txt>
@@ -892,74 +925,10 @@ Please come on discord, report any issue, and maybe even participate in translat
           <Txt>Глобальный
 Чат</Txt>
         </GameElement>
-        <GameElement ID="Supporter powers time left:">
-          <Txt>Supporter powers time left:</Txt>
-        </GameElement>
-        <GameElement ID="X Hour">
-          <Txt>X Hour</Txt>
-        </GameElement>
-        <GameElement ID="Guild Power:">
-          <Txt>Guild Power:</Txt>
-        </GameElement>
-        <GameElement ID="Guild leader :">
-          <Txt>Guild leader :</Txt>
-        </GameElement>
-        <GameElement ID="Time">
-          <Txt>Time</Txt>
-        </GameElement>
-        <GameElement ID="Faction riches:">
-          <Txt>Faction riches:</Txt>
-        </GameElement>
-        <GameElement ID="Faction power ups:">
-          <Txt>Faction power ups:</Txt>
-        </GameElement>
-        <GameElement ID="Leave Faction">
-          <Txt>Leave Faction</Txt>
-        </GameElement>
-        <GameElement ID="Donate To Faction">
-          <Txt>Donate To Faction</Txt>
-        </GameElement>
-        <GameElement ID="Leader Control Page">
-          <Txt>Leader Control Page</Txt>
-        </GameElement>
-        <GameElement ID="Amount To Donate">
-          <Txt>Amount To Donate</Txt>
-        </GameElement>
-        <GameElement ID="You'll get supporter powers for {SUPPORTERTIMER} hours">
-          <Txt>You'll get supporter powers for {SUPPORTERTIMER} hours</Txt>
-        </GameElement>
-        <GameElement ID="Enter Gold Amount...">
-          <Txt>Enter Gold Amount...</Txt>
-        </GameElement>
-        <GameElement ID="Activate new faction power-up">
-          <Txt>Activate new faction power-up</Txt>
-        </GameElement>
-        <GameElement ID="Kick member">
-          <Txt>Kick member</Txt>
-        </GameElement>
-        <GameElement ID="Start faction quest">
-          <Txt>Start faction quest</Txt>
-        </GameElement>
-        <GameElement ID="Return to faction page">
-          <Txt>Return to faction page</Txt>
-        </GameElement>
-        <GameElement ID="CHOOSE YOUR FACTION!">
-          <Txt>CHOOSE YOUR FACTION!</Txt>
-        </GameElement>
-        <GameElement ID="Poseidon' Followers&#xA;&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;">
-          <Txt>Poseidon' Followers
-&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;</Txt>
-        </GameElement>
-        <GameElement ID="By choosing {Faction} as your faction, &#xA;you are agreeing to become part of it and join their ranks.&#xA;&#xA;This choice will have an impact on your guild, your power, your impact on this world, and more.&#xA;&lt;color=#E00016&gt;Leaving your faction is possible, but is an arduous and slow task, so do act carefully!&lt;/color&gt;">
-          <Txt>By choosing {Faction} as your faction, 
-you are agreeing to become part of it and join their ranks.
+        <GameElement ID="If you leave your factions during this time of war, the gods will banish you, and as such you will be a &lt;color=#E00016&gt;renegade&lt;/color&gt;, rejected by all factions, not allowed to join any, and this will last for 10 days.  You’ll lose all your faction power as well.&#xA;&#xA;&lt;color=#E00016&gt;Are you sure you want to leave?&lt;/color&gt;">
+          <Txt>If you leave your factions during this time of war, the gods will banish you, and as such you will be a &lt;color=#E00016&gt;renegade&lt;/color&gt;, rejected by all factions, not allowed to join any, and this will last for 10 days.  You’ll lose all your faction power as well.
 
-This choice will have an impact on your guild, your power, your impact on this world, and more.
-&lt;color=#E00016&gt;Leaving your faction is possible, but is an arduous and slow task, so do act carefully!&lt;/color&gt;</Txt>
-        </GameElement>
-        <GameElement ID="You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;&#xA;to integrate a faction !">
-          <Txt>You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;
-to integrate a faction !</Txt>
+&lt;color=#E00016&gt;Are you sure you want to leave?&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Neutrals">
           <Txt>Нейтральные</Txt>
