@@ -969,7 +969,7 @@ Chat</Txt>
     <GameScene Category="UI - Prefab">
       <listElements>
         <GameElement ID="Use All">
-          <Txt>Use All</Txt>
+          <Txt>Utiliser tout</Txt>
         </GameElement>
         <GameElement ID=" Take &#xA;1">
           <Txt> Take 
