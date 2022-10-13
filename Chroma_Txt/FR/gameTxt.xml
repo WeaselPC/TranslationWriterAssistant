@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TranslationSystem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <gameScenes>
-    <GameScene Category="Code">
+    <GameScene Category="UI - Code">
       <listElements>
         <GameElement ID="Play_Button">
           <Txt>Ouvrir Chroma Bullet</Txt>
@@ -17,7 +17,7 @@
         </GameElement>
       </listElements>
     </GameScene>
-    <GameScene Category="Scene">
+    <GameScene Category="UI - Scene">
       <listElements>
         <GameElement ID="Iniciating Session...">
           <Txt>Iniciating Session...</Txt>
@@ -42,7 +42,7 @@
         </GameElement>
       </listElements>
     </GameScene>
-    <GameScene Category="Prefab">
+    <GameScene Category="UI - Prefab">
       <listElements>
         <GameElement ID="OS Settings">
           <Txt>OS Settings</Txt>
