@@ -964,6 +964,12 @@ Globalny</Txt>
         <GameElement ID="POPUP">
           <Txt>POPUP</Txt>
         </GameElement>
+        <GameElement ID="A game by">
+          <Txt>A game by</Txt>
+        </GameElement>
+        <GameElement ID="Loading">
+          <Txt>Loading</Txt>
+        </GameElement>
       </listElements>
     </GameScene>
     <GameScene Category="UI - Prefab">

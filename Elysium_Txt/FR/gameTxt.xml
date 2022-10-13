@@ -964,12 +964,18 @@ Chat</Txt>
         <GameElement ID="POPUP">
           <Txt>POPUP</Txt>
         </GameElement>
+        <GameElement ID="A game by">
+          <Txt>A game by</Txt>
+        </GameElement>
+        <GameElement ID="Loading">
+          <Txt>Loading</Txt>
+        </GameElement>
       </listElements>
     </GameScene>
     <GameScene Category="UI - Prefab">
       <listElements>
         <GameElement ID="Use All">
-          <Txt>Utiliser tout</Txt>
+          <Txt>Use All</Txt>
         </GameElement>
         <GameElement ID=" Take &#xA;1">
           <Txt> Take 
