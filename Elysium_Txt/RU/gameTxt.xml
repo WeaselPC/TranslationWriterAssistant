@@ -4,64 +4,64 @@
     <GameScene Category="UI - Code">
       <listElements>
         <GameElement ID="Can't summon dead pet">
-          <Txt>Can't summon dead pet</Txt>
+          <Txt>Невозможно призвать мертвого питомца</Txt>
         </GameElement>
         <GameElement ID="Not Started">
-          <Txt>Not Started</Txt>
+          <Txt>Не начато</Txt>
         </GameElement>
         <GameElement ID="To Complete">
-          <Txt>To Complete</Txt>
+          <Txt>Для завершения</Txt>
         </GameElement>
         <GameElement ID="Complete">
-          <Txt>Complete</Txt>
+          <Txt>Завершить</Txt>
         </GameElement>
         <GameElement ID="Joystick Movement">
-          <Txt>Joystick Movement</Txt>
+          <Txt>Движение джойстика</Txt>
         </GameElement>
         <GameElement ID="Tap Movement">
-          <Txt>Tap Movement</Txt>
+          <Txt>Движение нажатия</Txt>
         </GameElement>
         <GameElement ID="Forge">
-          <Txt>Forge</Txt>
+          <Txt>Кузница</Txt>
         </GameElement>
         <GameElement ID="Elysian Field">
           <Txt>Поле Элизиума</Txt>
         </GameElement>
         <GameElement ID="Cave">
-          <Txt>Cave</Txt>
+          <Txt>Пещера</Txt>
         </GameElement>
         <GameElement ID="Daedalus's Maze">
-          <Txt>Daedalus's Maze</Txt>
+          <Txt>Лабиринт Дедала</Txt>
         </GameElement>
         <GameElement ID="Overworld">
           <Txt>Надземный Мир</Txt>
         </GameElement>
         <GameElement ID="Shopkeeper's house">
-          <Txt>Shopkeeper's house</Txt>
+          <Txt>Дом лавочника</Txt>
         </GameElement>
         <GameElement ID="The Crypt">
-          <Txt>The Crypt</Txt>
+          <Txt>Склеп</Txt>
         </GameElement>
         <GameElement ID="Aeaea Island">
-          <Txt>Aeaea Island</Txt>
+          <Txt>Остров Аеае</Txt>
         </GameElement>
         <GameElement ID="The door is open!">
-          <Txt>The door is open!</Txt>
+          <Txt>Дверь открыта!</Txt>
         </GameElement>
         <GameElement ID="You have">
-          <Txt>You have</Txt>
+          <Txt>У вас есть</Txt>
         </GameElement>
         <GameElement ID="gold">
-          <Txt>gold</Txt>
+          <Txt>золото</Txt>
         </GameElement>
         <GameElement ID="None">
-          <Txt>None</Txt>
+          <Txt>Отсутствует</Txt>
         </GameElement>
         <GameElement ID="Zeus' Followers">
-          <Txt>Zeus' Followers</Txt>
+          <Txt>Последователи Зевса</Txt>
         </GameElement>
         <GameElement ID="Poseidon' Followers">
-          <Txt>Poseidon' Followers</Txt>
+          <Txt>Последователи Посейдона</Txt>
         </GameElement>
         <GameElement ID="Accept">
           <Txt>Принять</Txt>
@@ -70,16 +70,16 @@
           <Txt>Отмена</Txt>
         </GameElement>
         <GameElement ID="Normal Quests">
-          <Txt>Normal Quests</Txt>
+          <Txt>Обычные задания</Txt>
         </GameElement>
         <GameElement ID="Daily Quests">
-          <Txt>Daily Quests</Txt>
+          <Txt>Ежедневные задания</Txt>
         </GameElement>
         <GameElement ID="Time left to complete:">
-          <Txt>Time left to complete:</Txt>
+          <Txt>Оставшееся время до завершения:</Txt>
         </GameElement>
         <GameElement ID="hours">
-          <Txt>hours</Txt>
+          <Txt>часов</Txt>
         </GameElement>
         <GameElement ID="Register">
           <Txt>Регистрация</Txt>
@@ -402,7 +402,7 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
           <Txt>Выберите Задание </Txt>
         </GameElement>
         <GameElement ID="Party">
-          <Txt>Party</Txt>
+          <Txt>Пати</Txt>
         </GameElement>
         <GameElement ID="Exp. Auto Share">
           <Txt>Автораспределение EXP.</Txt>
@@ -420,10 +420,10 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
           <Txt>Фракция</Txt>
         </GameElement>
         <GameElement ID="Supporter powers time left:">
-          <Txt>Supporter powers time left:</Txt>
+          <Txt>Оставшееся время у сторонника:</Txt>
         </GameElement>
         <GameElement ID="X Hour">
-          <Txt>X Hour</Txt>
+          <Txt>X часов</Txt>
         </GameElement>
         <GameElement ID="Leading guild :">
           <Txt>Лидирующая гильдия:</Txt>
@@ -432,10 +432,10 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
           <Txt>Название лидирующей гильдии</Txt>
         </GameElement>
         <GameElement ID="Guild Power:">
-          <Txt>Guild Power:</Txt>
+          <Txt>Сила гильдии:</Txt>
         </GameElement>
         <GameElement ID="Guild leader :">
-          <Txt>Guild leader :</Txt>
+          <Txt>Лидер гильдии :</Txt>
         </GameElement>
         <GameElement ID="Leader name">
           <Txt>Имя Лидера</Txt>
@@ -444,68 +444,68 @@ Go to an NPC that does NPC Managment if you want to terminate it, or select anot
           <Txt>Время нахождения в Лидерстве:</Txt>
         </GameElement>
         <GameElement ID="Time">
-          <Txt>Time</Txt>
+          <Txt>Время</Txt>
         </GameElement>
         <GameElement ID="Faction riches:">
-          <Txt>Faction riches:</Txt>
+          <Txt>Богатство фракции:</Txt>
         </GameElement>
         <GameElement ID="Faction power ups:">
-          <Txt>Faction power ups:</Txt>
+          <Txt>Фракционные бонусы:</Txt>
         </GameElement>
         <GameElement ID="Leave Faction">
-          <Txt>Leave Faction</Txt>
+          <Txt>Покинуть фракцию</Txt>
         </GameElement>
         <GameElement ID="Donate To Faction">
-          <Txt>Donate To Faction</Txt>
+          <Txt>Пожертвовать фракции</Txt>
         </GameElement>
         <GameElement ID="Leader Control Page">
-          <Txt>Leader Control Page</Txt>
+          <Txt>Страница управления</Txt>
         </GameElement>
         <GameElement ID="Amount To Donate">
-          <Txt>Amount To Donate</Txt>
+          <Txt>Сумма для пожертвования</Txt>
         </GameElement>
         <GameElement ID="You'll get supporter powers for {SUPPORTERTIMER} hours">
-          <Txt>You'll get supporter powers for {SUPPORTERTIMER} hours</Txt>
+          <Txt>Вы получите полномочия сторонника на {SUPPORTERTIMER} часов</Txt>
         </GameElement>
         <GameElement ID="Enter Gold Amount...">
-          <Txt>Enter Gold Amount...</Txt>
+          <Txt>Введите количество золота...</Txt>
         </GameElement>
         <GameElement ID="Activate new faction power-up">
-          <Txt>Activate new faction power-up</Txt>
+          <Txt>Активировать новый бонус фракции</Txt>
         </GameElement>
         <GameElement ID="Kick member">
-          <Txt>Kick member</Txt>
+          <Txt>Выгнать</Txt>
         </GameElement>
         <GameElement ID="Start faction quest">
-          <Txt>Start faction quest</Txt>
+          <Txt>Начать задание фракции</Txt>
         </GameElement>
         <GameElement ID="Return to faction page">
-          <Txt>Return to faction page</Txt>
+          <Txt>Возврат к странице Фракции</Txt>
         </GameElement>
         <GameElement ID="Zeus' Followers&#xA;&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;">
-          <Txt>Zeus' Followers
-&lt;color=#F0E68C&gt;God Of The Sky And Thunder&lt;/color&gt;</Txt>
+          <Txt>Последователи Зевса
+&lt;color=#F0E68C&gt;Бог Небес и Грома&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="CHOOSE YOUR FACTION!">
-          <Txt>CHOOSE YOUR FACTION!</Txt>
+          <Txt>ВЫБЕРИ СВОЮ ФРАКЦИЮ!</Txt>
         </GameElement>
         <GameElement ID="Poseidon' Followers&#xA;&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;">
-          <Txt>Poseidon' Followers
-&lt;color=#ADD8E6&gt;God Of The Sea And Storms&lt;/color&gt;</Txt>
+          <Txt>Последователи Посейдона
+&lt;color=#ADD8E6&gt;Бог Морей и Шторма&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="By choosing {Faction} as your faction, &#xA;you are agreeing to become part of it and join their ranks.&#xA;&#xA;This choice will have an impact on your guild, your power, your impact on this world, and more.&#xA;&lt;color=#E00016&gt;Leaving your faction is possible, but is an arduous and slow task, so do act carefully!&lt;/color&gt;">
-          <Txt>By choosing {Faction} as your faction, 
-you are agreeing to become part of it and join their ranks.
+          <Txt>Выбирая {Faction} в качестве своей фракции, 
+вы соглашаетесь стать ее частью и вступить в их ряды.
 
-This choice will have an impact on your guild, your power, your impact on this world, and more.
-&lt;color=#E00016&gt;Leaving your faction is possible, but is an arduous and slow task, so do act carefully!&lt;/color&gt;</Txt>
+Этот выбор повлияет на вашу гильдию, вашу власть, ваше влияние на этот мир и многое другое.
+&lt;color=#E00016&gt;Покинуть свою фракцию возможно, но это трудная и медленная задача, поэтому действуйте осторожно!&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Accept !">
           <Txt>Принять!</Txt>
         </GameElement>
         <GameElement ID="You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;&#xA;to integrate a faction !">
-          <Txt>You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;
-to integrate a faction !</Txt>
+          <Txt>Вы должны быть уровня &lt;color=#F0E68C&gt;20&lt;/color&gt;
+для вступления во фракцию!</Txt>
         </GameElement>
         <GameElement ID="Enter the ARENA">
           <Txt>Войти на арену.</Txt>
@@ -804,8 +804,8 @@ to integrate a faction !</Txt>
           <Txt>Вики</Txt>
         </GameElement>
         <GameElement ID="If you are new to the game, just enter your informations &amp; click &#xA;Start Playing !">
-          <Txt>If you are new to the game, just enter your informations &amp; click 
-Start Playing !</Txt>
+          <Txt>Если вы новичок в игре, просто введите свои данные и нажмите кнопку 
+Начать игру!</Txt>
         </GameElement>
         <GameElement ID="Credit">
           <Txt>Заслуги</Txt>
@@ -834,7 +834,7 @@ Start Playing !</Txt>
           <Txt>SFX:</Txt>
         </GameElement>
         <GameElement ID="Camera Zoom:">
-          <Txt>Camera Zoom:</Txt>
+          <Txt>Масштаб камеры:</Txt>
         </GameElement>
         <GameElement ID="GUI Scale Factor:">
           <Txt>Маштаб интерфейса:</Txt>
@@ -911,12 +911,12 @@ Start Playing !</Txt>
           <Txt>Перейти в GooglePlay</Txt>
         </GameElement>
         <GameElement ID="Chose Your Language:">
-          <Txt>Chose Your Language:</Txt>
+          <Txt>Выберите язык:</Txt>
         </GameElement>
         <GameElement ID="The translations in Elysium are community driven, and the work on them has just started!&#xA;As such, please don't expect them to be perfect (or close to that) yet! &#xA;Please come on discord, report any issue, and maybe even participate in translating the game!">
-          <Txt>The translations in Elysium are community driven, and the work on them has just started!
-As such, please don't expect them to be perfect (or close to that) yet! 
-Please come on discord, report any issue, and maybe even participate in translating the game!</Txt>
+          <Txt>Переводы в "Элизиуме" создаются сообществом, и работа над ними только началась!
+Поэтому, пожалуйста, не ожидайте, что они будут идеальными (или близкими к этому)! 
+Пожалуйста, заходите на discord, сообщайте о любых проблемах и, возможно, даже участвуйте в переводе игры!</Txt>
         </GameElement>
         <GameElement ID="Select&#xA;nearest">
           <Txt>Выбор</Txt>
@@ -954,9 +954,9 @@ Please come on discord, report any issue, and maybe even participate in translat
 Чат</Txt>
         </GameElement>
         <GameElement ID="If you leave your factions during this time of war, the gods will banish you, and as such you will be a &lt;color=#E00016&gt;renegade&lt;/color&gt;, rejected by all factions, not allowed to join any, and this will last for 10 days.  You’ll lose all your faction power as well.&#xA;&#xA;&lt;color=#E00016&gt;Are you sure you want to leave?&lt;/color&gt;">
-          <Txt>If you leave your factions during this time of war, the gods will banish you, and as such you will be a &lt;color=#E00016&gt;renegade&lt;/color&gt;, rejected by all factions, not allowed to join any, and this will last for 10 days.  You’ll lose all your faction power as well.
+          <Txt>Если вы покинете свои фракции во время войны, боги изгонят вас, и как таковой вы станете &lt;color=#E00016&gt;ренегатом&lt;/color&gt;, отвергнутым всеми фракциями, не имеющим права присоединиться ни к одной, и это продлится 10 дней.  Вы также потеряете всю свою власть во фракции.
 
-&lt;color=#E00016&gt;Are you sure you want to leave?&lt;/color&gt;</Txt>
+&lt;color=#E00016&gt;Ты уверен, что хочешь уйти?&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Neutrals">
           <Txt>Нейтральные</Txt>
@@ -987,10 +987,10 @@ Please come on discord, report any issue, and maybe even participate in translat
           <Txt>POPUP</Txt>
         </GameElement>
         <GameElement ID="A game by">
-          <Txt>A game by</Txt>
+          <Txt>Создатели</Txt>
         </GameElement>
         <GameElement ID="Loading">
-          <Txt>Loading</Txt>
+          <Txt>Загрузка</Txt>
         </GameElement>
       </listElements>
     </GameScene>
