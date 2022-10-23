@@ -54,6 +54,36 @@
         <GameElement ID="None">
           <Txt>None</Txt>
         </GameElement>
+        <GameElement ID="Forge">
+          <Txt>Forge</Txt>
+        </GameElement>
+        <GameElement ID="Elysian Field">
+          <Txt>Поле Элизиума</Txt>
+        </GameElement>
+        <GameElement ID="Daedalus's Maze">
+          <Txt>Daedalus's Maze</Txt>
+        </GameElement>
+        <GameElement ID="Overworld">
+          <Txt>Надземный Мир</Txt>
+        </GameElement>
+        <GameElement ID="Graveyard">
+          <Txt>Graveyard</Txt>
+        </GameElement>
+        <GameElement ID="Shopkeeper's house">
+          <Txt>Shopkeeper's house</Txt>
+        </GameElement>
+        <GameElement ID="The Crypt">
+          <Txt>The Crypt</Txt>
+        </GameElement>
+        <GameElement ID="Aeaea Island">
+          <Txt>Aeaea Island</Txt>
+        </GameElement>
+        <GameElement ID="The door is open!">
+          <Txt>The door is open!</Txt>
+        </GameElement>
+        <GameElement ID="Can't summon dead pet">
+          <Txt>Can't summon dead pet</Txt>
+        </GameElement>
       </listElements>
     </GameScene>
     <GameScene Category="UI - Scene">
@@ -217,9 +247,6 @@
         </GameElement>
         <GameElement ID="Name of the Island:">
           <Txt>Название острова:</Txt>
-        </GameElement>
-        <GameElement ID="Elysian Field">
-          <Txt>Поле Элизиума</Txt>
         </GameElement>
         <GameElement ID="Guild Panel">
           <Txt>Панель управления гильдией.</Txt>
@@ -776,8 +803,9 @@ to integrate a faction !</Txt>
         <GameElement ID="Wiki">
           <Txt>Вики</Txt>
         </GameElement>
-        <GameElement ID="If you are new to the game, just enter your informations &amp; click Start Playing !">
-          <Txt>Если вы не зарегистрированны, просто введите свои данные и нажмите "Играть"!</Txt>
+        <GameElement ID="If you are new to the game, just enter your informations &amp; click &#xA;Start Playing !">
+          <Txt>If you are new to the game, just enter your informations &amp; click 
+Start Playing !</Txt>
         </GameElement>
         <GameElement ID="Credit">
           <Txt>Заслуги</Txt>
@@ -889,9 +917,6 @@ to integrate a faction !</Txt>
           <Txt>The translations in Elysium are community driven, and the work on them has just started!
 As such, please don't expect them to be perfect (or close to that) yet! 
 Please come on discord, report any issue, and maybe even participate in translating the game!</Txt>
-        </GameElement>
-        <GameElement ID="Overworld">
-          <Txt>Надземный Мир</Txt>
         </GameElement>
         <GameElement ID="Select&#xA;nearest">
           <Txt>Выбор</Txt>

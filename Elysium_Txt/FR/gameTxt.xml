@@ -54,6 +54,36 @@
         <GameElement ID="None">
           <Txt>None</Txt>
         </GameElement>
+        <GameElement ID="Forge">
+          <Txt>Forge</Txt>
+        </GameElement>
+        <GameElement ID="Elysian Field">
+          <Txt>Les champs Élysiens</Txt>
+        </GameElement>
+        <GameElement ID="Daedalus's Maze">
+          <Txt>Daedalus's Maze</Txt>
+        </GameElement>
+        <GameElement ID="Overworld">
+          <Txt>Overworld</Txt>
+        </GameElement>
+        <GameElement ID="Graveyard">
+          <Txt>Graveyard</Txt>
+        </GameElement>
+        <GameElement ID="Shopkeeper's house">
+          <Txt>Shopkeeper's house</Txt>
+        </GameElement>
+        <GameElement ID="The Crypt">
+          <Txt>The Crypt</Txt>
+        </GameElement>
+        <GameElement ID="Aeaea Island">
+          <Txt>Aeaea Island</Txt>
+        </GameElement>
+        <GameElement ID="The door is open!">
+          <Txt>The door is open!</Txt>
+        </GameElement>
+        <GameElement ID="Can't summon dead pet">
+          <Txt>Can't summon dead pet</Txt>
+        </GameElement>
       </listElements>
     </GameScene>
     <GameScene Category="UI - Scene">
@@ -218,9 +248,6 @@ Skins</Txt>
         </GameElement>
         <GameElement ID="Name of the Island:">
           <Txt>Name de l'ìle:</Txt>
-        </GameElement>
-        <GameElement ID="Elysian Field">
-          <Txt>Les champs Élysiens</Txt>
         </GameElement>
         <GameElement ID="Guild Panel">
           <Txt>Guilde</Txt>
@@ -778,8 +805,9 @@ Mot de passe</Txt>
         <GameElement ID="Wiki">
           <Txt>Wiki</Txt>
         </GameElement>
-        <GameElement ID="If you are new to the game, just enter your informations &amp; click Start Playing !">
-          <Txt>Si vous êtes nouveau sur le jeu, entrez votre information, et appuyez sur "Commencer!"</Txt>
+        <GameElement ID="If you are new to the game, just enter your informations &amp; click &#xA;Start Playing !">
+          <Txt>If you are new to the game, just enter your informations &amp; click 
+Start Playing !</Txt>
         </GameElement>
         <GameElement ID="Credit">
           <Txt>Crédit</Txt>
@@ -891,9 +919,6 @@ Merci, et amusez vous bien !</Txt>
           <Txt>The translations in Elysium are community driven, and the work on them has just started!
 As such, please don't expect them to be perfect (or close to that) yet! 
 Please come on discord, report any issue, and maybe even participate in translating the game!</Txt>
-        </GameElement>
-        <GameElement ID="Overworld">
-          <Txt>Overworld</Txt>
         </GameElement>
         <GameElement ID="Select&#xA;nearest">
           <Txt>Select.
