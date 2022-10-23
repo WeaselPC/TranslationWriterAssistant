@@ -3,20 +3,8 @@
   <gameScenes>
     <GameScene Category="UI - Code">
       <listElements>
-        <GameElement ID="Register">
-          <Txt>S'enregister</Txt>
-        </GameElement>
-        <GameElement ID="Normal Quests">
-          <Txt>Quête normales</Txt>
-        </GameElement>
-        <GameElement ID="Daily Quests">
-          <Txt>Quête Journalières</Txt>
-        </GameElement>
-        <GameElement ID="Time left to complete :">
-          <Txt>Temps restant pour completer :</Txt>
-        </GameElement>
-        <GameElement ID="hours">
-          <Txt>heures</Txt>
+        <GameElement ID="Can't summon dead pet">
+          <Txt>Can't summon dead pet</Txt>
         </GameElement>
         <GameElement ID="Not Started">
           <Txt>Pas commencée</Txt>
@@ -27,32 +15,11 @@
         <GameElement ID="Complete">
           <Txt>Terminée</Txt>
         </GameElement>
-        <GameElement ID="Accept">
-          <Txt>Accepter</Txt>
-        </GameElement>
-        <GameElement ID="Cancel">
-          <Txt>Annuler</Txt>
-        </GameElement>
-        <GameElement ID="Poseidon' Followers">
-          <Txt>Les Suivants de Poseidon</Txt>
-        </GameElement>
-        <GameElement ID="Zeus' Followers">
-          <Txt>Les Suivants de Zeus</Txt>
-        </GameElement>
-        <GameElement ID="You have">
-          <Txt>Vous avez</Txt>
-        </GameElement>
-        <GameElement ID="gold">
-          <Txt>or</Txt>
-        </GameElement>
         <GameElement ID="Joystick Movement">
           <Txt>Joystick Movement</Txt>
         </GameElement>
         <GameElement ID="Tap Movement">
           <Txt>Tap Movement</Txt>
-        </GameElement>
-        <GameElement ID="None">
-          <Txt>None</Txt>
         </GameElement>
         <GameElement ID="Forge">
           <Txt>Forge</Txt>
@@ -60,14 +27,14 @@
         <GameElement ID="Elysian Field">
           <Txt>Les champs Élysiens</Txt>
         </GameElement>
+        <GameElement ID="Cave">
+          <Txt>Cave</Txt>
+        </GameElement>
         <GameElement ID="Daedalus's Maze">
           <Txt>Daedalus's Maze</Txt>
         </GameElement>
         <GameElement ID="Overworld">
           <Txt>Overworld</Txt>
-        </GameElement>
-        <GameElement ID="Graveyard">
-          <Txt>Graveyard</Txt>
         </GameElement>
         <GameElement ID="Shopkeeper's house">
           <Txt>Shopkeeper's house</Txt>
@@ -81,8 +48,44 @@
         <GameElement ID="The door is open!">
           <Txt>The door is open!</Txt>
         </GameElement>
-        <GameElement ID="Can't summon dead pet">
-          <Txt>Can't summon dead pet</Txt>
+        <GameElement ID="You have">
+          <Txt>Vous avez</Txt>
+        </GameElement>
+        <GameElement ID="gold">
+          <Txt>or</Txt>
+        </GameElement>
+        <GameElement ID="None">
+          <Txt>None</Txt>
+        </GameElement>
+        <GameElement ID="Zeus' Followers">
+          <Txt>Les Suivants de Zeus</Txt>
+        </GameElement>
+        <GameElement ID="Poseidon' Followers">
+          <Txt>Les Suivants de Poseidon</Txt>
+        </GameElement>
+        <GameElement ID="Accept">
+          <Txt>Accepter</Txt>
+        </GameElement>
+        <GameElement ID="Cancel">
+          <Txt>Annuler</Txt>
+        </GameElement>
+        <GameElement ID="Normal Quests">
+          <Txt>Quête normales</Txt>
+        </GameElement>
+        <GameElement ID="Daily Quests">
+          <Txt>Quête Journalières</Txt>
+        </GameElement>
+        <GameElement ID="Time left to complete:">
+          <Txt>Time left to complete:</Txt>
+        </GameElement>
+        <GameElement ID="hours">
+          <Txt>heures</Txt>
+        </GameElement>
+        <GameElement ID="Register">
+          <Txt>S'enregister</Txt>
+        </GameElement>
+        <GameElement ID="Start Playing">
+          <Txt>Commencer!</Txt>
         </GameElement>
       </listElements>
     </GameScene>
@@ -791,9 +794,6 @@ Vous ne pouvez pas rentrer dans une guild si vous faites déjà parti d'une !</T
         </GameElement>
         <GameElement ID="Asia">
           <Txt>Asie</Txt>
-        </GameElement>
-        <GameElement ID="Start Playing">
-          <Txt>Commencer!</Txt>
         </GameElement>
         <GameElement ID="Recover &#xA;password">
           <Txt>Recupérer

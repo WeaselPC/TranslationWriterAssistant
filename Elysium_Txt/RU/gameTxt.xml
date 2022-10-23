@@ -3,20 +3,8 @@
   <gameScenes>
     <GameScene Category="UI - Code">
       <listElements>
-        <GameElement ID="Register">
-          <Txt>Регистрация</Txt>
-        </GameElement>
-        <GameElement ID="Normal Quests">
-          <Txt>Normal Quests</Txt>
-        </GameElement>
-        <GameElement ID="Daily Quests">
-          <Txt>Daily Quests</Txt>
-        </GameElement>
-        <GameElement ID="Time left to complete :">
-          <Txt>Time left to complete :</Txt>
-        </GameElement>
-        <GameElement ID="hours">
-          <Txt>hours</Txt>
+        <GameElement ID="Can't summon dead pet">
+          <Txt>Can't summon dead pet</Txt>
         </GameElement>
         <GameElement ID="Not Started">
           <Txt>Not Started</Txt>
@@ -27,32 +15,11 @@
         <GameElement ID="Complete">
           <Txt>Complete</Txt>
         </GameElement>
-        <GameElement ID="Accept">
-          <Txt>Принять</Txt>
-        </GameElement>
-        <GameElement ID="Cancel">
-          <Txt>Отмена</Txt>
-        </GameElement>
-        <GameElement ID="Poseidon' Followers">
-          <Txt>Poseidon' Followers</Txt>
-        </GameElement>
-        <GameElement ID="Zeus' Followers">
-          <Txt>Zeus' Followers</Txt>
-        </GameElement>
-        <GameElement ID="You have">
-          <Txt>You have</Txt>
-        </GameElement>
-        <GameElement ID="gold">
-          <Txt>gold</Txt>
-        </GameElement>
         <GameElement ID="Joystick Movement">
           <Txt>Joystick Movement</Txt>
         </GameElement>
         <GameElement ID="Tap Movement">
           <Txt>Tap Movement</Txt>
-        </GameElement>
-        <GameElement ID="None">
-          <Txt>None</Txt>
         </GameElement>
         <GameElement ID="Forge">
           <Txt>Forge</Txt>
@@ -60,14 +27,14 @@
         <GameElement ID="Elysian Field">
           <Txt>Поле Элизиума</Txt>
         </GameElement>
+        <GameElement ID="Cave">
+          <Txt>Cave</Txt>
+        </GameElement>
         <GameElement ID="Daedalus's Maze">
           <Txt>Daedalus's Maze</Txt>
         </GameElement>
         <GameElement ID="Overworld">
           <Txt>Надземный Мир</Txt>
-        </GameElement>
-        <GameElement ID="Graveyard">
-          <Txt>Graveyard</Txt>
         </GameElement>
         <GameElement ID="Shopkeeper's house">
           <Txt>Shopkeeper's house</Txt>
@@ -81,8 +48,44 @@
         <GameElement ID="The door is open!">
           <Txt>The door is open!</Txt>
         </GameElement>
-        <GameElement ID="Can't summon dead pet">
-          <Txt>Can't summon dead pet</Txt>
+        <GameElement ID="You have">
+          <Txt>You have</Txt>
+        </GameElement>
+        <GameElement ID="gold">
+          <Txt>gold</Txt>
+        </GameElement>
+        <GameElement ID="None">
+          <Txt>None</Txt>
+        </GameElement>
+        <GameElement ID="Zeus' Followers">
+          <Txt>Zeus' Followers</Txt>
+        </GameElement>
+        <GameElement ID="Poseidon' Followers">
+          <Txt>Poseidon' Followers</Txt>
+        </GameElement>
+        <GameElement ID="Accept">
+          <Txt>Принять</Txt>
+        </GameElement>
+        <GameElement ID="Cancel">
+          <Txt>Отмена</Txt>
+        </GameElement>
+        <GameElement ID="Normal Quests">
+          <Txt>Normal Quests</Txt>
+        </GameElement>
+        <GameElement ID="Daily Quests">
+          <Txt>Daily Quests</Txt>
+        </GameElement>
+        <GameElement ID="Time left to complete:">
+          <Txt>Time left to complete:</Txt>
+        </GameElement>
+        <GameElement ID="hours">
+          <Txt>hours</Txt>
+        </GameElement>
+        <GameElement ID="Register">
+          <Txt>Регистрация</Txt>
+        </GameElement>
+        <GameElement ID="Start Playing">
+          <Txt>Играть!</Txt>
         </GameElement>
       </listElements>
     </GameScene>
@@ -790,9 +793,6 @@ to integrate a faction !</Txt>
         </GameElement>
         <GameElement ID="Asia">
           <Txt>Азия</Txt>
-        </GameElement>
-        <GameElement ID="Start Playing">
-          <Txt>Играть!</Txt>
         </GameElement>
         <GameElement ID="Recover &#xA;password">
           <Txt>Восстановить пароль</Txt>
