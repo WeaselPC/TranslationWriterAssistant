@@ -69,6 +69,24 @@
         <GameElement ID="Cancel">
           <Txt>Annuler</Txt>
         </GameElement>
+        <GameElement ID="days">
+          <Txt>days</Txt>
+        </GameElement>
+        <GameElement ID="hours">
+          <Txt>heures</Txt>
+        </GameElement>
+        <GameElement ID="minutes">
+          <Txt>minutes</Txt>
+        </GameElement>
+        <GameElement ID="minute">
+          <Txt>minute</Txt>
+        </GameElement>
+        <GameElement ID="Time Left:">
+          <Txt>Time Left:</Txt>
+        </GameElement>
+        <GameElement ID="less than one">
+          <Txt>less than one</Txt>
+        </GameElement>
         <GameElement ID="Normal Quests">
           <Txt>Quête normales</Txt>
         </GameElement>
@@ -77,9 +95,6 @@
         </GameElement>
         <GameElement ID="Time left to complete:">
           <Txt>Time left to complete:</Txt>
-        </GameElement>
-        <GameElement ID="hours">
-          <Txt>heures</Txt>
         </GameElement>
         <GameElement ID="Register">
           <Txt>S'enregister</Txt>
@@ -955,6 +970,29 @@ Chat</Txt>
         <GameElement ID="Global&#xA;Chat">
           <Txt>Global
 Chat</Txt>
+        </GameElement>
+        <GameElement ID="Kick a player from the faction">
+          <Txt>Kick a player from the faction</Txt>
+        </GameElement>
+        <GameElement ID="Enter member name...">
+          <Txt>Enter member name...</Txt>
+        </GameElement>
+        <GameElement ID="&lt;color=#FF0000&gt;!You will lose 5 Faction Points!&lt;/color&gt;">
+          <Txt>&lt;color=#FF0000&gt;!You will lose 5 Faction Points!&lt;/color&gt;</Txt>
+        </GameElement>
+        <GameElement ID="Return to leader page">
+          <Txt>Return to leader page</Txt>
+        </GameElement>
+        <GameElement ID="You are a &lt;color=#F0534C&gt;Renegade&lt;/color&gt;">
+          <Txt>You are a &lt;color=#F0534C&gt;Renegade&lt;/color&gt;</Txt>
+        </GameElement>
+        <GameElement ID="You are banned from participating in any faction events. &#xA;You cannot as of now join any faction.&#xA;">
+          <Txt>You are banned from participating in any faction events. 
+You cannot as of now join any faction.
+</Txt>
+        </GameElement>
+        <GameElement ID="Time Left: X Hours">
+          <Txt>Time Left: X Hours</Txt>
         </GameElement>
         <GameElement ID="If you leave your factions during this time of war, the gods will banish you, and as such you will be a &lt;color=#E00016&gt;renegade&lt;/color&gt;, rejected by all factions, not allowed to join any, and this will last for 10 days.  You’ll lose all your faction power as well.&#xA;&#xA;&lt;color=#E00016&gt;Are you sure you want to leave?&lt;/color&gt;">
           <Txt>If you leave your factions during this time of war, the gods will banish you, and as such you will be a &lt;color=#E00016&gt;renegade&lt;/color&gt;, rejected by all factions, not allowed to join any, and this will last for 10 days.  You’ll lose all your faction power as well.
