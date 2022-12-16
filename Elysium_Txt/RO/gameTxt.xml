@@ -6,21 +6,6 @@
         <GameElement ID="Can't summon dead pet">
           <Txt>Can't summon dead pet</Txt>
         </GameElement>
-        <GameElement ID="Not Started">
-          <Txt>Neinceput</Txt>
-        </GameElement>
-        <GameElement ID="To Complete">
-          <Txt>A Termina</Txt>
-        </GameElement>
-        <GameElement ID="Complete">
-          <Txt>Completat</Txt>
-        </GameElement>
-        <GameElement ID="Joystick Movement">
-          <Txt>Joystick Movement</Txt>
-        </GameElement>
-        <GameElement ID="Tap Movement">
-          <Txt>Tap Movement</Txt>
-        </GameElement>
         <GameElement ID="Forge">
           <Txt>Forge</Txt>
         </GameElement>
@@ -47,6 +32,12 @@
         </GameElement>
         <GameElement ID="The door is open!">
           <Txt>The door is open!</Txt>
+        </GameElement>
+        <GameElement ID="Joystick Movement">
+          <Txt>Joystick Movement</Txt>
+        </GameElement>
+        <GameElement ID="Tap Movement">
+          <Txt>Tap Movement</Txt>
         </GameElement>
         <GameElement ID="You have">
           <Txt>You have</Txt>
@@ -81,17 +72,35 @@
         <GameElement ID="minute">
           <Txt>minute</Txt>
         </GameElement>
-        <GameElement ID="Time Left:">
-          <Txt>Time Left:</Txt>
+        <GameElement ID="Time left:">
+          <Txt>Time left:</Txt>
         </GameElement>
         <GameElement ID="less than one">
           <Txt>less than one</Txt>
+        </GameElement>
+        <GameElement ID="Supporter powers activated!">
+          <Txt>Supporter powers activated!</Txt>
+        </GameElement>
+        <GameElement ID="Supporter powers deactivated!">
+          <Txt>Supporter powers deactivated!</Txt>
+        </GameElement>
+        <GameElement ID="Difficulty">
+          <Txt>Difficulty</Txt>
+        </GameElement>
+        <GameElement ID="This will require">
+          <Txt>This will require</Txt>
+        </GameElement>
+        <GameElement ID="players">
+          <Txt>players</Txt>
         </GameElement>
         <GameElement ID="Normal Quests">
           <Txt>Quest Normal</Txt>
         </GameElement>
         <GameElement ID="Daily Quests">
           <Txt>Quest Zilnic</Txt>
+        </GameElement>
+        <GameElement ID="Faction Quests">
+          <Txt>Faction Quests</Txt>
         </GameElement>
         <GameElement ID="Time left to complete:">
           <Txt>Time left to complete:</Txt>
@@ -101,6 +110,15 @@
         </GameElement>
         <GameElement ID="Start Playing">
           <Txt>Start Playing</Txt>
+        </GameElement>
+        <GameElement ID="Not Started">
+          <Txt>Neinceput</Txt>
+        </GameElement>
+        <GameElement ID="To Complete">
+          <Txt>A Termina</Txt>
+        </GameElement>
+        <GameElement ID="Complete">
+          <Txt>Completat</Txt>
         </GameElement>
       </listElements>
     </GameScene>
@@ -445,17 +463,11 @@ sau intra in breasla altui player !</Txt>
         <GameElement ID="Leading guild :">
           <Txt>Leading guild :</Txt>
         </GameElement>
-        <GameElement ID="Leading guild name">
-          <Txt>Leading guild name</Txt>
-        </GameElement>
         <GameElement ID="Guild Power:">
           <Txt>Guild Power:</Txt>
         </GameElement>
         <GameElement ID="Guild leader :">
           <Txt>Guild leader :</Txt>
-        </GameElement>
-        <GameElement ID="Leader name">
-          <Txt>Leader name</Txt>
         </GameElement>
         <GameElement ID="Time In power:">
           <Txt>Time In power:</Txt>
@@ -972,6 +984,53 @@ Chat</Txt>
           <Txt>Global
 Chat</Txt>
         </GameElement>
+        <GameElement ID="Choose a quest">
+          <Txt>Choose a quest</Txt>
+        </GameElement>
+        <GameElement ID="Leading guild:">
+          <Txt>Leading guild:</Txt>
+        </GameElement>
+        <GameElement ID="Guild leader:">
+          <Txt>Guild leader:</Txt>
+        </GameElement>
+        <GameElement ID="Your Power:">
+          <Txt>Your Power:</Txt>
+        </GameElement>
+        <GameElement ID="Activate New Faction Power">
+          <Txt>Activate New Faction Power</Txt>
+        </GameElement>
+        <GameElement ID="Activate a Power-Up for your Faction">
+          <Txt>Activate a Power-Up for your Faction</Txt>
+        </GameElement>
+        <GameElement ID="Activate&#xA;(Cost: 10k Gold)">
+          <Txt>Activate
+(Cost: 10k Gold)</Txt>
+        </GameElement>
+        <GameElement ID="Gold Drop Bonus (+ 50%)">
+          <Txt>Gold Drop Bonus (+ 50%)</Txt>
+        </GameElement>
+        <GameElement ID="Loot Drop Bonus (+ 50%)">
+          <Txt>Loot Drop Bonus (+ 50%)</Txt>
+        </GameElement>
+        <GameElement ID="Exp Gain Bonus (+ 25%)">
+          <Txt>Exp Gain Bonus (+ 25%)</Txt>
+        </GameElement>
+        <GameElement ID="Passive Health Regen Bonus (+10%)">
+          <Txt>Passive Health Regen Bonus (+10%)</Txt>
+        </GameElement>
+        <GameElement ID="Chose a new faction-wide quest">
+          <Txt>Chose a new faction-wide quest</Txt>
+        </GameElement>
+        <GameElement ID="Activate&#xA;(Cost: 5 power points)">
+          <Txt>Activate
+(Cost: 5 power points)</Txt>
+        </GameElement>
+        <GameElement ID="Your power points:">
+          <Txt>Your power points:</Txt>
+        </GameElement>
+        <GameElement ID="This will require ~7 players">
+          <Txt>This will require ~7 players</Txt>
+        </GameElement>
         <GameElement ID="Kick a player from the faction">
           <Txt>Kick a player from the faction</Txt>
         </GameElement>
@@ -1024,15 +1083,6 @@ You cannot as of now join any faction.
         </GameElement>
         <GameElement ID="Enter here what you want your new password to be :">
           <Txt>Enter here what you want your new password to be :</Txt>
-        </GameElement>
-        <GameElement ID="POPUP">
-          <Txt>POPUP</Txt>
-        </GameElement>
-        <GameElement ID="A game by">
-          <Txt>A game by</Txt>
-        </GameElement>
-        <GameElement ID="Loading">
-          <Txt>Loading</Txt>
         </GameElement>
       </listElements>
     </GameScene>
