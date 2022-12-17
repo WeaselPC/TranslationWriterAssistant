@@ -6,65 +6,44 @@
         <GameElement ID="Can't summon dead pet">
           <Txt>Can't summon dead pet</Txt>
         </GameElement>
-        <GameElement ID="Forge">
-          <Txt>Forge</Txt>
+        <GameElement ID="Normal Quests">
+          <Txt>Quest Normal</Txt>
         </GameElement>
-        <GameElement ID="Elysian Field">
-          <Txt>Elysian Field</Txt>
+        <GameElement ID="Daily Quests">
+          <Txt>Quest Zilnic</Txt>
         </GameElement>
-        <GameElement ID="Cave">
-          <Txt>Cave</Txt>
+        <GameElement ID="Faction Quests">
+          <Txt>Faction Quests</Txt>
         </GameElement>
-        <GameElement ID="Daedalus's Maze">
-          <Txt>Daedalus's Maze</Txt>
+        <GameElement ID="Time left to complete:">
+          <Txt>Time left to complete:</Txt>
         </GameElement>
-        <GameElement ID="Overworld">
-          <Txt>Overworld</Txt>
-        </GameElement>
-        <GameElement ID="Shopkeeper's house">
-          <Txt>Shopkeeper's house</Txt>
-        </GameElement>
-        <GameElement ID="The Crypt">
-          <Txt>The Crypt</Txt>
-        </GameElement>
-        <GameElement ID="Aeaea Island">
-          <Txt>Aeaea Island</Txt>
-        </GameElement>
-        <GameElement ID="The door is open!">
-          <Txt>The door is open!</Txt>
-        </GameElement>
-        <GameElement ID="Joystick Movement">
-          <Txt>Joystick Movement</Txt>
-        </GameElement>
-        <GameElement ID="Tap Movement">
-          <Txt>Tap Movement</Txt>
+        <GameElement ID="hours">
+          <Txt>ore</Txt>
         </GameElement>
         <GameElement ID="You have">
-          <Txt>Você tem</Txt>
+          <Txt>You have</Txt>
         </GameElement>
         <GameElement ID="gold">
-          <Txt>Ouro</Txt>
+          <Txt>gold</Txt>
         </GameElement>
         <GameElement ID="None">
           <Txt>None</Txt>
         </GameElement>
         <GameElement ID="Zeus' Followers">
-          <Txt>Seguidores de Zeus</Txt>
+          <Txt>Zeus' Followers</Txt>
         </GameElement>
         <GameElement ID="Poseidon' Followers">
-          <Txt>Seguidores de Poseidon</Txt>
+          <Txt>Poseidon' Followers</Txt>
         </GameElement>
         <GameElement ID="Accept">
-          <Txt>Aceitar</Txt>
+          <Txt>Accept</Txt>
         </GameElement>
         <GameElement ID="Cancel">
           <Txt>Cancel</Txt>
         </GameElement>
         <GameElement ID="days">
           <Txt>days</Txt>
-        </GameElement>
-        <GameElement ID="hours">
-          <Txt>Horas</Txt>
         </GameElement>
         <GameElement ID="minutes">
           <Txt>minutes</Txt>
@@ -93,32 +72,53 @@
         <GameElement ID="players">
           <Txt>players</Txt>
         </GameElement>
-        <GameElement ID="Normal Quests">
-          <Txt>Missão Normal</Txt>
-        </GameElement>
-        <GameElement ID="Daily Quests">
-          <Txt>Missão Diária</Txt>
-        </GameElement>
-        <GameElement ID="Faction Quests">
-          <Txt>Faction Quests</Txt>
-        </GameElement>
-        <GameElement ID="Time left to complete:">
-          <Txt>Time left to complete:</Txt>
+        <GameElement ID="The door is open!">
+          <Txt>The door is open!</Txt>
         </GameElement>
         <GameElement ID="Register">
-          <Txt>Registrar</Txt>
+          <Txt>Inregistreaza-te</Txt>
         </GameElement>
         <GameElement ID="Start Playing">
           <Txt>Start Playing</Txt>
         </GameElement>
+        <GameElement ID="Joystick Movement">
+          <Txt>Joystick Movement</Txt>
+        </GameElement>
+        <GameElement ID="Tap Movement">
+          <Txt>Tap Movement</Txt>
+        </GameElement>
         <GameElement ID="Not Started">
-          <Txt>Não iniciado</Txt>
+          <Txt>Neinceput</Txt>
         </GameElement>
         <GameElement ID="To Complete">
-          <Txt>Para completar</Txt>
+          <Txt>A Termina</Txt>
         </GameElement>
         <GameElement ID="Complete">
-          <Txt>Completo</Txt>
+          <Txt>Completat</Txt>
+        </GameElement>
+        <GameElement ID="Forge">
+          <Txt>Forge</Txt>
+        </GameElement>
+        <GameElement ID="Elysian Field">
+          <Txt>Campul Elysian</Txt>
+        </GameElement>
+        <GameElement ID="Cave">
+          <Txt>Cave</Txt>
+        </GameElement>
+        <GameElement ID="Daedalus's Maze">
+          <Txt>Daedalus's Maze</Txt>
+        </GameElement>
+        <GameElement ID="Overworld">
+          <Txt>Overworld</Txt>
+        </GameElement>
+        <GameElement ID="Shopkeeper's house">
+          <Txt>Shopkeeper's house</Txt>
+        </GameElement>
+        <GameElement ID="The Crypt">
+          <Txt>The Crypt</Txt>
+        </GameElement>
+        <GameElement ID="Aeaea Island">
+          <Txt>Aeaea Island</Txt>
         </GameElement>
       </listElements>
     </GameScene>
@@ -128,10 +128,10 @@
           <Txt>Lv. 0</Txt>
         </GameElement>
         <GameElement ID="Enter message...">
-          <Txt>Enter message...</Txt>
+          <Txt>Scrie mesajul...</Txt>
         </GameElement>
         <GameElement ID="Send">
-          <Txt>Send</Txt>
+          <Txt>Trimite</Txt>
         </GameElement>
         <GameElement ID="Local">
           <Txt>Local</Txt>
@@ -140,47 +140,47 @@
           <Txt>Global</Txt>
         </GameElement>
         <GameElement ID="Name">
-          <Txt>Name</Txt>
+          <Txt>Nume</Txt>
         </GameElement>
         <GameElement ID="Trade">
           <Txt>Trade</Txt>
         </GameElement>
         <GameElement ID="Guild Invite">
-          <Txt>Guild Invite</Txt>
+          <Txt>Invitatie Breasla</Txt>
         </GameElement>
         <GameElement ID="Party Invite">
-          <Txt>Party Invite</Txt>
+          <Txt>Invitatie Party</Txt>
         </GameElement>
         <GameElement ID="Inventory">
-          <Txt>Inventory</Txt>
+          <Txt>Inventar</Txt>
         </GameElement>
         <GameElement ID="Weapon">
-          <Txt>Weapon</Txt>
+          <Txt>Arma</Txt>
         </GameElement>
         <GameElement ID="Head">
-          <Txt>Head</Txt>
+          <Txt>Cap</Txt>
         </GameElement>
         <GameElement ID="Chest">
-          <Txt>Chest</Txt>
+          <Txt>Piept</Txt>
         </GameElement>
         <GameElement ID="Legs">
-          <Txt>Legs</Txt>
+          <Txt>Picioare</Txt>
         </GameElement>
         <GameElement ID="Shield">
-          <Txt>Shield</Txt>
+          <Txt>Scut</Txt>
         </GameElement>
         <GameElement ID="Hands">
-          <Txt>Hands</Txt>
+          <Txt>Maini</Txt>
         </GameElement>
         <GameElement ID="Gold:">
-          <Txt>Gold:</Txt>
+          <Txt>Aur:</Txt>
         </GameElement>
         <GameElement ID="Bet:">
-          <Txt>Bet:</Txt>
+          <Txt>Pariat:</Txt>
         </GameElement>
         <GameElement ID="See&#xA;Skins">
-          <Txt>See
-Skins</Txt>
+          <Txt>Vezi
+Skinuri</Txt>
         </GameElement>
         <GameElement ID="Upgrade">
           <Txt>Upgrade</Txt>
@@ -189,43 +189,43 @@ Skins</Txt>
           <Txt>Skills</Txt>
         </GameElement>
         <GameElement ID="Available Skill Exp.:">
-          <Txt>Available Skill Exp.:</Txt>
+          <Txt>Skill Exp. Valabil:</Txt>
         </GameElement>
         <GameElement ID="reset">
           <Txt>reset</Txt>
         </GameElement>
         <GameElement ID="Character Info">
-          <Txt>Character Info</Txt>
+          <Txt>Informatii Character</Txt>
         </GameElement>
         <GameElement ID="Stats">
-          <Txt>Stats</Txt>
+          <Txt>Status</Txt>
         </GameElement>
         <GameElement ID="Damage:">
-          <Txt>Damage:</Txt>
+          <Txt>Putere:</Txt>
         </GameElement>
         <GameElement ID="Defense:">
           <Txt>Defense:</Txt>
         </GameElement>
         <GameElement ID="Max. Health:">
-          <Txt>Max. Health:</Txt>
+          <Txt>Viata Max.:</Txt>
         </GameElement>
         <GameElement ID="Max. Mana:">
-          <Txt>Max. Mana:</Txt>
+          <Txt>Mana Max.:</Txt>
         </GameElement>
         <GameElement ID="Critical:">
           <Txt>Critical:</Txt>
         </GameElement>
         <GameElement ID="Block:">
-          <Txt>Block:</Txt>
+          <Txt>Aparare:</Txt>
         </GameElement>
         <GameElement ID="Speed:">
-          <Txt>Speed:</Txt>
+          <Txt>Viteza:</Txt>
         </GameElement>
         <GameElement ID="Level:">
           <Txt>Level:</Txt>
         </GameElement>
         <GameElement ID="Exp. cur:">
-          <Txt>Exp. cur:</Txt>
+          <Txt>Exp. curent:</Txt>
         </GameElement>
         <GameElement ID="Exp. max.:">
           <Txt>Exp. max.:</Txt>
@@ -234,28 +234,29 @@ Skins</Txt>
           <Txt>Skill Exp.:</Txt>
         </GameElement>
         <GameElement ID="Attributes">
-          <Txt>Attributes</Txt>
+          <Txt>Atributii</Txt>
         </GameElement>
         <GameElement ID="Intelligence:">
-          <Txt>Intelligence:</Txt>
+          <Txt>Inteligenta:</Txt>
         </GameElement>
         <GameElement ID="Strength:">
-          <Txt>Strength:</Txt>
+          <Txt>Putere:</Txt>
         </GameElement>
         <GameElement ID="Precision:">
-          <Txt>Precision:</Txt>
+          <Txt>Precizie:</Txt>
         </GameElement>
         <GameElement ID="Constitution:">
-          <Txt>Constitution:</Txt>
+          <Txt>
+Constituţie:</Txt>
         </GameElement>
         <GameElement ID="Crafting">
-          <Txt>Crafting</Txt>
+          <Txt>Craft</Txt>
         </GameElement>
         <GameElement ID="Page 1/1">
-          <Txt>Page 1/1</Txt>
+          <Txt>Pagina 1/1</Txt>
         </GameElement>
         <GameElement ID="Spawn Scroll">
-          <Txt>Spawn Scroll</Txt>
+          <Txt>Pergament Spawn</Txt>
         </GameElement>
         <GameElement ID="Craft (100%)">
           <Txt>Craft (100%)</Txt>
@@ -267,47 +268,47 @@ Skins</Txt>
           <Txt>CRAFT SUCCESFULL !</Txt>
         </GameElement>
         <GameElement ID="ITEM NAME&#xA;(1/5)">
-          <Txt>ITEM NAME
+          <Txt>NUME OBIECT
 (1/5)</Txt>
         </GameElement>
         <GameElement ID="CRAFT FAILED :(">
           <Txt>CRAFT FAILED :(</Txt>
         </GameElement>
         <GameElement ID="ITEM NAME">
-          <Txt>ITEM NAME</Txt>
+          <Txt>NUME BIECT</Txt>
         </GameElement>
         <GameElement ID="Map Panel">
-          <Txt>Map Panel</Txt>
+          <Txt>Panel Harta</Txt>
         </GameElement>
         <GameElement ID="ZOOM">
           <Txt>ZOOM</Txt>
         </GameElement>
         <GameElement ID="Name of the Island:">
-          <Txt>Name of the Island:</Txt>
+          <Txt>Numele Insulei:</Txt>
         </GameElement>
         <GameElement ID="Guild Panel">
-          <Txt>Guild Panel</Txt>
+          <Txt>Panelul Breslei</Txt>
         </GameElement>
         <GameElement ID="Guild Master:">
-          <Txt>Guild Master:</Txt>
+          <Txt>Masterul Breslei:</Txt>
         </GameElement>
         <GameElement ID="Capacity:">
-          <Txt>Capacity:</Txt>
+          <Txt>Capacitate:</Txt>
         </GameElement>
         <GameElement ID="Notice:">
-          <Txt>Notice:</Txt>
+          <Txt>Notita:</Txt>
         </GameElement>
         <GameElement ID="Enter notice...">
-          <Txt>Enter notice...</Txt>
+          <Txt>Introduce Notita...</Txt>
         </GameElement>
         <GameElement ID="Edit">
-          <Txt>Edit</Txt>
+          <Txt>Edita</Txt>
         </GameElement>
         <GameElement ID="Set">
-          <Txt>Set</Txt>
+          <Txt>Seteaza</Txt>
         </GameElement>
         <GameElement ID="Member">
-          <Txt>Member</Txt>
+          <Txt>Membru</Txt>
         </GameElement>
         <GameElement ID="Lv.">
           <Txt>Lv.</Txt>
@@ -316,49 +317,49 @@ Skins</Txt>
           <Txt>Rank</Txt>
         </GameElement>
         <GameElement ID="Action">
-          <Txt>Action</Txt>
+          <Txt>Actiune</Txt>
         </GameElement>
         <GameElement ID="Leave Guild">
-          <Txt>Leave Guild</Txt>
+          <Txt>Paraseste Bresla</Txt>
         </GameElement>
         <GameElement ID="Popup">
           <Txt>Popup</Txt>
         </GameElement>
         <GameElement ID="Are you sure you want to leave your guild ?">
-          <Txt>Are you sure you want to leave your guild ?</Txt>
+          <Txt>Esti sigur ca doresti sa iesi din breasla?</Txt>
         </GameElement>
         <GameElement ID="YES !">
-          <Txt>YES !</Txt>
+          <Txt>DA !</Txt>
         </GameElement>
         <GameElement ID="NO !">
-          <Txt>NO !</Txt>
+          <Txt>NU !</Txt>
         </GameElement>
         <GameElement ID="You can't leave your guild as the Guild Master !&#xA;Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.">
           <Txt>You can't leave your guild as the Guild Master !
 Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.</Txt>
         </GameElement>
         <GameElement ID="You can't leave your guild as the Guild Master !&#xA;">
-          <Txt>You can't leave your guild as the Guild Master !
+          <Txt>Nu poti parasi breasla fiind Maestrul Breslei ! 
 </Txt>
         </GameElement>
         <GameElement ID="OK !">
           <Txt>OK !</Txt>
         </GameElement>
         <GameElement ID="New Text">
-          <Txt>New Text</Txt>
+          <Txt>Text Nou</Txt>
         </GameElement>
         <GameElement ID="You do not have a guild">
-          <Txt>You do not have a guild</Txt>
+          <Txt>Nu ai o breasla</Txt>
         </GameElement>
         <GameElement ID="To enter a guild, create one at the shopkeeper&#xA;or join another player's guild !">
-          <Txt>To enter a guild, create one at the shopkeeper
-or join another player's guild !</Txt>
+          <Txt>Pentru a intra intr-o breasla, creaza una la negustor
+sau intra in breasla altui player !</Txt>
         </GameElement>
         <GameElement ID="Shop">
-          <Txt>Shop</Txt>
+          <Txt>Magazin</Txt>
         </GameElement>
         <GameElement ID="Categories:">
-          <Txt>Categories:</Txt>
+          <Txt>Categorii:</Txt>
         </GameElement>
         <GameElement ID="CHANGE APPEARANCE">
           <Txt>CHANGE APPEARANCE</Txt>
@@ -862,8 +863,8 @@ click Start Playing !</Txt>
         <GameElement ID="SFX:">
           <Txt>SFX:</Txt>
         </GameElement>
-        <GameElement ID="Camera Zoom:">
-          <Txt>Camera Zoom:</Txt>
+        <GameElement ID="Camera size:">
+          <Txt>Camera size:</Txt>
         </GameElement>
         <GameElement ID="GUI Scale Factor:">
           <Txt>GUI Scale Factor:</Txt>

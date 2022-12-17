@@ -6,65 +6,44 @@
         <GameElement ID="Can't summon dead pet">
           <Txt>Can't summon dead pet</Txt>
         </GameElement>
-        <GameElement ID="Forge">
-          <Txt>Forge</Txt>
+        <GameElement ID="Normal Quests">
+          <Txt>Missão Normal</Txt>
         </GameElement>
-        <GameElement ID="Elysian Field">
-          <Txt>Les champs Élysiens</Txt>
+        <GameElement ID="Daily Quests">
+          <Txt>Missão Diária</Txt>
         </GameElement>
-        <GameElement ID="Cave">
-          <Txt>Cave</Txt>
+        <GameElement ID="Faction Quests">
+          <Txt>Faction Quests</Txt>
         </GameElement>
-        <GameElement ID="Daedalus's Maze">
-          <Txt>Daedalus's Maze</Txt>
+        <GameElement ID="Time left to complete:">
+          <Txt>Time left to complete:</Txt>
         </GameElement>
-        <GameElement ID="Overworld">
-          <Txt>Overworld</Txt>
-        </GameElement>
-        <GameElement ID="Shopkeeper's house">
-          <Txt>Shopkeeper's house</Txt>
-        </GameElement>
-        <GameElement ID="The Crypt">
-          <Txt>The Crypt</Txt>
-        </GameElement>
-        <GameElement ID="Aeaea Island">
-          <Txt>Aeaea Island</Txt>
-        </GameElement>
-        <GameElement ID="The door is open!">
-          <Txt>The door is open!</Txt>
-        </GameElement>
-        <GameElement ID="Joystick Movement">
-          <Txt>Joystick Movement</Txt>
-        </GameElement>
-        <GameElement ID="Tap Movement">
-          <Txt>Tap Movement</Txt>
+        <GameElement ID="hours">
+          <Txt>Horas</Txt>
         </GameElement>
         <GameElement ID="You have">
-          <Txt>Vous avez</Txt>
+          <Txt>Você tem</Txt>
         </GameElement>
         <GameElement ID="gold">
-          <Txt>or</Txt>
+          <Txt>Ouro</Txt>
         </GameElement>
         <GameElement ID="None">
           <Txt>None</Txt>
         </GameElement>
         <GameElement ID="Zeus' Followers">
-          <Txt>Les Suivants de Zeus</Txt>
+          <Txt>Seguidores de Zeus</Txt>
         </GameElement>
         <GameElement ID="Poseidon' Followers">
-          <Txt>Les Suivants de Poseidon</Txt>
+          <Txt>Seguidores de Poseidon</Txt>
         </GameElement>
         <GameElement ID="Accept">
-          <Txt>Accepter</Txt>
+          <Txt>Aceitar</Txt>
         </GameElement>
         <GameElement ID="Cancel">
-          <Txt>Annuler</Txt>
+          <Txt>Cancel</Txt>
         </GameElement>
         <GameElement ID="days">
           <Txt>days</Txt>
-        </GameElement>
-        <GameElement ID="hours">
-          <Txt>heures</Txt>
         </GameElement>
         <GameElement ID="minutes">
           <Txt>minutes</Txt>
@@ -93,45 +72,66 @@
         <GameElement ID="players">
           <Txt>players</Txt>
         </GameElement>
-        <GameElement ID="Normal Quests">
-          <Txt>Quête normales</Txt>
-        </GameElement>
-        <GameElement ID="Daily Quests">
-          <Txt>Quête Journalières</Txt>
-        </GameElement>
-        <GameElement ID="Faction Quests">
-          <Txt>Faction Quests</Txt>
-        </GameElement>
-        <GameElement ID="Time left to complete:">
-          <Txt>Time left to complete:</Txt>
+        <GameElement ID="The door is open!">
+          <Txt>The door is open!</Txt>
         </GameElement>
         <GameElement ID="Register">
-          <Txt>S'enregister</Txt>
+          <Txt>Registrar</Txt>
         </GameElement>
         <GameElement ID="Start Playing">
-          <Txt>Commencer!</Txt>
+          <Txt>Start Playing</Txt>
+        </GameElement>
+        <GameElement ID="Joystick Movement">
+          <Txt>Joystick Movement</Txt>
+        </GameElement>
+        <GameElement ID="Tap Movement">
+          <Txt>Tap Movement</Txt>
         </GameElement>
         <GameElement ID="Not Started">
-          <Txt>Pas commencée</Txt>
+          <Txt>Não iniciado</Txt>
         </GameElement>
         <GameElement ID="To Complete">
-          <Txt>À terminée</Txt>
+          <Txt>Para completar</Txt>
         </GameElement>
         <GameElement ID="Complete">
-          <Txt>Terminée</Txt>
+          <Txt>Completo</Txt>
+        </GameElement>
+        <GameElement ID="Forge">
+          <Txt>Forge</Txt>
+        </GameElement>
+        <GameElement ID="Elysian Field">
+          <Txt>Elysian Field</Txt>
+        </GameElement>
+        <GameElement ID="Cave">
+          <Txt>Cave</Txt>
+        </GameElement>
+        <GameElement ID="Daedalus's Maze">
+          <Txt>Daedalus's Maze</Txt>
+        </GameElement>
+        <GameElement ID="Overworld">
+          <Txt>Overworld</Txt>
+        </GameElement>
+        <GameElement ID="Shopkeeper's house">
+          <Txt>Shopkeeper's house</Txt>
+        </GameElement>
+        <GameElement ID="The Crypt">
+          <Txt>The Crypt</Txt>
+        </GameElement>
+        <GameElement ID="Aeaea Island">
+          <Txt>Aeaea Island</Txt>
         </GameElement>
       </listElements>
     </GameScene>
     <GameScene Category="UI - Scene">
       <listElements>
         <GameElement ID="Lv. 0">
-          <Txt>Nv. 0</Txt>
+          <Txt>Lv. 0</Txt>
         </GameElement>
         <GameElement ID="Enter message...">
-          <Txt>Entrer un message...</Txt>
+          <Txt>Enter message...</Txt>
         </GameElement>
         <GameElement ID="Send">
-          <Txt>Envoyer</Txt>
+          <Txt>Send</Txt>
         </GameElement>
         <GameElement ID="Local">
           <Txt>Local</Txt>
@@ -140,165 +140,165 @@
           <Txt>Global</Txt>
         </GameElement>
         <GameElement ID="Name">
-          <Txt>Nom</Txt>
+          <Txt>Name</Txt>
         </GameElement>
         <GameElement ID="Trade">
-          <Txt>Échange</Txt>
+          <Txt>Trade</Txt>
         </GameElement>
         <GameElement ID="Guild Invite">
-          <Txt>Invitation de Guilde</Txt>
+          <Txt>Guild Invite</Txt>
         </GameElement>
         <GameElement ID="Party Invite">
-          <Txt>Invitation de groupe</Txt>
+          <Txt>Party Invite</Txt>
         </GameElement>
         <GameElement ID="Inventory">
-          <Txt>Équipement</Txt>
+          <Txt>Inventory</Txt>
         </GameElement>
         <GameElement ID="Weapon">
-          <Txt>Armes</Txt>
+          <Txt>Weapon</Txt>
         </GameElement>
         <GameElement ID="Head">
-          <Txt>Tête</Txt>
+          <Txt>Head</Txt>
         </GameElement>
         <GameElement ID="Chest">
-          <Txt>Torse</Txt>
+          <Txt>Chest</Txt>
         </GameElement>
         <GameElement ID="Legs">
-          <Txt>Jambes</Txt>
+          <Txt>Legs</Txt>
         </GameElement>
         <GameElement ID="Shield">
-          <Txt>Bouclier</Txt>
+          <Txt>Shield</Txt>
         </GameElement>
         <GameElement ID="Hands">
-          <Txt>Mains</Txt>
+          <Txt>Hands</Txt>
         </GameElement>
         <GameElement ID="Gold:">
-          <Txt>Or:</Txt>
+          <Txt>Gold:</Txt>
         </GameElement>
         <GameElement ID="Bet:">
-          <Txt>Paris:</Txt>
+          <Txt>Bet:</Txt>
         </GameElement>
         <GameElement ID="See&#xA;Skins">
-          <Txt>Voir
+          <Txt>See
 Skins</Txt>
         </GameElement>
         <GameElement ID="Upgrade">
-          <Txt>Amélioriation</Txt>
+          <Txt>Upgrade</Txt>
         </GameElement>
         <GameElement ID="Skills">
-          <Txt>Capacitée</Txt>
+          <Txt>Skills</Txt>
         </GameElement>
         <GameElement ID="Available Skill Exp.:">
-          <Txt>Exp. de capacité restant:</Txt>
+          <Txt>Available Skill Exp.:</Txt>
         </GameElement>
         <GameElement ID="reset">
-          <Txt>Reset</Txt>
+          <Txt>reset</Txt>
         </GameElement>
         <GameElement ID="Character Info">
-          <Txt>Information du personage</Txt>
+          <Txt>Character Info</Txt>
         </GameElement>
         <GameElement ID="Stats">
-          <Txt>Statistiques</Txt>
+          <Txt>Stats</Txt>
         </GameElement>
         <GameElement ID="Damage:">
-          <Txt>Dégat:</Txt>
+          <Txt>Damage:</Txt>
         </GameElement>
         <GameElement ID="Defense:">
-          <Txt>Défense:</Txt>
+          <Txt>Defense:</Txt>
         </GameElement>
         <GameElement ID="Max. Health:">
-          <Txt>Vie max.:</Txt>
+          <Txt>Max. Health:</Txt>
         </GameElement>
         <GameElement ID="Max. Mana:">
-          <Txt>Man max.:</Txt>
+          <Txt>Max. Mana:</Txt>
         </GameElement>
         <GameElement ID="Critical:">
-          <Txt>Critique:</Txt>
+          <Txt>Critical:</Txt>
         </GameElement>
         <GameElement ID="Block:">
-          <Txt>Bloquage:</Txt>
+          <Txt>Block:</Txt>
         </GameElement>
         <GameElement ID="Speed:">
-          <Txt>Vitesse:</Txt>
+          <Txt>Speed:</Txt>
         </GameElement>
         <GameElement ID="Level:">
-          <Txt>Niveau:</Txt>
+          <Txt>Level:</Txt>
         </GameElement>
         <GameElement ID="Exp. cur:">
-          <Txt>Exp.:</Txt>
+          <Txt>Exp. cur:</Txt>
         </GameElement>
         <GameElement ID="Exp. max.:">
           <Txt>Exp. max.:</Txt>
         </GameElement>
         <GameElement ID="Skill Exp.:">
-          <Txt>Exp. capacitée:</Txt>
+          <Txt>Skill Exp.:</Txt>
         </GameElement>
         <GameElement ID="Attributes">
-          <Txt>Attributs</Txt>
+          <Txt>Attributes</Txt>
         </GameElement>
         <GameElement ID="Intelligence:">
           <Txt>Intelligence:</Txt>
         </GameElement>
         <GameElement ID="Strength:">
-          <Txt>Force:</Txt>
+          <Txt>Strength:</Txt>
         </GameElement>
         <GameElement ID="Precision:">
-          <Txt>Précision:</Txt>
+          <Txt>Precision:</Txt>
         </GameElement>
         <GameElement ID="Constitution:">
           <Txt>Constitution:</Txt>
         </GameElement>
         <GameElement ID="Crafting">
-          <Txt>Fabrication</Txt>
+          <Txt>Crafting</Txt>
         </GameElement>
         <GameElement ID="Page 1/1">
           <Txt>Page 1/1</Txt>
         </GameElement>
         <GameElement ID="Spawn Scroll">
-          <Txt>Parchemin de téléportation</Txt>
+          <Txt>Spawn Scroll</Txt>
         </GameElement>
         <GameElement ID="Craft (100%)">
-          <Txt>Fabrication (100%)</Txt>
+          <Txt>Craft (100%)</Txt>
         </GameElement>
         <GameElement ID="Crafting...">
-          <Txt>Fabrication en cours...</Txt>
+          <Txt>Crafting...</Txt>
         </GameElement>
         <GameElement ID="CRAFT SUCCESFULL !">
-          <Txt>FABRICATION RÉUSSIE !</Txt>
+          <Txt>CRAFT SUCCESFULL !</Txt>
         </GameElement>
         <GameElement ID="ITEM NAME&#xA;(1/5)">
           <Txt>ITEM NAME
 (1/5)</Txt>
         </GameElement>
         <GameElement ID="CRAFT FAILED :(">
-          <Txt>FABRICATION RATÉE :(</Txt>
+          <Txt>CRAFT FAILED :(</Txt>
         </GameElement>
         <GameElement ID="ITEM NAME">
           <Txt>ITEM NAME</Txt>
         </GameElement>
         <GameElement ID="Map Panel">
-          <Txt>Carte</Txt>
+          <Txt>Map Panel</Txt>
         </GameElement>
         <GameElement ID="ZOOM">
           <Txt>ZOOM</Txt>
         </GameElement>
         <GameElement ID="Name of the Island:">
-          <Txt>Name de l'ìle:</Txt>
+          <Txt>Name of the Island:</Txt>
         </GameElement>
         <GameElement ID="Guild Panel">
-          <Txt>Guilde</Txt>
+          <Txt>Guild Panel</Txt>
         </GameElement>
         <GameElement ID="Guild Master:">
-          <Txt>Maitre de guilde:</Txt>
+          <Txt>Guild Master:</Txt>
         </GameElement>
         <GameElement ID="Capacity:">
-          <Txt>Capacitée:</Txt>
+          <Txt>Capacity:</Txt>
         </GameElement>
         <GameElement ID="Notice:">
-          <Txt>Information:</Txt>
+          <Txt>Notice:</Txt>
         </GameElement>
         <GameElement ID="Enter notice...">
-          <Txt>Entre information...</Txt>
+          <Txt>Enter notice...</Txt>
         </GameElement>
         <GameElement ID="Edit">
           <Txt>Edit</Txt>
@@ -307,151 +307,151 @@ Skins</Txt>
           <Txt>Set</Txt>
         </GameElement>
         <GameElement ID="Member">
-          <Txt>Membre</Txt>
+          <Txt>Member</Txt>
         </GameElement>
         <GameElement ID="Lv.">
-          <Txt>Nv.</Txt>
+          <Txt>Lv.</Txt>
         </GameElement>
         <GameElement ID="Rank">
-          <Txt>Rang</Txt>
+          <Txt>Rank</Txt>
         </GameElement>
         <GameElement ID="Action">
           <Txt>Action</Txt>
         </GameElement>
         <GameElement ID="Leave Guild">
-          <Txt>Sortir de la guilde</Txt>
+          <Txt>Leave Guild</Txt>
         </GameElement>
         <GameElement ID="Popup">
           <Txt>Popup</Txt>
         </GameElement>
         <GameElement ID="Are you sure you want to leave your guild ?">
-          <Txt>Vous êtes sûr que vous voulez partir de la guilde?</Txt>
+          <Txt>Are you sure you want to leave your guild ?</Txt>
         </GameElement>
         <GameElement ID="YES !">
-          <Txt>OUI !</Txt>
+          <Txt>YES !</Txt>
         </GameElement>
         <GameElement ID="NO !">
-          <Txt>NON !</Txt>
+          <Txt>NO !</Txt>
         </GameElement>
         <GameElement ID="You can't leave your guild as the Guild Master !&#xA;Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.">
-          <Txt>Vous ne pouvez pas partir de la guilde en tant que maître de guilde !
-Allez à un PNG qui peut former des guilds si vous voulez la supprimer, ou séléctioner un autre membre pour être le nouveau maitre de guilde.</Txt>
+          <Txt>You can't leave your guild as the Guild Master !
+Go to an NPC that does NPC Managment if you want to terminate it, or select another member to be the new guild Master.</Txt>
         </GameElement>
         <GameElement ID="You can't leave your guild as the Guild Master !&#xA;">
-          <Txt>En tant que maitre de guilde, vous ne pouvez pas partir !
+          <Txt>You can't leave your guild as the Guild Master !
 </Txt>
         </GameElement>
         <GameElement ID="OK !">
           <Txt>OK !</Txt>
         </GameElement>
         <GameElement ID="New Text">
-          <Txt>Nouveau texte</Txt>
+          <Txt>New Text</Txt>
         </GameElement>
         <GameElement ID="You do not have a guild">
-          <Txt>Vous n'avez pas de guilde</Txt>
+          <Txt>You do not have a guild</Txt>
         </GameElement>
         <GameElement ID="To enter a guild, create one at the shopkeeper&#xA;or join another player's guild !">
-          <Txt>Pour entrer dans une guilde, creez en une au vendeur,
-ou joignez la guilde d'un autre joueur !</Txt>
+          <Txt>To enter a guild, create one at the shopkeeper
+or join another player's guild !</Txt>
         </GameElement>
         <GameElement ID="Shop">
-          <Txt>Magasin</Txt>
+          <Txt>Shop</Txt>
         </GameElement>
         <GameElement ID="Categories:">
-          <Txt>Catégories :</Txt>
+          <Txt>Categories:</Txt>
         </GameElement>
         <GameElement ID="CHANGE APPEARANCE">
-          <Txt>CHANGEZ L'APPARENCE</Txt>
+          <Txt>CHANGE APPEARANCE</Txt>
         </GameElement>
         <GameElement ID="Overview:">
-          <Txt>Vue générale:</Txt>
+          <Txt>Overview:</Txt>
         </GameElement>
         <GameElement ID="Lv. 100">
-          <Txt>Nv. 100</Txt>
+          <Txt>Lv. 100</Txt>
         </GameElement>
         <GameElement ID="Diamonds">
-          <Txt>Diamants</Txt>
+          <Txt>Diamonds</Txt>
         </GameElement>
         <GameElement ID="Buy Diamonds">
-          <Txt>Achetez diamants</Txt>
+          <Txt>Buy Diamonds</Txt>
         </GameElement>
         <GameElement ID="Diamonds are NOT an IG currency. They can only be used to buy appearance items.">
-          <Txt>Les diamants no sont pas de la richesse en jeu. Ils ne peuvent qu'être utilisé pour acheter des objets d'apparence</Txt>
+          <Txt>Diamonds are NOT an IG currency. They can only be used to buy appearance items.</Txt>
         </GameElement>
         <GameElement ID="buy">
-          <Txt>acheter</Txt>
+          <Txt>buy</Txt>
         </GameElement>
         <GameElement ID="10 Diamonds">
-          <Txt>10 Diamants</Txt>
+          <Txt>10 Diamonds</Txt>
         </GameElement>
         <GameElement ID="50 Diamonds">
-          <Txt>50 Diamants</Txt>
+          <Txt>50 Diamonds</Txt>
         </GameElement>
         <GameElement ID="100 Diamonds">
-          <Txt>100 Diamants</Txt>
+          <Txt>100 Diamonds</Txt>
         </GameElement>
         <GameElement ID="Character Edition">
-          <Txt>Édition du personnage</Txt>
+          <Txt>Character Edition</Txt>
         </GameElement>
         <GameElement ID="Chose new appearance">
-          <Txt>Choisizez une nouvelle apparence</Txt>
+          <Txt>Chose new appearance</Txt>
         </GameElement>
         <GameElement ID="Loot">
-          <Txt>Collecter</Txt>
+          <Txt>Loot</Txt>
         </GameElement>
         <GameElement ID="Gold">
-          <Txt>Or</Txt>
+          <Txt>Gold</Txt>
         </GameElement>
         <GameElement ID="Loot All">
-          <Txt>Tout collecter</Txt>
+          <Txt>Loot All</Txt>
         </GameElement>
         <GameElement ID="Player Trading">
-          <Txt>Échange</Txt>
+          <Txt>Player Trading</Txt>
         </GameElement>
         <GameElement ID="Player's Offer:">
-          <Txt>Offre du joueur:</Txt>
+          <Txt>Player's Offer:</Txt>
         </GameElement>
         <GameElement ID="My Offer:">
-          <Txt>Mon offre:</Txt>
+          <Txt>My Offer:</Txt>
         </GameElement>
         <GameElement ID="Enter amount...">
-          <Txt>Entrer quantitée...</Txt>
+          <Txt>Enter amount...</Txt>
         </GameElement>
         <GameElement ID="Lock">
-          <Txt>Verrouiler</Txt>
+          <Txt>Lock</Txt>
         </GameElement>
         <GameElement ID="Quests">
-          <Txt>Quêtes</Txt>
+          <Txt>Quests</Txt>
         </GameElement>
         <GameElement ID="NAME">
-          <Txt>NOM</Txt>
+          <Txt>NAME</Txt>
         </GameElement>
         <GameElement ID="rewards:">
-          <Txt>récompenses:</Txt>
+          <Txt>rewards:</Txt>
         </GameElement>
         <GameElement ID="Complete Quest">
-          <Txt>Completer la quète</Txt>
+          <Txt>Complete Quest</Txt>
         </GameElement>
         <GameElement ID="Chose a quest ">
-          <Txt>Choisir une quète </Txt>
+          <Txt>Chose a quest </Txt>
         </GameElement>
         <GameElement ID="Party">
-          <Txt>Groupe</Txt>
+          <Txt>Party</Txt>
         </GameElement>
         <GameElement ID="Exp. Auto Share">
-          <Txt>Partage Auto Exp.</Txt>
+          <Txt>Exp. Auto Share</Txt>
         </GameElement>
         <GameElement ID="Gold Auto Share">
-          <Txt>Partage Auto Or</Txt>
+          <Txt>Gold Auto Share</Txt>
         </GameElement>
         <GameElement ID="Ico">
           <Txt>Ico</Txt>
         </GameElement>
         <GameElement ID="Guild">
-          <Txt>Guilde</Txt>
+          <Txt>Guild</Txt>
         </GameElement>
         <GameElement ID="Faction Panel">
-          <Txt>Faction</Txt>
+          <Txt>Faction Panel</Txt>
         </GameElement>
         <GameElement ID="Supporter powers time left:">
           <Txt>Supporter powers time left:</Txt>
@@ -460,7 +460,7 @@ ou joignez la guilde d'un autre joueur !</Txt>
           <Txt>X Hour</Txt>
         </GameElement>
         <GameElement ID="Leading guild :">
-          <Txt>Guilde au pouvoir :</Txt>
+          <Txt>Leading guild :</Txt>
         </GameElement>
         <GameElement ID="Guild Power:">
           <Txt>Guild Power:</Txt>
@@ -469,7 +469,7 @@ ou joignez la guilde d'un autre joueur !</Txt>
           <Txt>Guild leader :</Txt>
         </GameElement>
         <GameElement ID="Time In power:">
-          <Txt>Temps au pouvoir :</Txt>
+          <Txt>Time In power:</Txt>
         </GameElement>
         <GameElement ID="Time">
           <Txt>Time</Txt>
@@ -529,17 +529,17 @@ This choice will have an impact on your guild, your power, your impact on this w
 &lt;color=#E00016&gt;Leaving your faction is possible, but is an arduous and slow task, so do act carefully!&lt;/color&gt;</Txt>
         </GameElement>
         <GameElement ID="Accept !">
-          <Txt>Accepter !</Txt>
+          <Txt>Accept !</Txt>
         </GameElement>
         <GameElement ID="You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;&#xA;to integrate a faction !">
           <Txt>You need to be level &lt;color=#F0E68C&gt;20&lt;/color&gt;
 to integrate a faction !</Txt>
         </GameElement>
         <GameElement ID="Enter the ARENA">
-          <Txt>Entrer dans l'ARÈNE</Txt>
+          <Txt>Enter the ARENA</Txt>
         </GameElement>
         <GameElement ID="Amount...">
-          <Txt>Quantitée...</Txt>
+          <Txt>Amount...</Txt>
         </GameElement>
         <GameElement ID="Min:">
           <Txt>Min:</Txt>
@@ -548,286 +548,286 @@ to integrate a faction !</Txt>
           <Txt>Max:</Txt>
         </GameElement>
         <GameElement ID="10 gold = 1 %&#xA;1000 = 100 %&#xA;Of the bet of killed players">
-          <Txt>10 or = 1 %
-1000 or = 100 %
-Du pari de joueurs tués</Txt>
+          <Txt>10 gold = 1 %
+1000 = 100 %
+Of the bet of killed players</Txt>
         </GameElement>
         <GameElement ID="! WELCOME TO THE ARENA !">
-          <Txt>! BIENVENUE DANS L'ARÈNE !</Txt>
+          <Txt>! WELCOME TO THE ARENA !</Txt>
         </GameElement>
         <GameElement ID="Chose your bet :">
-          <Txt>Choisissez votre pari :</Txt>
+          <Txt>Chose your bet :</Txt>
         </GameElement>
         <GameElement ID="Enter the arena">
-          <Txt>Entrer dans l'arène</Txt>
+          <Txt>Enter the arena</Txt>
         </GameElement>
         <GameElement ID="Npc Dialogue">
-          <Txt>Dialogue Pnj</Txt>
+          <Txt>Npc Dialogue</Txt>
         </GameElement>
         <GameElement ID="Welcome">
-          <Txt>Bienvenue</Txt>
+          <Txt>Welcome</Txt>
         </GameElement>
         <GameElement ID="Buy / Sell Items">
-          <Txt>Acheter / Vendre Objets</Txt>
+          <Txt>Buy / Sell Items</Txt>
         </GameElement>
         <GameElement ID="Revive">
-          <Txt>Revivre</Txt>
+          <Txt>Revive</Txt>
         </GameElement>
         <GameElement ID="Access your storage">
-          <Txt>Acceder a votre stockage</Txt>
+          <Txt>Access your storage</Txt>
         </GameElement>
         <GameElement ID="Repair">
-          <Txt>Réparation</Txt>
+          <Txt>Repair</Txt>
         </GameElement>
         <GameElement ID="Merge">
-          <Txt>Fusion</Txt>
+          <Txt>Merge</Txt>
         </GameElement>
         <GameElement ID="Leaderboard">
-          <Txt>Classement</Txt>
+          <Txt>Leaderboard</Txt>
         </GameElement>
         <GameElement ID="Daily Quest">
-          <Txt>Quête journalière</Txt>
+          <Txt>Daily Quest</Txt>
         </GameElement>
         <GameElement ID="Auction House">
-          <Txt>Maison D'échange</Txt>
+          <Txt>Auction House</Txt>
         </GameElement>
         <GameElement ID="Your storage">
-          <Txt>Votre stockage</Txt>
+          <Txt>Your storage</Txt>
         </GameElement>
         <GameElement ID="Storage">
-          <Txt>Stockage</Txt>
+          <Txt>Storage</Txt>
         </GameElement>
         <GameElement ID="Items for Sale:">
-          <Txt>Objets en vente :</Txt>
+          <Txt>Items for Sale:</Txt>
         </GameElement>
         <GameElement ID="Only show &#xA;usable Items">
-          <Txt>Montrer seulement
-objet utilisable</Txt>
+          <Txt>Only show 
+usable Items</Txt>
         </GameElement>
         <GameElement ID="Only show &#xA;buyable Items">
-          <Txt>Montrer seulement
-object achetable</Txt>
+          <Txt>Only show 
+buyable Items</Txt>
         </GameElement>
         <GameElement ID="Everything">
-          <Txt>Tout</Txt>
+          <Txt>Everything</Txt>
         </GameElement>
         <GameElement ID="Basic Items">
-          <Txt>Object basique</Txt>
+          <Txt>Basic Items</Txt>
         </GameElement>
         <GameElement ID="Equipments">
-          <Txt>Équipement</Txt>
+          <Txt>Equipments</Txt>
         </GameElement>
         <GameElement ID="Category :">
-          <Txt>Categorie :</Txt>
+          <Txt>Category :</Txt>
         </GameElement>
         <GameElement ID="Buy Item:">
-          <Txt>Acheter object :</Txt>
+          <Txt>Buy Item:</Txt>
         </GameElement>
         <GameElement ID="Enter text...">
-          <Txt>Entrez votre texte...</Txt>
+          <Txt>Enter text...</Txt>
         </GameElement>
         <GameElement ID="Buy!">
-          <Txt>Acheter!</Txt>
+          <Txt>Buy!</Txt>
         </GameElement>
         <GameElement ID="Sell Item:">
-          <Txt>Vendre object :</Txt>
+          <Txt>Sell Item:</Txt>
         </GameElement>
         <GameElement ID="Sell!">
-          <Txt>Vendre!</Txt>
+          <Txt>Sell!</Txt>
         </GameElement>
         <GameElement ID="Npc Guild Management">
-          <Txt>Control de guilde</Txt>
+          <Txt>Npc Guild Management</Txt>
         </GameElement>
         <GameElement ID="Create Guild :">
-          <Txt>Creer une guilde :</Txt>
+          <Txt>Create Guild :</Txt>
         </GameElement>
         <GameElement ID="Enter name...">
-          <Txt>Entrer le nom...</Txt>
+          <Txt>Enter name...</Txt>
         </GameElement>
         <GameElement ID="Create">
-          <Txt>Creer</Txt>
+          <Txt>Create</Txt>
         </GameElement>
         <GameElement ID="Price:">
-          <Txt>Prix:</Txt>
+          <Txt>Price:</Txt>
         </GameElement>
         <GameElement ID="Name:">
-          <Txt>Nom:</Txt>
+          <Txt>Name:</Txt>
         </GameElement>
         <GameElement ID="! Remember !&#xA;You can't create a guild if you already are in one !">
-          <Txt>! Souvenez vous !
-Vous ne pouvez pas rentrer dans une guild si vous faites déjà parti d'une !</Txt>
+          <Txt>! Remember !
+You can't create a guild if you already are in one !</Txt>
         </GameElement>
         <GameElement ID="Are you sure you want to terminate your guild ?">
-          <Txt>Vous êtes sûr que vous voulez détruire votre guilde ?</Txt>
+          <Txt>Are you sure you want to terminate your guild ?</Txt>
         </GameElement>
         <GameElement ID="Terminate Guild :">
-          <Txt>Detruire la guilde :</Txt>
+          <Txt>Terminate Guild :</Txt>
         </GameElement>
         <GameElement ID="Terminate Guild">
-          <Txt>Detruire la guilde</Txt>
+          <Txt>Terminate Guild</Txt>
         </GameElement>
         <GameElement ID="Npc Quests">
-          <Txt>Quête Pnj</Txt>
+          <Txt>Npc Quests</Txt>
         </GameElement>
         <GameElement ID="Button">
-          <Txt>Boutton</Txt>
+          <Txt>Button</Txt>
         </GameElement>
         <GameElement ID="see guild">
-          <Txt>Voir la guilde</Txt>
+          <Txt>see guild</Txt>
         </GameElement>
         <GameElement ID="Revive Pet">
-          <Txt>Revivre Animal</Txt>
+          <Txt>Revive Pet</Txt>
         </GameElement>
         <GameElement ID="Drag your summonable item in here to revive it!">
-          <Txt>Drag ton animal pour le faire revivre !</Txt>
+          <Txt>Drag your summonable item in here to revive it!</Txt>
         </GameElement>
         <GameElement ID="Repair your equipment">
-          <Txt>Réparer votre équipements</Txt>
+          <Txt>Repair your equipment</Txt>
         </GameElement>
         <GameElement ID="Item to repair :">
-          <Txt>Item à réparer :</Txt>
+          <Txt>Item to repair :</Txt>
         </GameElement>
         <GameElement ID="Merge equipment">
-          <Txt>Fusioner votre équipement</Txt>
+          <Txt>Merge equipment</Txt>
         </GameElement>
         <GameElement ID="Your Gold:">
-          <Txt>Votre or:</Txt>
+          <Txt>Your Gold:</Txt>
         </GameElement>
         <GameElement ID="Merge Chance :">
-          <Txt>Chance de fusion :</Txt>
+          <Txt>Merge Chance :</Txt>
         </GameElement>
         <GameElement ID="Reset">
           <Txt>Reset</Txt>
         </GameElement>
         <GameElement ID="MERGE SUCCESFULL !">
-          <Txt>FUSION RÉUSSIE !</Txt>
+          <Txt>MERGE SUCCESFULL !</Txt>
         </GameElement>
         <GameElement ID="+ X EQUIPMENT HEALTH">
           <Txt>+ X EQUIPMENT HEALTH</Txt>
         </GameElement>
         <GameElement ID="MERGE FAILED :(">
-          <Txt>FUSION RATÉE :(</Txt>
+          <Txt>MERGE FAILED :(</Txt>
         </GameElement>
         <GameElement ID="Npc Daily Quests">
-          <Txt>Pnj Quêtes journalières</Txt>
+          <Txt>Npc Daily Quests</Txt>
         </GameElement>
         <GameElement ID="Finding a new quest...">
-          <Txt>En recherche d'une nouvelle quête...</Txt>
+          <Txt>Finding a new quest...</Txt>
         </GameElement>
         <GameElement ID="You already received your daily quest :(">
-          <Txt>Vous avez déjà recue votre quête journalière :(</Txt>
+          <Txt>You already received your daily quest :(</Txt>
         </GameElement>
         <GameElement ID="Search:">
-          <Txt>Recherche:</Txt>
+          <Txt>Search:</Txt>
         </GameElement>
         <GameElement ID="Price">
-          <Txt>Prix</Txt>
+          <Txt>Price</Txt>
         </GameElement>
         <GameElement ID="Sell">
-          <Txt>Vendre</Txt>
+          <Txt>Sell</Txt>
         </GameElement>
         <GameElement ID="for ">
-          <Txt>pour </Txt>
+          <Txt>for </Txt>
         </GameElement>
         <GameElement ID="Amount">
-          <Txt>Quantitée</Txt>
+          <Txt>Amount</Txt>
         </GameElement>
         <GameElement ID="Message">
           <Txt>Message</Txt>
         </GameElement>
         <GameElement ID="Got it!">
-          <Txt>Bien Reçu !</Txt>
+          <Txt>Got it!</Txt>
         </GameElement>
         <GameElement ID="Guild Invitation">
-          <Txt>Invitation de guilde</Txt>
+          <Txt>Guild Invitation</Txt>
         </GameElement>
         <GameElement ID="Decline">
-          <Txt>Refuser</Txt>
+          <Txt>Decline</Txt>
         </GameElement>
         <GameElement ID="Has invited you to their Guild.">
-          <Txt>vous à invitez dans leur guilde..</Txt>
+          <Txt>Has invited you to their Guild.</Txt>
         </GameElement>
         <GameElement ID="Ignore all further requests from this user">
-          <Txt>Ignorer prochaines demandes de cet utilisateur</Txt>
+          <Txt>Ignore all further requests from this user</Txt>
         </GameElement>
         <GameElement ID="Player Trade Request">
-          <Txt>Offre d'échange</Txt>
+          <Txt>Player Trade Request</Txt>
         </GameElement>
         <GameElement ID="Wants to trade with you!">
-          <Txt>veut échanger avec vous !</Txt>
+          <Txt>Wants to trade with you!</Txt>
         </GameElement>
         <GameElement ID="Party Invitation">
-          <Txt>Invitation de groupe</Txt>
+          <Txt>Party Invitation</Txt>
         </GameElement>
         <GameElement ID="Has invited you to their Party.">
-          <Txt>vous à inviter dans leurs groupes.</Txt>
+          <Txt>Has invited you to their Party.</Txt>
         </GameElement>
         <GameElement ID="Respawn">
-          <Txt>Réapparaitre</Txt>
+          <Txt>Respawn</Txt>
         </GameElement>
         <GameElement ID="You Died :(">
-          <Txt>Vous êtes mort :(</Txt>
+          <Txt>You Died :(</Txt>
         </GameElement>
         <GameElement ID="Character Selection">
-          <Txt>Choix de personnage</Txt>
+          <Txt>Character Selection</Txt>
         </GameElement>
         <GameElement ID="Start">
-          <Txt>Commencer</Txt>
+          <Txt>Start</Txt>
         </GameElement>
         <GameElement ID="Delete">
-          <Txt>Supprimer</Txt>
+          <Txt>Delete</Txt>
         </GameElement>
         <GameElement ID="Quit">
-          <Txt>Partir</Txt>
+          <Txt>Quit</Txt>
         </GameElement>
         <GameElement ID="Character Creation">
-          <Txt>Création de personnage</Txt>
+          <Txt>Character Creation</Txt>
         </GameElement>
         <GameElement ID="Choose your name :">
-          <Txt>Choisissez votre nom :</Txt>
+          <Txt>Choose your name :</Txt>
         </GameElement>
         <GameElement ID="Choose your path :">
-          <Txt>Choose votre chemin :</Txt>
+          <Txt>Choose your path :</Txt>
         </GameElement>
         <GameElement ID="Warrior">
-          <Txt>Soldat</Txt>
+          <Txt>Warrior</Txt>
         </GameElement>
         <GameElement ID="Option A">
           <Txt>Option A</Txt>
         </GameElement>
         <GameElement ID="Choose your appearance :">
-          <Txt>Choisissez votre apparence :</Txt>
+          <Txt>Choose your appearance :</Txt>
         </GameElement>
         <GameElement ID="Confirm">
-          <Txt>Confirmer</Txt>
+          <Txt>Confirm</Txt>
         </GameElement>
         <GameElement ID="Are you sure that you want to delete this character ?">
-          <Txt>Vous êtes sûr que vous voulez supprimer ce personnage ?</Txt>
+          <Txt>Are you sure that you want to delete this character ?</Txt>
         </GameElement>
         <GameElement ID="Username:">
-          <Txt>Nom d'utilisateur:</Txt>
+          <Txt>Username:</Txt>
         </GameElement>
         <GameElement ID="Password:">
-          <Txt>Mot de passe:</Txt>
+          <Txt>Password:</Txt>
         </GameElement>
         <GameElement ID="Server:">
-          <Txt>Serveur:</Txt>
+          <Txt>Server:</Txt>
         </GameElement>
         <GameElement ID="Europe">
           <Txt>Europe</Txt>
         </GameElement>
         <GameElement ID="America">
-          <Txt>Amerique</Txt>
+          <Txt>America</Txt>
         </GameElement>
         <GameElement ID="Asia">
-          <Txt>Asie</Txt>
+          <Txt>Asia</Txt>
         </GameElement>
         <GameElement ID="Recover &#xA;password">
-          <Txt>Recupérer
-Mot de passe</Txt>
+          <Txt>Recover 
+password</Txt>
         </GameElement>
         <GameElement ID="Help me !">
-          <Txt>S.O.S. !</Txt>
+          <Txt>Help me !</Txt>
         </GameElement>
         <GameElement ID="Wiki">
           <Txt>Wiki</Txt>
@@ -837,15 +837,15 @@ Mot de passe</Txt>
 Start Playing !</Txt>
         </GameElement>
         <GameElement ID="Credit">
-          <Txt>Crédit</Txt>
+          <Txt>Credit</Txt>
         </GameElement>
         <GameElement ID="If you are new to the game&#xA;just enter your informations &amp;&#xA;click Start Playing !">
-          <Txt>Si vous êtes nouveau sur le jeu,
- entrez votre information,
- et appuyez sur "Commencer!"</Txt>
+          <Txt>If you are new to the game
+just enter your informations &amp;
+click Start Playing !</Txt>
         </GameElement>
         <GameElement ID="Settings">
-          <Txt>Paramètres</Txt>
+          <Txt>Settings</Txt>
         </GameElement>
         <GameElement ID="Panel UI Scaling is a *Work In Progress*. Only use for testing!">
           <Txt>Panel UI Scaling is a *Work In Progress*. Only use for testing!</Txt>
@@ -862,8 +862,8 @@ Start Playing !</Txt>
         <GameElement ID="SFX:">
           <Txt>SFX:</Txt>
         </GameElement>
-        <GameElement ID="Camera Zoom:">
-          <Txt>Camera Zoom:</Txt>
+        <GameElement ID="Camera size:">
+          <Txt>Camera size:</Txt>
         </GameElement>
         <GameElement ID="GUI Scale Factor:">
           <Txt>GUI Scale Factor:</Txt>
@@ -927,20 +927,20 @@ please enter the email you want to use :</Txt>
           <Txt>! Alert !</Txt>
         </GameElement>
         <GameElement ID="Hello Player !&#xA;If you like the game,&#xA; remember to give us a positive review on the playstore / gamejolt !&#xA;Most people only do it when the game don't work, or is bad, but reviews are extremly important for us, small devs.&#xA;Thanks you, and have fun playing !">
-          <Txt>Bonjour Joueur !
-Si vous appreciez le jeu,
- souvenez vous de nous laisser une review sur le Play Store &amp; sur Itch.io !
-La plupart des gens ne laissent des commentaires seulement quand le jeu ne marche pas, or ne leurs plaît pas, mais les commentaires sont très important pour nous, petit dévelopeur.
-Merci, et amusez vous bien !</Txt>
+          <Txt>Hello Player !
+If you like the game,
+ remember to give us a positive review on the playstore / gamejolt !
+Most people only do it when the game don't work, or is bad, but reviews are extremly important for us, small devs.
+Thanks you, and have fun playing !</Txt>
         </GameElement>
         <GameElement ID="No, thanks">
-          <Txt>Non, merçi</Txt>
+          <Txt>No, thanks</Txt>
         </GameElement>
         <GameElement ID="Take me to Google play">
-          <Txt>Allez sur GP</Txt>
+          <Txt>Take me to Google play</Txt>
         </GameElement>
         <GameElement ID="Chose Your Language:">
-          <Txt>Choisissez votre language :</Txt>
+          <Txt>Chose Your Language:</Txt>
         </GameElement>
         <GameElement ID="The translations in Elysium are community driven, and the work on them has just started!&#xA;As such, please don't expect them to be perfect (or close to that) yet! &#xA;Please come on discord, report any issue, and maybe even participate in translating the game!">
           <Txt>The translations in Elysium are community driven, and the work on them has just started!
@@ -948,23 +948,23 @@ As such, please don't expect them to be perfect (or close to that) yet!
 Please come on discord, report any issue, and maybe even participate in translating the game!</Txt>
         </GameElement>
         <GameElement ID="Select&#xA;nearest">
-          <Txt>Select.
-plus proche</Txt>
+          <Txt>Select
+nearest</Txt>
         </GameElement>
         <GameElement ID="SPEAK">
-          <Txt>PARLER</Txt>
+          <Txt>SPEAK</Txt>
         </GameElement>
         <GameElement ID="LOOT">
-          <Txt>COLLECTER</Txt>
+          <Txt>LOOT</Txt>
         </GameElement>
         <GameElement ID="Target">
-          <Txt>Objectif</Txt>
+          <Txt>Target</Txt>
         </GameElement>
         <GameElement ID="Attack">
-          <Txt>Attaque</Txt>
+          <Txt>Attack</Txt>
         </GameElement>
         <GameElement ID="Defend">
-          <Txt>Defendre</Txt>
+          <Txt>Defend</Txt>
         </GameElement>
         <GameElement ID="Chat">
           <Txt>Chat</Txt>

@@ -6,38 +6,20 @@
         <GameElement ID="Can't summon dead pet">
           <Txt>Can't summon dead pet</Txt>
         </GameElement>
-        <GameElement ID="Forge">
-          <Txt>Forge</Txt>
+        <GameElement ID="Normal Quests">
+          <Txt>Normal Quests</Txt>
         </GameElement>
-        <GameElement ID="Elysian Field">
-          <Txt>Elysian Field</Txt>
+        <GameElement ID="Daily Quests">
+          <Txt>Daily Quests</Txt>
         </GameElement>
-        <GameElement ID="Cave">
-          <Txt>Cave</Txt>
+        <GameElement ID="Faction Quests">
+          <Txt>Faction Quests</Txt>
         </GameElement>
-        <GameElement ID="Daedalus's Maze">
-          <Txt>Daedalus's Maze</Txt>
+        <GameElement ID="Time left to complete:">
+          <Txt>Time left to complete:</Txt>
         </GameElement>
-        <GameElement ID="Overworld">
-          <Txt>Overworld</Txt>
-        </GameElement>
-        <GameElement ID="Shopkeeper's house">
-          <Txt>Shopkeeper's house</Txt>
-        </GameElement>
-        <GameElement ID="The Crypt">
-          <Txt>The Crypt</Txt>
-        </GameElement>
-        <GameElement ID="Aeaea Island">
-          <Txt>Aeaea Island</Txt>
-        </GameElement>
-        <GameElement ID="The door is open!">
-          <Txt>The door is open!</Txt>
-        </GameElement>
-        <GameElement ID="Joystick Movement">
-          <Txt>Joystick Movement</Txt>
-        </GameElement>
-        <GameElement ID="Tap Movement">
-          <Txt>Tap Movement</Txt>
+        <GameElement ID="hours">
+          <Txt>hours</Txt>
         </GameElement>
         <GameElement ID="You have">
           <Txt>You have</Txt>
@@ -62,9 +44,6 @@
         </GameElement>
         <GameElement ID="days">
           <Txt>days</Txt>
-        </GameElement>
-        <GameElement ID="hours">
-          <Txt>hours</Txt>
         </GameElement>
         <GameElement ID="minutes">
           <Txt>minutes</Txt>
@@ -93,23 +72,20 @@
         <GameElement ID="players">
           <Txt>players</Txt>
         </GameElement>
-        <GameElement ID="Normal Quests">
-          <Txt>Normal Quests</Txt>
-        </GameElement>
-        <GameElement ID="Daily Quests">
-          <Txt>Daily Quests</Txt>
-        </GameElement>
-        <GameElement ID="Faction Quests">
-          <Txt>Faction Quests</Txt>
-        </GameElement>
-        <GameElement ID="Time left to complete:">
-          <Txt>Time left to complete:</Txt>
+        <GameElement ID="The door is open!">
+          <Txt>The door is open!</Txt>
         </GameElement>
         <GameElement ID="Register">
           <Txt>Register</Txt>
         </GameElement>
         <GameElement ID="Start Playing">
           <Txt>Start Playing</Txt>
+        </GameElement>
+        <GameElement ID="Joystick Movement">
+          <Txt>Joystick Movement</Txt>
+        </GameElement>
+        <GameElement ID="Tap Movement">
+          <Txt>Tap Movement</Txt>
         </GameElement>
         <GameElement ID="Not Started">
           <Txt>Not Started</Txt>
@@ -119,6 +95,30 @@
         </GameElement>
         <GameElement ID="Complete">
           <Txt>Complete</Txt>
+        </GameElement>
+        <GameElement ID="Forge">
+          <Txt>Forge</Txt>
+        </GameElement>
+        <GameElement ID="Elysian Field">
+          <Txt>Elysian Field</Txt>
+        </GameElement>
+        <GameElement ID="Cave">
+          <Txt>Cave</Txt>
+        </GameElement>
+        <GameElement ID="Daedalus's Maze">
+          <Txt>Daedalus's Maze</Txt>
+        </GameElement>
+        <GameElement ID="Overworld">
+          <Txt>Overworld</Txt>
+        </GameElement>
+        <GameElement ID="Shopkeeper's house">
+          <Txt>Shopkeeper's house</Txt>
+        </GameElement>
+        <GameElement ID="The Crypt">
+          <Txt>The Crypt</Txt>
+        </GameElement>
+        <GameElement ID="Aeaea Island">
+          <Txt>Aeaea Island</Txt>
         </GameElement>
       </listElements>
     </GameScene>
@@ -862,8 +862,8 @@ click Start Playing !</Txt>
         <GameElement ID="SFX:">
           <Txt>SFX:</Txt>
         </GameElement>
-        <GameElement ID="Camera Zoom:">
-          <Txt>Camera Zoom:</Txt>
+        <GameElement ID="Camera size:">
+          <Txt>Camera size:</Txt>
         </GameElement>
         <GameElement ID="GUI Scale Factor:">
           <Txt>GUI Scale Factor:</Txt>
