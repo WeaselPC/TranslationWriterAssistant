@@ -67,7 +67,7 @@
           <Txt>Schwierigkeit</Txt>
         </GameElement>
         <GameElement ID="This will require">
-          <Txt />
+          <Txt>Benötigte Dinge:</Txt>
         </GameElement>
         <GameElement ID="players">
           <Txt>Spieler</Txt>
@@ -115,7 +115,7 @@
           <Txt>Haus des Kaufmanns</Txt>
         </GameElement>
         <GameElement ID="The Crypt">
-          <Txt>Die Krypte</Txt>
+          <Txt>Die Krypta</Txt>
         </GameElement>
         <GameElement ID="Aeaea Island">
           <Txt>Aeaea Insel</Txt>
