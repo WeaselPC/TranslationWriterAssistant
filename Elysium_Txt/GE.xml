@@ -845,13 +845,14 @@ ein &amp; klicke Spielen  !</Txt>
           <Txt>Einstellungen</Txt>
         </GameElement>
         <GameElement ID="Panel UI Scaling is a *Work In Progress*. Only use for testing!">
-          <Txt>Panel UI Scaling is a *Work In Progress*. Only use for testing!</Txt>
+          <Txt>Größenveränderungen der Fenster UI ist *in arbeit*.
+Nur für Testzwecke verwenden!</Txt>
         </GameElement>
         <GameElement ID="Resolution:">
-          <Txt>Resolution:</Txt>
+          <Txt>Auflösung:</Txt>
         </GameElement>
         <GameElement ID="Fullscreen:">
-          <Txt>Fullscreen:</Txt>
+          <Txt>Vollbildschirm:</Txt>
         </GameElement>
         <GameElement ID="BGM:">
           <Txt>BGM:</Txt>
@@ -860,108 +861,112 @@ ein &amp; klicke Spielen  !</Txt>
           <Txt>SFX:</Txt>
         </GameElement>
         <GameElement ID="Camera size:">
-          <Txt>Camera size:</Txt>
+          <Txt>Kameragröße:</Txt>
         </GameElement>
         <GameElement ID="GUI Scale Factor:">
-          <Txt>GUI Scale Factor:</Txt>
+          <Txt>GUI Größenfaktor:</Txt>
         </GameElement>
         <GameElement ID="UI Scale Factor:">
-          <Txt>UI Scale Factor:</Txt>
+          <Txt>UI Größenfaktor:</Txt>
         </GameElement>
         <GameElement ID="Credits">
-          <Txt>Credits</Txt>
+          <Txt>Würdigungen</Txt>
         </GameElement>
         <GameElement ID="Art by :">
-          <Txt>Art by :</Txt>
+          <Txt>Grafisches von:</Txt>
         </GameElement>
         <GameElement ID="Music by :">
-          <Txt>Music by :</Txt>
+          <Txt>Musik von:</Txt>
         </GameElement>
         <GameElement ID="Networking API by :">
-          <Txt>Networking API by :</Txt>
+          <Txt>Networking API von :</Txt>
         </GameElement>
         <GameElement ID="Welcome to ELYSIUM ONLINE !">
-          <Txt>Welcome to ELYSIUM ONLINE !</Txt>
+          <Txt>Wilkommen zu ELYSIUM ONLINE !</Txt>
         </GameElement>
         <GameElement ID="Before starting, &#xA;please enter the email you want to use :">
-          <Txt>Before starting, 
-please enter the email you want to use :</Txt>
+          <Txt>Bevor du startest, gib bitte die E-Mail ein,
+die du verwenden möchtest :</Txt>
         </GameElement>
         <GameElement ID="Email :">
-          <Txt>Email :</Txt>
+          <Txt>E-Mail :</Txt>
         </GameElement>
         <GameElement ID="Enter email...">
-          <Txt>Enter email...</Txt>
+          <Txt>E-Mail eingeben...</Txt>
         </GameElement>
         <GameElement ID="Repeat Email :">
-          <Txt>Repeat Email :</Txt>
+          <Txt>E-Mail wiederholen :</Txt>
         </GameElement>
         <GameElement ID="If you already have an account,but wrote incorrectly your username, click on :">
-          <Txt>If you already have an account,but wrote incorrectly your username, click on :</Txt>
+          <Txt>Falls du bereits einen Account besitzt, aber deinen Benutzernamen vergessen hast, klicke hier :</Txt>
         </GameElement>
         <GameElement ID="RECOVER YOUR PASSWORD">
-          <Txt>RECOVER YOUR PASSWORD</Txt>
+          <Txt>PASSWORT ZURÜCKSETZEN</Txt>
         </GameElement>
         <GameElement ID="Email:">
-          <Txt>Email:</Txt>
+          <Txt>E-Mail:</Txt>
         </GameElement>
         <GameElement ID="Enter the email address to which you are registered">
-          <Txt>Enter the email address to which you are registered</Txt>
+          <Txt>Gib die E-Mail Adresse deines Accounts ein</Txt>
         </GameElement>
         <GameElement ID="Verification code:">
-          <Txt>Verification code:</Txt>
+          <Txt>Verifizierungscode:</Txt>
         </GameElement>
         <GameElement ID="You should have received a confirmation code in your mail, please enter it below.">
-          <Txt>You should have received a confirmation code in your mail, please enter it below.</Txt>
+          <Txt>Du solltest bereits einen Code in deinen E-Mails bekommen haben. Gib ihn bitte hier ein.</Txt>
         </GameElement>
         <GameElement ID="Enter password...">
-          <Txt>Enter password...</Txt>
+          <Txt>Passwort eingeben...</Txt>
         </GameElement>
         <GameElement ID="Enter your new password here :">
-          <Txt>Enter your new password here :</Txt>
+          <Txt>Gib dein neues Passwort hier ein :</Txt>
         </GameElement>
         <GameElement ID="! Alert !">
-          <Txt>! Alert !</Txt>
+          <Txt>! Achtung !</Txt>
         </GameElement>
         <GameElement ID="Hello Player !&#xA;If you like the game,&#xA; remember to give us a positive review on the playstore / gamejolt !&#xA;Most people only do it when the game don't work, or is bad, but reviews are extremly important for us, small devs.&#xA;Thanks you, and have fun playing !">
-          <Txt>Hello Player !
-If you like the game,
- remember to give us a positive review on the playstore / gamejolt !
-Most people only do it when the game don't work, or is bad, but reviews are extremly important for us, small devs.
-Thanks you, and have fun playing !</Txt>
+          <Txt>Hallo Spieler !
+Falls euch das Spiel gefällt,
+gebt uns bitte eine positive Bewertung auf dem Playstore oder Gamejolt !
+Oft gibt es nur Bewertungen, wenn etwas nicht Funktioniert, aber Bewertungen sind extrem wichtig für
+kleinere Developer.
+Vielen Dank, und viel Spaß beim Spielen !</Txt>
         </GameElement>
         <GameElement ID="No, thanks">
-          <Txt>No, thanks</Txt>
+          <Txt>Nein danke</Txt>
         </GameElement>
         <GameElement ID="Take me to Google play">
-          <Txt>Take me to Google play</Txt>
+          <Txt>Bewertung abgeben</Txt>
         </GameElement>
         <GameElement ID="Chose Your Language:">
-          <Txt>Chose Your Language:</Txt>
+          <Txt>Wähle deine Sprache:</Txt>
         </GameElement>
         <GameElement ID="The translations in Elysium are community driven, and the work on them has just started!&#xA;As such, please don't expect them to be perfect (or close to that) yet! &#xA;Please come on discord, report any issue, and maybe even participate in translating the game!">
-          <Txt>The translations in Elysium are community driven, and the work on them has just started!
-As such, please don't expect them to be perfect (or close to that) yet! 
-Please come on discord, report any issue, and maybe even participate in translating the game!</Txt>
+          <Txt>Die Übersetungen in Elysium Online sind von der Community betrieben, und sind erst seit kurzem in Arbeit.
+Es ist noch ein weiter Weg zur Perfektion, also habt bitte
+Geduld!
+Falls ihr bei den Übersetungen helfen wollt, oder einen
+Schreibfehler bemerkt habt, kommt bitte auf den Discord.
+Vielen Dank!</Txt>
         </GameElement>
         <GameElement ID="Select&#xA;nearest">
-          <Txt>Select
-nearest</Txt>
+          <Txt>Wähle
+nächstest</Txt>
         </GameElement>
         <GameElement ID="SPEAK">
-          <Txt>SPEAK</Txt>
+          <Txt>SPRICH</Txt>
         </GameElement>
         <GameElement ID="LOOT">
-          <Txt>LOOT</Txt>
+          <Txt>BEUTEN</Txt>
         </GameElement>
         <GameElement ID="Target">
-          <Txt>Target</Txt>
+          <Txt>Auswählen</Txt>
         </GameElement>
         <GameElement ID="Attack">
-          <Txt>Attack</Txt>
+          <Txt>Angreifen</Txt>
         </GameElement>
         <GameElement ID="Defend">
-          <Txt>Defend</Txt>
+          <Txt>Verteidigen</Txt>
         </GameElement>
         <GameElement ID="Chat">
           <Txt>Chat</Txt>
