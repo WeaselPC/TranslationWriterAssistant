@@ -1,4 +1,4 @@
 # TranslationWriterAssistant
-App supporting translation for every Weasel games
-
-If you want to help translating the supported games, go to [#How-To-Start](https://github.com/AntheusMG/TranslationWriterAssistant/wiki/How-to-start)!
+Ancient Unity project for text translation in Elysium. 
+Stays online for lts of Elysium & other projects that depend on it.
+Archived as it's bad, old, and outdated.
